@@ -14,6 +14,20 @@ B. Criterio específico 2: Comunica en forma escrita ideas y/o resultados con ob
 >> Bernuy Villanueva, Caroline Denisse: Se realizaron entrevistas y análisis de cada respuesta para evaluar la consistencia del diseño y las funcionalidades de la aplicación.
 Se creó y modificó la Landing Page.
 
+#
+
+1.1.2.	Perfiles de integrantes del equipo
+
+INTEGRANTE 1: 
+Mi nombre es Caroline Denisse Bernuy Villanueva, estudiante de la carrera de ingeniería de software. Tengo conocimientos previos en desarrollo web con frameworks como Vue, Angular, Express JS y Laravel. Diseño de base de datos SQL y creación de APIs. Mi perfil profesional está orientado al desarrollo de soluciones cloud.
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/a2e65b05-66b8-4e22-a555-4a62c8a0ea1d)
+
+
+INTEGRANTE 2: 
+INTEGRANTE 3: 
+INTEGRANTE 4: 
+INTEGRANTE 5: 
+
 
 #
 
@@ -87,6 +101,7 @@ o	Enlace:
 --Resumen/Transcripción
 
 Transportistas:
+
 a.	Primera entrevista:
 
 o	Entrevistado: Joakim Francia Murga 
