@@ -1,4 +1,20 @@
-# 
+STUDENT OUTCOME
+
+A. Criterio específico 1: Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.
+
+  TB1
+
+>> Bernuy Villanueva, Caroline Denisse: Para esta entrega se realizaron entrevistas para los usuarios con rol "trasportista" para determinar y mejorar las features. Se organizó con el grupo para el cumplimiento de fechas límites. 	Se realizó el PPT Keynote completo con la nueva información. Se modificó y mejoró la sección Style Guidelines, Landing Page UI Design, Web Application UX/UI Design, Web Applications Prototyping y Software Object-Oriented Design.
+
+
+B. Criterio específico 2: Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.
+
+  TB1
+
+>> Bernuy Villanueva, Caroline Denisse: Se realizaron entrevistas y análisis de cada respuesta para evaluar la consistencia del diseño y las funcionalidades de la aplicación.
+Se creó y modificó la Landing Page.
+
+#
 
 Capítulo II: Requirements Elicitation & Analysis
 
