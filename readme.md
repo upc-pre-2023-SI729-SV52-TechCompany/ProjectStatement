@@ -70,7 +70,8 @@ o	Enlace:
 --Resumen/Transcripción
 
 Transportistas:
-a.	Primera entrevista: 
+a.	Primera entrevista:
+
 o	Entrevistado: Joakim Francia Murga 
 o	Edad: 20 años
 o	Residencia: Jesús María
