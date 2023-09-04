@@ -14,6 +14,7 @@ B. Criterio específico 2: Comunica en forma escrita ideas y/o resultados con ob
 >> Bernuy Villanueva, Caroline Denisse: Se realizaron entrevistas y análisis de cada respuesta para evaluar la consistencia del diseño y las funcionalidades de la aplicación.
 Se creó y modificó la Landing Page.
 
+
 #
 
 Capítulo II: Requirements Elicitation & Analysis
