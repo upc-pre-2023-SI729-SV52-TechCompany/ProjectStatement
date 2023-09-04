@@ -1,12 +1,12 @@
 # 
 
-
-
 Capítulo II: Requirements Elicitation & Analysis
 
 ## Competidores
 
-Competitive Analysis Landscape
+**Competitive Analysis Landscape***
+
+
 
 ### Estrategias y tacticas frente a competidores
 
@@ -58,8 +58,6 @@ Preguntas al segmento cliente:
 
 ### Registro de entrevistas
 
-
-
 ### Analisis de entrevistas
 
 ![](img/entrevista-table.png)
@@ -75,8 +73,6 @@ User Persona Manuel Segura, usuario cliente
 User Persona Mario Gomez, usuario transportista
 
 ![](img/userpersona-conductor.png)
-
-
 
 ### User Task Matrix
 
@@ -114,8 +110,6 @@ User Journey Mapping del usuario transportista
 
 ![](img/journeymap2.png)
 
-
-
 ### Empathy Mapping
 
 Empathy Mapping del usuario cliente
@@ -125,8 +119,6 @@ Empathy Mapping del usuario cliente
 Empathy Mapping del usuario transportistas
 
 ![](img/empathytransportistas.png)
-
-
 
 ### As-is Scenario Mapping
 
