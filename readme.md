@@ -13,6 +13,7 @@ B. Criterio específico 2: Comunica en forma escrita ideas y/o resultados con ob
 ### *1.1.2. Perfiles de integrantes del equipo*
 
 INTEGRANTE 2: Mi nombre es Jean-Patrick Yemsi Sanchez Rios, estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Poseo conocimientos en C++, SQL, gestión de bases de datos, diseño gráfico y control de calidad. Estoy aprendiendo ahora mismo el uso de git en control de versiones, lenguajes de programación como Python, Javascript y css, y poseo conocimientos sobre marcos de trabajo ágiles.
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/57b8038d-da35-4648-92c0-da077429f2b9)
 
 
 ### Registro de entrevistas
@@ -24,7 +25,8 @@ INTEGRANTE 2: Mi nombre es Jean-Patrick Yemsi Sanchez Rios, estudiante de la car
 > #### **Resumen:**
 >En una conversación con Alex Ganoza Condori, un dedicado padre de familia de 34 años con una década de experiencia en el transporte de mercadería, se revelaron detalles interesantes sobre su vida laboral y sus aspiraciones para el futuro. Alex es propietario de su propio vehículo y su sustento depende de la distancia que recorre para entregar mercancía y la cantidad de trabajos que realiza.
 Durante la entrevista, Alex compartió que su experiencia en el transporte ha sido en gran parte sin mayores inconvenientes, ya que suele operar rutas tranquilas y tiene un historial de entregas exitosas. Sin embargo, está decidido a expandir su negocio y aumentar su clientela. Para lograrlo, está considerando utilizar un servicio web que le permita llegar a más clientes y brindarles una mayor sensación de confianza.
-Alex ve en la tecnología una oportunidad para crecer en su profesión y facilitar las transacciones con sus clientes. Con la implementación de un servicio web, espera tener acceso a un mercado más amplio y ganar la confianza de aquellos que buscan sus servicios de transporte.
+Alex ve en la tecnología una oportunidad para crecer en su profesión y facilitar las transacciones con sus clientes. Con la implementación de un servicio web, espera tener acceso a un mercado más amplio y ganar la confianza de aquellos que buscan sus servicios de transporte.![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/8dd8ba0a-94ad-4634-b601-0c931fab0d4b)
+
 > >
 
 
