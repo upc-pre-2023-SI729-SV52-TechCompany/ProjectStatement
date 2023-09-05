@@ -16,9 +16,7 @@ B. Criterio específico 2: Comunica en forma escrita ideas y/o resultados con ob
 Se creó y modificó la Landing Page.
 >> Tasayco Vilcamiza, Damaris: Para esta entrega se realizaró los user stories tanto del cliente como de la empresa, evaluando así las características más importantes posteriormente vistas en la aplicación.
 
-#
-
-1.1.2.	Perfiles de integrantes del equipo
+# 1.1.2.	Perfiles de integrantes del equipo
 
 ## INTEGRANTE 1: 
 Mi nombre es Caroline Denisse Bernuy Villanueva, estudiante de la carrera de ingeniería de software. Tengo conocimientos previos en desarrollo web con frameworks como Vue, Angular, Express JS y Laravel. Diseño de base de datos SQL y creación de APIs. Mi perfil profesional está orientado al desarrollo de soluciones cloud.
@@ -35,9 +33,7 @@ INTEGRANTE 4:
 INTEGRANTE 5: 
 
 
-#
-
-Capítulo II: Requirements Elicitation & Analysis
+# Capítulo II: Requirements Elicitation & Analysis
 
 ## Competidores
 
@@ -204,7 +200,7 @@ El "To-Be Scenario Mapping"es una estrategia empleada en el ámbito del análisi
 
 ![To be segmento ciudadano](/img/To-be_Ciudadano.png)
 
-**To Be Empresa (Empresa)**
+**To Be Empresa (Transportista)**
 
 ![To be segmento empresa](/img/To-be_Empresa.png)
 
