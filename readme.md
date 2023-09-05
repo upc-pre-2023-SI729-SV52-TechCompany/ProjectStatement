@@ -181,7 +181,7 @@ Mi nombre es Damaris Tasayco Vilcamiza. Actualmente estudio la carrera de Ingeni
 ![image](img/foto2.png)
 
 INTEGRANTE 4:
-Mi nombre es Mariela Martinez Carbajal, estudiante de ingeniería de software. Cuento con experiencia previa en programación en C++ y desarrollo web. Me caracterizo por mi capacidad de adaptación (resiliencia) y mi habilidad para comprender y conectar con los demás (empatía), lo que Considero que será una ventaja en la ejecución de este proyecto. ![image](/img/imagen04.jpg)
+Mi nombre es Mariela Martinez Carbajal, estudiante de ingeniería de software. Cuento con experiencia previa en programación en C++ y desarrollo web. Me caracterizo por mi capacidad de adaptación (resiliencia) y mi habilidad para comprender y conectar con los demás (empatía), lo que Considero que será una ventaja en la ejecución de este proyecto. ![image](/img/imagen04.png)
 
 INTEGRANTE 5: 
 
@@ -278,7 +278,7 @@ Susan tiene 25 años y se dedica a la comercializacion de prendas de vestir. Ell
 Ella intentó contactar servicios de transporte a través de contactos personales, como amigos, pero le resultó complicado. Ella necesita utilizar servicios de transporte de forma mensual, y esto le genera estrés, ya que no se siente seguro. Además, considera crucial conocer la marca y modelo del vehículo de transporte, ya que teme que un vehículo en mal estado o inapropiado pueda ocasionar retrasos en la entrega de su mercadería.
 Ella cree que usar una aplicación que ofrezca servicios de transporte podría aumentar su confianza. Le daría mayor seguridad y le permitiría tener una experiencia más satisfactoria.
 
-![image](/img/entrevista2.jpg)
+![image](/img/entrevista2.png)
 
 Transportistas:
 
