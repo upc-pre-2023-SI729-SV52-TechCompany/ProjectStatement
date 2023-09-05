@@ -181,7 +181,7 @@ Mi nombre es Damaris Tasayco Vilcamiza. Actualmente estudio la carrera de Ingeni
 ![image](img/foto2.png)
 
 INTEGRANTE 4:
-Mi nombre es Mariela Martinez Carbajal, estudiante de ingeniería de software. Cuento con experiencia previa en programación en C++ y desarrollo web. Me caracterizo por mi capacidad de adaptación (resiliencia) y mi habilidad para comprender y conectar con los demás (empatía), lo que Considero que será una ventaja en la ejecución de este proyecto. ![image](/img/foto4.jpg)
+Mi nombre es Mariela Martinez Carbajal, estudiante de ingeniería de software. Cuento con experiencia previa en programación en C++ y desarrollo web. Me caracterizo por mi capacidad de adaptación (resiliencia) y mi habilidad para comprender y conectar con los demás (empatía), lo que Considero que será una ventaja en la ejecución de este proyecto. ![image](/img/foto4.JPG)
 
 INTEGRANTE 5: 
 
