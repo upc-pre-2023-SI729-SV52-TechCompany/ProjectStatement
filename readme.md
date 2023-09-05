@@ -1330,5 +1330,3 @@ El desarrollo de entrevistas nos ayudó a esclarecer la visión del proyecto, en
 |Needfinding|Entrevista de cliente N°3 |https://web.microsoftstream.com/video/f5f2baff-9124-4466-ba6b-fd61ff039a2e|
 |Needfinding|Entrevista de transportista N°1 |https://youtu.be/IiZXr7LSXY0|
 |Needfinding|Entrevista de transportista N°2 |https://web.microsoftstream.com/video/f5f2baff-9124-4466-ba6b-fd61ff039a2e|
-
-
