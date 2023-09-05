@@ -27,7 +27,7 @@ Mi nombre es Caroline Denisse Bernuy Villanueva, estudiante de la carrera de ing
 
 ## INTEGRANTE 2: 
 Mi nombre es Damaris Tasayco Vilcamiza. Actualmente estudio la carrera de Ingeniería de Software, lo que puedo aportar a este proyecto es una combinación de habilidades técnicas en programación y desarrollo web, junto con mi capacidad de poder gestionar proyectos y trabajar de manera colaborativa.
-![image](/img/foto2.jpg)
+![image](/img/foto2.png)
 
 
 INTEGRANTE 3: 
