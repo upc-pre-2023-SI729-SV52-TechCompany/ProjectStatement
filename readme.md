@@ -105,15 +105,22 @@ Preguntas al segmento cliente:
 ### Registro de entrevistas
 
 Clientes:
-a.    Primera entrevista: 
-o    Entrevistado: 
-o    Edad:
-o    Residencia: 
-o    Ocupación: 
-o    Entrevistador: 
-o    Enlace: 
 
---Resumen/Transcripción
+a.	Primera entrevista: 
+
+o	Entrevistado: Priscila Tasayco
+
+o	Edad: 21
+
+o	Residencia: Lima
+
+o	Ocupación: Estudiante
+
+o	Entrevistador: Damaris Tasayco
+
+Priscila Tasayco cree que los servicios de transporte de mercadería en el Perú tienen margen de mejora, ya que para ella encontrar un servicio de traslado de productos puede ser complicado en ocasiones, especialmente cuando necesitas un proveedor confiable y asequible para entregas urgentes o de gran volumen. Finalmente ella cree que sería beneficioso que la aplicación proporcionara calificaciones y reseñas de otros usuarios sobre los proveedores de transporte, así como información detallada sobre tarifas y tiempos de entrega estimados. También sería útil si la aplicación permitiera rastrear la ubicación de la mercancía en tiempo real y ofreciera opciones de comunicación directa con el transportista.
+
+![image](/img/entrevista1.jpg)
 
 Transportistas:
 
