@@ -10,8 +10,6 @@ Por lo tanto, hemos creado FastPorte, una plataforma que conectará a transporti
 ## Visión: 
 “Posicionarnos como la opción principal de búsqueda de servicios de transporte para los ciudadanos peruanos, superando constantemente las expectativas de cada cliente". 
 
-# Perfiles de integrantes del equipo
-
 #Solution Profile
 Nuestra propuesta como equipo es "Tech Company", una aplicación diseñada para facilitar la conexión entre transportistas y personas que necesiten sus servicios. Este proceso se realizará de manera fácil, accesible y segura tanto para los clientes como para los transportistas. 
 ## Antecedentes y Problemática 
@@ -141,6 +139,7 @@ A. Criterio específico 1: Comunica oralmente sus ideas y/o resultados con objet
 
 > > Tasayco Vilcamiza, Damaris: Para esta entrega se realizó la entrevista para el usuario con el rol "Clientes". Asimismo, se dividió las partes correspondientes de manera eficiente y ordenada a cada integrante. Finalmente se realizó y mejoró el capítulo 3 los cuales incluyen: To-Be Scenario Mapping, User Stories, Impact Map y Product Backlog.
 
+> > Martinez Carbajal, Mariela: Para esta entrega se realizó el plateo el solution profile, Lean UX Process, Lean UX Problem Statements, demás herramientas influyeron al momento de identificar a nuestros segmentos objetivos y plantear una propuesta más solida y consistente. Asimismo se realizo la entrevista para el segmento objetivo con el rol "clientes".
 
 
 
@@ -155,6 +154,8 @@ B. Criterio específico 2: Comunica en forma escrita ideas y/o resultados con ob
 > > Del Aguila Villanueva, Andy Jack: En esta entrega, nuestro equipo se centraron en la comunicación escrita de sus ideas y resultados en el contexto del desarrollo de un proyecto de ingeniería. Lograron transmitir de manera clara y objetiva la conceptualización del proyecto, la identificación de un público diverso y la documentación detallada de los procesos y resultados. Se promovió la revisión y retroalimentación entre pares para mejorar la calidad de la comunicación escrita, y se utilizaron rúbricas específicas para evaluar la claridad, precisión y adaptación a diferentes niveles jerárquicos y especialidades. Esta práctica fortaleció sus habilidades de comunicación escrita en un contexto de ingeniería multidisciplinario y variado.
 
 > > Tasayco Vilcamiza, Damaris: Para esta entrega se realizaró los user stories tanto del cliente como de la empresa, evaluando así las características más importantes posteriormente vistas en la aplicación.
+
+> > Martinez Carbajal, Mariela: En esta entrega, nuestro equipo se centro en realizar las entrevistas, lo cual nos ayudaron  a mejorar aún más nuestra comunicación oral. Con respecto a las entrevistas, fueron de vital importancia pues pudimos modelar una mejor manera nuestra solución.
 
 # 1.1.2.    Perfiles de integrantes del equipo
 
@@ -175,7 +176,9 @@ INTEGRANTE 3:
 Mi nombre es Damaris Tasayco Vilcamiza. Actualmente estudio la carrera de Ingeniería de Software, lo que puedo aportar a este proyecto es una combinación de habilidades técnicas en programación y desarrollo web, junto con mi capacidad de poder gestionar proyectos y trabajar de manera colaborativa.
 ![image](/img/foto2.png)
 
-INTEGRANTE 4: 
+INTEGRANTE 4:
+Mi nombre es Mariela Martinez Carbajal, estudiante de ingeniería de software. Cuento con experiencia previa en programación en C++ y desarrollo web. Me caracterizo por mi capacidad de adaptación (resiliencia) y mi habilidad para comprender y conectar con los demás (empatía), lo que Considero que será una ventaja en la ejecución de este proyecto. ![image](/img/foto4.png)
+
 INTEGRANTE 5: 
 
 # Capítulo II: Requirements Elicitation & Analysis
