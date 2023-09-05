@@ -5,6 +5,7 @@ A. Criterio específico 1: Comunica oralmente sus ideas y/o resultados con objet
   TB1
 
 >> Bernuy Villanueva, Caroline Denisse: Para esta entrega se realizaron entrevistas para los usuarios con rol "trasportista" para determinar y mejorar las features. Se organizó con el grupo para el cumplimiento de fechas límites. 	Se realizó el PPT Keynote completo con la nueva información. Se modificó y mejoró la sección Style Guidelines, Landing Page UI Design, Web Application UX/UI Design, Web Applications Prototyping y Software Object-Oriented Design.
+
 >> Tasayco Vilcamiza, Damaris: Para esta entrega se realizó la entrevista para el usuario con el rol "Clientes". Asimismo, se dividió las partes correspondientes de manera eficiente y ordenada a cada integrante. Finalmente se realizó y mejoró el capítulo 3 los cuales incluyen: To-Be Scenario Mapping, User Stories, Impact Map y Product Backlog.
 
 
@@ -14,6 +15,7 @@ B. Criterio específico 2: Comunica en forma escrita ideas y/o resultados con ob
 
 >> Bernuy Villanueva, Caroline Denisse: Se realizaron entrevistas y análisis de cada respuesta para evaluar la consistencia del diseño y las funcionalidades de la aplicación.
 Se creó y modificó la Landing Page.
+
 >> Tasayco Vilcamiza, Damaris: Para esta entrega se realizaró los user stories tanto del cliente como de la empresa, evaluando así las características más importantes posteriormente vistas en la aplicación.
 
 # 1.1.2.	Perfiles de integrantes del equipo
