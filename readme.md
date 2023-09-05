@@ -1,4 +1,100 @@
 
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/576c7f52-91ec-439b-8f32-6350eb906883)
+
+# CONTENIDO
+
+Carátula
+
+Registro de Versiones del Informe 
+
+Project Report Collaboration Insights 
+
+Contenido Student Outcome 
+
+Capítulo I: Introducción 
+
+Capítulo II: Requirements Elicitation & Analysis. 
+
+Capítulo III: Requirements Specification. 
+
+Capítulo IV: Product Design.  
+
+Capítulo V: Product Implementation, Validation & Deployment. 
+
+5.1. Software Configuration Management. 
+
+5.1.1. Software Development Environment Configuration. 
+
+5.1.2. Source Code Management. 
+
+5.1.3. Source Code Style Guide & Conventions.
+
+5.1.4. Software Deployment Configuration. 
+
+5.2. Landing Page, Services & Applications Implementation. 
+
+5.2.1. Sprint 1 
+
+5.2.1.1. Sprint Planning 1. 
+
+5.2.1.2. Sprint Backlog 1. 
+
+5.2.1.3. Development Evidence for Sprint Review. 
+
+5.2.1.4. Testing Suite Evidence for Sprint Review. 
+
+5.2.1.5. Execution Evidence for Sprint Review. 
+
+5.2.1.6. Services Documentation Evidence for Sprint Review. 
+
+5.2.1.7. Software Deployment Evidence for Sprint Review. 
+
+5.2.1.8. Team Collaboration Insights during Sprint. Avance de Conclusiones, Bibliografía y Anexos. 
+
+# REGISTRO DE VERSIONES DEL INFORME
+
+| Versión |   Fecha    |     Autor   |                        Descripción de modificación                       |
+|---------|------------|-------------|--------------------------------------------------------------------------|
+|V 1.1    | 05/09/2023 | Redfly Team | Actualización Chapter I, II, III, IV y V. Nuevas entrevistas y análisis. |
+
+
+
+
+
+# STUDENT OUTCOME
+
+A. Criterio específico 1: Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.
+
+  TB1
+
+**Competitive Analysis Landscape**
+
+> > Bernuy Villanueva, Caroline Denisse: Para esta entrega se realizaron entrevistas para los usuarios con rol "trasportista" para determinar y mejorar las features. Se organizó con el grupo para el cumplimiento de fechas límites.     Se realizó el PPT Keynote completo con la nueva información. Se modificó y mejoró la sección Style Guidelines, Landing Page UI Design, Web Application UX/UI Design, Web Applications Prototyping y Software Object-Oriented Design.
+
+> > Sanchez Rios, Jean-Patrick: Para el presente entregable se realizó el análisis de competidores para ver dilucidar mejor la importancia de nuestro valor agregado.
+
+> > Del Aguila Villanueva, Andy Jack:En esta entrega, nuestro equipo realizaron una simulación de presentación de proyecto, comunicando de manera efectiva la idea de negocio de una plataforma, la identificación del segmento objetivo y los detalles de diseño y programación de la landing page. Se emplearon rúbricas de evaluación, sesiones de feedback entre pares y entrenamiento en técnicas de presentación para mejorar las habilidades de comunicación oral. Además, se incluyeron simulaciones de preguntas y respuestas de diferentes audiencias, lo que permitió a los estudiantes adaptarse a diversos niveles y especialidades, fortaleciendo sus capacidades de comunicación.
+
+> > Tasayco Vilcamiza, Damaris: Para esta entrega se realizó la entrevista para el usuario con el rol "Clientes". Asimismo, se dividió las partes correspondientes de manera eficiente y ordenada a cada integrante. Finalmente se realizó y mejoró el capítulo 3 los cuales incluyen: To-Be Scenario Mapping, User Stories, Impact Map y Product Backlog.
+
+> > Martinez Carbajal, Mariela: Para esta entrega se realizó el plateo el solution profile, Lean UX Process, Lean UX Problem Statements, demás herramientas influyeron al momento de identificar a nuestros segmentos objetivos y plantear una propuesta más solida y consistente. Asimismo se realizo la entrevista para el segmento objetivo con el rol "clientes".
+
+
+
+B. Criterio específico 2: Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.
+
+  TB1
+
+> > Bernuy Villanueva, Caroline Denisse: Se realizaron entrevistas y análisis de cada respuesta para evaluar la consistencia del diseño y las funcionalidades de la aplicación. Se creó, editó y desplegó la Landing Page del prodyto. Finalmente, se hizo las revisiones finales de la entrega, incluyendo modificación del informe, bibliografía y Aaexos.
+
+> > Sanchez Rios, Jean-Patrick: Realice entrevistas y análisis posteriores para el correcto procesamiento de la información con el fin de utilizarlo para mejorar la experiencia de usuaria de nuestra app
+
+> > Del Aguila Villanueva, Andy Jack: En esta entrega, nuestro equipo se centraron en la comunicación escrita de sus ideas y resultados en el contexto del desarrollo de un proyecto de ingeniería. Lograron transmitir de manera clara y objetiva la conceptualización del proyecto, la identificación de un público diverso y la documentación detallada de los procesos y resultados. Se promovió la revisión y retroalimentación entre pares para mejorar la calidad de la comunicación escrita, y se utilizaron rúbricas específicas para evaluar la claridad, precisión y adaptación a diferentes niveles jerárquicos y especialidades. Esta práctica fortaleció sus habilidades de comunicación escrita en un contexto de ingeniería multidisciplinario y variado.
+
+> > Tasayco Vilcamiza, Damaris: Para esta entrega se realizaró los user stories tanto del cliente como de la empresa, evaluando así las características más importantes posteriormente vistas en la aplicación.
+
+> > Martinez Carbajal, Mariela: En esta entrega, nuestro equipo se centro en realizar las entrevistas, lo cual nos ayudaron  a mejorar aún más nuestra comunicación oral. Con respecto a las entrevistas, fueron de vital importancia pues pudimos modelar una mejor manera nuestra solución.
+
 # 
 ## Startup Profile
 ### Descripción de la Start-up
@@ -34,6 +130,7 @@ INTEGRANTE 4:
 Mi nombre es Mariela Martinez Carbajal, estudiante de ingeniería de software. Cuento con experiencia previa en programación en C++ y desarrollo web. Me caracterizo por mi capacidad de adaptación (resiliencia) y mi habilidad para comprender y conectar con los demás (empatía), lo que Considero que será una ventaja en la ejecución de este proyecto. ![image](/img/imagen04.png)
 
 INTEGRANTE 5: 
+
 
 
 #Solution Profile
@@ -149,6 +246,7 @@ Creemos que, ver la reputación de los transportistas aumentará los contratos d
 
 
 
+
 STUDENT OUTCOME
 
 A. Criterio específico 1: Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.
@@ -182,6 +280,37 @@ B. Criterio específico 2: Comunica en forma escrita ideas y/o resultados con ob
 > > Tasayco Vilcamiza, Damaris: Para esta entrega se realizaró los user stories tanto del cliente como de la empresa, evaluando así las características más importantes posteriormente vistas en la aplicación.
 
 > > Martinez Carbajal, Mariela: En esta entrega, nuestro equipo se centro en realizar las entrevistas, lo cual nos ayudaron  a mejorar aún más nuestra comunicación oral. Con respecto a las entrevistas, fueron de vital importancia pues pudimos modelar una mejor manera nuestra solución.
+=======
+# 1.1.2.    Perfiles de integrantes del equipo
+
+## INTEGRANTE 1:
+
+Mi nombre es Caroline Denisse Bernuy Villanueva, estudiante de la carrera de ingeniería de software. Tengo conocimientos previos en desarrollo web con frameworks como Vue, Angular, Express JS y Laravel. Diseño de base de datos SQL y creación de APIs. Mi perfil profesional está orientado al desarrollo de soluciones cloud.
+
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/a2e65b05-66b8-4e22-a555-4a62c8a0ea1d)
+
+## INTEGRANTE 2: 
+Mi nombre es Andy Jack Del Aguila Villanueva, estudiante de la carrera de ingenieria de software. Cuento con conocimiento en front end y backend con angular y java springboot, Dart ,flutter, Kotlin , Swift, C++, VueJs. Me especializo en Arquitectura y Diseño de software, tanto para seguridad y sostinibilidad.
+
+<img src="https://media.licdn.com/dms/image/C4D03AQE00Bj_cktfxg/profile-displayphoto-shrink_800_800/0/1663084514160?e=1699488000&v=beta&t=eML-FVILp3VhoKnoQDI8QO-nZKxECgjrtSWavUHEFRM" title="" alt="1663084514160 (800×800) (licdn.com)" width="216">
+
+
+## INTEGRANTE 3:
+
+Mi nombre es Damaris Tasayco Vilcamiza. Actualmente estudio la carrera de Ingeniería de Software, lo que puedo aportar a este proyecto es una combinación de habilidades técnicas en programación y desarrollo web, junto con mi capacidad de poder gestionar proyectos y trabajar de manera colaborativa.
+
+![image](/img/foto2.png)
+
+## INTEGRANTE 4:
+Mi nombre es Mariela Martinez Carbajal, estudiante de ingeniería de software. Cuento con experiencia previa en programación en C++ y desarrollo web. Me caracterizo por mi capacidad de adaptación (resiliencia) y mi habilidad para comprender y conectar con los demás (empatía), lo que Considero que será una ventaja en la ejecución de este proyecto.
+
+![image](/img/imagen04.png)
+
+## INTEGRANTE 5:
+Mi nombre es Jean-Patrick Yemsi Sanchez Rios, estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Poseo conocimientos en C++, SQL, gestión de bases de datos, diseño gráfico y control de calidad. Estoy aprendiendo ahora mismo el uso de git en control de versiones, lenguajes de programación como Python, Javascript y css, y poseo conocimientos sobre marcos de trabajo ágiles.
+
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b15e406d-4f21-45b6-bf4a-39b7d0b460ad)
+
 
 
 # Capítulo II: Requirements Elicitation & Analysis
@@ -240,7 +369,7 @@ Preguntas al segmento cliente:
 
 ### Registro de entrevistas
 
-Clientes:
+#### Clientes:
 
 a.	Primera entrevista: 
 
@@ -258,9 +387,10 @@ o Enlace: https://www.youtube.com/watch?v=IX620AcwUyI
 
 Priscila Tasayco cree que los servicios de transporte de mercadería en el Perú tienen margen de mejora, ya que para ella encontrar un servicio de traslado de productos puede ser complicado en ocasiones, especialmente cuando necesitas un proveedor confiable y asequible para entregas urgentes o de gran volumen. Finalmente ella cree que sería beneficioso que la aplicación proporcionara calificaciones y reseñas de otros usuarios sobre los proveedores de transporte, así como información detallada sobre tarifas y tiempos de entrega estimados. También sería útil si la aplicación permitiera rastrear la ubicación de la mercancía en tiempo real y ofreciera opciones de comunicación directa con el transportista.
 
-![image](/img/entrevista1.jpg)
+![image](/img/entrevista1.png)
 
 b.	Segunda entrevista: 
+
 o	Entrevistado: Susan Vega
 
 o	Edad: 25
@@ -279,20 +409,58 @@ Ella cree que usar una aplicación que ofrezca servicios de transporte podría a
 
 ![image](/img/entrevista2.jpeg)
 
-Transportistas:
+c.	Tercera entrevista: 
+
+o	Entrevistado: Teodoro Geiner Liberato Villanueva
+
+o	Edad: 52 años
+
+o	Distrito: Huacho
+
+o	Enlace: https://web.microsoftstream.com/video/f5f2baff-9124-4466-ba6b-fd61ff039a2e
+
+El entrevistado es Teodoro Liberato y es un comerciante de productos por temporada el cual se dedica a vender productos que están más fuertes en el mercado (limones, manzanas, peras, etc.). Este trabajo lo realiza en el mercado de Huacho. Con respecto al transporte le parece el enemigo número uno para cumplir su labor porque es inestable el petróleo y el flete es caro, debido a eso consigue varios precios para sus productos.
+Con respecto al contacto de los transportistas, lo realiza regularmente. En caso de los limones los trae desde suyana con unos trailers que son contratados por una empresa externa.
+
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/74f18f6c-539e-4f81-b610-d8afad43c39c)
+
+
+#### Transportistas:
 
 a.    Primera entrevista:
 
 o    Entrevistado: Joakim Francia Murga 
+
 o    Edad: 20 años
+
 o    Residencia: Jesús María
+
 o    Ocupación: Estudiante
+
 o    Entrevistador: Caroline Bernuy
+
 o    Enlace: https://youtu.be/IiZXr7LSXY0
 
 Joakim Francia indica que trabaja en una empresa familiar de transporte de carga pesada. Su experiencia en el rubro es basta ya que la empresa ya tiene al menos 3 generaciones creciendo. Los problemas más comunes son el seguimiento de las cargas y organización de rutas largas puesto a que los choféres no tiene cómo afrontar situaciones adversas cuando están llevando las cargas y dependen estrictamente del su seguro para solucionar problemas mecánicos. Por un lado, el tiempo puede ser optimizado con una mejor organización y optimización del espacio de carga. Por otro lado, la opción de poder notificar inconvenientes directamente al cliente en tiempo real le sería muy útil.
 
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/567747e1-14fe-4ff3-998b-e11efbe2aef0)
+
+
+b.    Segunda entrevista:
+
+o    Entrevistado:  Alex Ganoza Condori
+
+o    Edad: 34 años
+
+o    Residencia:  Breña
+
+o    Ocupación: Transportista
+
+o    Entrevistador: Jean-Patrick Yemsi
+
+En una conversación con Alex Ganoza Condori, un dedicado padre de familia de 34 años con una década de experiencia en el transporte de mercadería, se revelaron detalles interesantes sobre su vida laboral y sus aspiraciones para el futuro. Alex es propietario de su propio vehículo y su sustento depende de la distancia que recorre para entregar mercancía y la cantidad de trabajos que realiza. Durante la entrevista, Alex compartió que su experiencia en el transporte ha sido en gran parte sin mayores inconvenientes, ya que suele operar rutas tranquilas y tiene un historial de entregas exitosas. Sin embargo, está decidido a expandir su negocio y aumentar su clientela. Para lograrlo, está considerando utilizar un servicio web que le permita llegar a más clientes y brindarles una mayor sensación de confianza. Alex ve en la tecnología una oportunidad para crecer en su profesión y facilitar las transacciones con sus clientes. Con la implementación de un servicio web, espera tener acceso a un mercado más amplio y ganar la confianza de aquellos que buscan sus servicios de transporte.
+
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/77073119-2475-46f8-a62f-3e871e152600)
 
 
 ### Analisis de entrevistas
@@ -367,7 +535,7 @@ As-is Scenario Mapping del usuario transportistas
 
 ![](img/asistransportistas.png)
 
-# Capítulo 3: Requirements Specification
+# Capítulo III: Requirements Specification
 
 El "To-Be Scenario Mapping"es una estrategia empleada en el ámbito del análisis y la administración empresarial con el fin de construir una representación visual del estado futuro deseado para un sistema, proceso, producto o cualquier otro elemento en una organización. A diferencia del "As-Is Scenario Mapping", que se concentra en el estado presente, mientras que el "To-Be Scenario Mapping" se enfoca en cómo se percibirá y funcionará la situación una vez que se hayan implementado las mejoras, modificaciones y optimizaciones planificadas mediante nuestra aplicación.
 
@@ -474,12 +642,12 @@ Para calificar el puntaje a los user stories se utilizó la escala de Fibonacci
 
 # 
 
-CAPÍTULO 4: PRODUCT UX/UI DESIGN
+# CAPÍTULO IV: PRODUCT UX/UI DESIGN
 
-4.1. Style Guidelines.
+## 4.1. Style Guidelines.
 En esta sección presentaremos las guías de estilo que usaremos para la realización de nuestros mock-ups, prototipo y aplicación web. 
 
-4.1.1 General Style Guidelines.
+### 4.1.1 General Style Guidelines.
 El estilo general de nuestro product UX/UI design contiene los siguientes colores los cuales se especifican con su código. Así como también la fuente utilizada es Inter.
 Figura 12
 Colores del General Style Guidelines 
@@ -489,7 +657,7 @@ Figura 13
 Tipo de fuente del General Style Guidelines
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/fc15f477-0290-48d3-9206-fd4164565811)
 
-4.1.2. Web Style Guidelines.
+### 4.1.2. Web Style Guidelines.
 
 Lo siguiente corresponde a la guía de estilos para la versión web. Se puede visualizar con mejor detalle en el siguiente link: https://www.figma.com/file/ipzddVXEuU5ee0IHE0hLyv/Open-source?node-id=50%3A2 
 
@@ -517,17 +685,17 @@ Figura 19
 Form Elements del General Style Guidelines
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/6e62155b-7f6d-4762-8675-ca5da1438216)
 
-4.2. Information Architecture.
+## 4.2. Information Architecture.
 En esta sección, mostramos el Information Architecture de FastPorte, donde se plantea la organización y estructura que se manejara para esta propuesta. Teniendo en cuenta, que nuestros usuarios puedan saber dónde se encuentra la información que se está buscando.
 Organization Systems.
 Enlace al diagrama: https://overflow.io/s/0OYSZACI
 
 Figura 20
 
-4.2.1. Organizations Systems de FastPorte 
+### 4.2.1. Organizations Systems de FastPorte 
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b8bd5533-e6ad-4cbb-861f-637444b6fb30)
 
-4.2.2. Labeling Systems.
+### 4.2.2. Labeling Systems.
 Para los sistemas de etiquetado, utilizamos el lenguaje formal que refleja la seriedad en la aplicación, buscando así la mejor experiencia para nuestros usuarios.
 Label transportista:
 
@@ -574,7 +742,7 @@ Al hacer click en este apartado el usuario podrá visualizar información de con
 Sección “Notification” 
 Dentro de esta sección el usuario podrá visualizar los mensajes, solicitudes, contratos y todo tipo de notificaciones entrantes.
 
-4.2.3. SEO Tags and Meta Tags
+### 4.2.3. SEO Tags and Meta Tags
 Figura 23
 SEO Tags and Meta Tags de FastPorte
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/a97aa671-9745-4abd-b139-813ca23f69a3)
@@ -606,23 +774,23 @@ Palabras clave sobre nuestra app, para aparecer en más resultados de búsqueda 
 Rating Tag
 Seleccionamos el rating mayor de 14 años, para tener mayor porcentaje de llegada. Además, al ser una app en la que el dinero es usado, no queremos personas insatisfechas por incentivar a niños gastar dinero sin su permiso.
 
-4.2.4. Searching Systems.
+### 4.2.4. Searching Systems.
 Link del diagrama para una mejor visualización: https://overflow.io/s/S73IBLXW 
 Figura 24
 Searching Systems de FlashPorte
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b910cf85-a4fc-42f4-9956-213896ca3c2d)
 
-4.2.5. Navigation Systems.
+### 4.2.5. Navigation Systems.
 Para el sistema de navegación nos enfocamos en la comodidad y eficiencia que se le debe brindar al usuario, ya que son puntos sumamente importantes, en el que tomamos como prioridad el tiempo en el que el usuario demora en realizar una tarea.
 Figura 25
 Navegation Systems de FastPorte
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/e3db0890-a4e8-42a0-8695-9d208c0e24e5)
 Link al diagrama: https://overflow.io/s/KMMHWVUC 
 
-4.3. Landing Page UI Design.
+## 4.3. Landing Page UI Design.
 En esta sección presentaremos el diseño de nuestra landing page empezando desde modelos de baja fidelidad como los wireframes y luego los mock-ups.
 
-4.3.1. Landing Page Wireframe.
+### 4.3.1. Landing Page Wireframe.
 Las imágenes a continuación pertenecen a los wireframes realizados para el landing page. Abrir el link para más detalles del wireframe y de la versión mobile web browser: https://www.figma.com/file/xEc3h40NLBBgX0yLjxhLq9/Wireframe-FastPorte?node-id=0%3A1 
 
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/bf8f2fa5-d41f-4f03-92cb-ccc03cd6a524)
@@ -634,7 +802,7 @@ Las imágenes a continuación pertenecen a los wireframes realizados para el lan
 
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/4e2c6d9a-6720-4354-b7cc-35822211656e)
 
-4.3.2. Landing Page Mock-up. 
+### 4.3.2. Landing Page Mock-up. 
 Las imágenes a continuación pertenecen a los mock-ups realizados para el landing page. Abrir el link para más detalles de la versión desktop y mobile web browser:
 
 Desktop:
@@ -645,10 +813,10 @@ Mobile Web Browser:
 Link al Figma:
 https://www.figma.com/file/caTTSknpD8t2zhfg16qAya/MockUp-FastPorte?node-id=0%3A1 
 
-4.4. Web Application UX/UI Design.
+## 4.4. Web Application UX/UI Design.
 En esta sección presentaremos el diseño de nuestra web application empezando desde modelos de baja fidelidad como los wireframes y luego los mock-ups.
 
-4.4.1. Web Application Wireframes.
+### 4.4.1. Web Application Wireframes.
 Las siguientes imágenes corresponden a los wireframes de la web applications. El link para visualizarlo a mayor detalle es el siguiente: https://www.figma.com/file/ipzddVXEuU5ee0IHE0hLyv/Open-source?node-id=0%3A1
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/d89def2d-7d9e-4f8b-b37b-6046b2c1febc)
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/814b3f46-0161-4607-86b2-c47d5580d287)
@@ -665,7 +833,7 @@ Las siguientes imágenes corresponden a los wireframes de la web applications. E
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b6bc04c6-fec5-4883-8c73-dc181be07242)
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/5092210f-41e5-4db3-ae9a-5c7a25cc47bd)
 
-4.4.2. Web Applications Wireflow Diagrams.
+### 4.4.2. Web Applications Wireflow Diagrams.
 Enlace a la herramienta Overflow: https://overflow.io/s/F52U2XO9 
 
 Interfaz de Entrada
@@ -746,7 +914,7 @@ Wireflow 18: Cerrar sesión
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/67731f96-2b57-4a3b-b81a-e7ba29ed24ce)
 Para Cerrar sesión presiona su nombre y aparece el botón “Log Out” el cual le permitirá cerrar su sesión.
 
-4.4.3. Web Applications Mock-ups.
+### 4.4.3. Web Applications Mock-ups.
 
 Las siguientes imágenes corresponden a los mock-ups de la web application. El link para visualizarlo a mayor detalle es el siguiente: 
 https://www.figma.com/file/ipzddVXEuU5ee0IHE0hLyv/Open-source?node-id=1%3A3 
@@ -762,7 +930,7 @@ https://www.figma.com/file/ipzddVXEuU5ee0IHE0hLyv/Open-source?node-id=1%3A3
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/de76c465-6789-46dc-8289-067e6a4af47f)
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/fcd36647-5c82-4c31-8a4f-a4e9e4b526ee)
 
-4.4.4. Web Applications User Flow Diagrams.
+### 4.4.4. Web Applications User Flow Diagrams.
 Link a la herramienta Overflow: https://overflow.io/s/85R4PMQT 
 
 Interfaz de Entrada
@@ -846,28 +1014,28 @@ Wireflow 18: Cerrar Sección
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/1e31dba6-8835-4acc-96b1-c77ba45bacee)
 Para Cerrar Sesión presiona su nombre y aparece el botón “Log Out” el cual le permitirá cerrar su sesión.
 
-4.5. Web Applications Prototyping.
+## 4.5. Web Applications Prototyping.
 El siguiente diagrama corresponde a una captura de pantalla del web application prototyping realizado en la herramienta online Figma. Para una mejor visualización es recomendable visitar el siguiente link: https://www.figma.com/proto/ipzddVXEuU5ee0IHE0hLyv/Open-source?page-id=1%3A3&node-id=98%3A392&viewport=328%2C118%2C0.07&scaling=min-zoom&starting-point-node-id=98%3A392 
 Figura 26
 Web Applications Prototyping
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/26e4bc79-b91d-40eb-8942-7ba628a8db22)
 Link del vídeo mostrando el prototipo: https://web.microsoftstream.com/video/8e734b84-b288-4595-89e7-5385d2618d73 
 
-4.6. Domain-Driven Software Architecture.
+## 4.6. Domain-Driven Software Architecture.
 En esta sección se presentará lo relacionado al domain-driven software architecture.
 
-4.6.1. Software Architecture Context Diagram.
+### 4.6.1. Software Architecture Context Diagram.
 
 Figura 27
 Context Diagram de FastPorte
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/577ea050-7f1e-4675-860d-90fe58f47d7d)
 
-4.6.2. Software Architecture Container Diagrams.
+### 4.6.2. Software Architecture Container Diagrams.
 Figura 28
 Container Diagram de FastPorte
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/2d7123f5-b315-46a8-869e-79d9573857cc)
 
-4.6.3. Software Architecture Components Diagrams.
+### 4.6.3. Software Architecture Components Diagrams.
 
 Figura 29
 Primer Component Diagram de FastPorte
@@ -885,10 +1053,10 @@ Figura 32
 Cuarto Component Diagram de FastPorte
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b45740bd-2217-4c8a-b74b-8fd22504fa82)
 
-4.7. Software Object-Oriented Design.
+## 4.7. Software Object-Oriented Design.
 En esta sección se presentará tanto el diagrama de clases, así como también el diccionario de clases.
 
-4.7.1.    Class Diagrams.
+### 4.7.1.    Class Diagrams.
 El siguiente diagrama corresponde al diagrama de clases diseñado para nuestra propuesta hecha en la herramienta online Lucidchart. Para una mejor visualización, entrar al siguiente link iniciando sesión: https://lucid.app/lucidchart/b7824e96-fd63-456e-9c91-2a7ef1b93414/edit?viewport_loc=-182%2C89%2C2415%2C1153%2C0_0&invitationId=inv_9d8768a2-34cb-46ba-82cc-7390628c81bf# 
 Link directo a la imagen: https://drive.google.com/file/d/1MYmc2zjEaQyPoKPaLiCF_B1eGtA8tMOI/view?usp=sharing 
 
@@ -896,7 +1064,7 @@ Figura 33
 Class Diagram de FastPorte
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b7aeda1e-b9ec-4dc1-8ad3-364d5351cdf3)
 
-4.7.2.    Class Dictionary.
+### 4.7.2.    Class Dictionary.
 En la siguiente tabla mostramos el diccionario de clases.
 Tabla 9
 Desarrollo del Class Dictionary
@@ -905,9 +1073,9 @@ Desarrollo del Class Dictionary
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/34b93762-8e3c-47ad-bbd6-43e9640243de)
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/c3889ab2-e000-4e93-bce1-82e37db07c6d)
 
-4.8.    Database Design.
+## 4.8.    Database Design.
 En esta sección se muestra diseño del diagrama de base de datos. 
-4.8.1.    Database Diagram
+### 4.8.1.    Database Diagram
 El diagrama fue realizado en Lucidchart y puede verse detalladamente en el siguiente link iniciando sesión:
 https://lucid.app/lucidchart/b7824e96-fd63-456e-9c91-2a7ef1b93414/edit?viewport_loc=-182%2C89%2C2415%2C1153%2C0_0&invitationId=inv_9d8768a2-34cb-46ba-82cc-7390628c81bf# 
 Link directo a la imagen: https://drive.google.com/file/d/1W_drbr_RC6Fkv_fqRiMI38z6sI2JyCQX/view?usp=sharing  
@@ -916,5 +1084,302 @@ Figura 34
 Database Diagram de FastPorte
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/f96de7b4-1ea0-48ba-9154-44ae954af30d)
 
+# CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
+## 5.1. Software Configuration Management.
+En esta parte del documento, se definirán las normas que asegurarán que mantengamos uniformidad durante todo el ciclo de vida de nuestro producto.
+### 5.1.1. Software Development Environment Configuration.
+
+**→Project Management**
+Se emplearon programas que posibilitan la comunicación instantánea y la colaboración en tiempo real, lo que permitió un trabajo eficiente. Entre las aplicaciones utilizadas se encuentran los servicios de Google (Drive, Documents y Meet), así como Microsoft Outlook. Además, para llevar un registro de versiones y crear repositorios ordenados, se utilizó GitHub, una plataforma que nos permite registrar de manera organizada cada uno de los cambios (commits) que hicimos y haremos.
+
+**→Product UX/UI Design**
+Se utilizaron Miro y UXPressia para llevar a cabo todo lo relacionado con la identificación de los segmentos objetivo y la creación de sus mapas. También se aprovecharon estas herramientas en línea para elaborar los mapas de escenarios "As-Is" y "To-Be". En cuanto a la creación de los bocetos, estructuras de alambre y diagramas de flujo, así como el prototipo de la aplicación web, se optó por Figma.
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/b7326022-8777-4dac-ae13-d11330ed6a69)
+
+**→Software Development**
+Para el desarrollo del software del presente proyecto se emplearon las siguientes herramientas:
+
+*Visual Studio Code:*Un editor de código fuente altamente personalizable y ampliamente utilizado para el desarrollo de software.
+
+*HTML:* Lenguaje de marcado utilizado para crear páginas web.
+
+*CSS:*Lenguaje utilizado para dar estilo y diseño a las páginas web creadas con HTML.
+
+*Bootstrap:*Un marco de diseño (framework) de código abierto que facilita la creación de sitios web y aplicaciones web con una apariencia atractiva y responsiva.
+
+*Javascript:* Un lenguaje de programación utilizado para agregar interactividad y dinamismo a las páginas web.
+
+*Git:*Un sistema de control de versiones ampliamente utilizado para rastrear cambios en el código fuente y colaborar en proyectos de desarrollo de software.
+
+**->Software Testing**
+Para evaluar nuestro landing page, utilizamos una extensión de Visual Studio Code llamada LiveShare. Esta extensión nos permite establecer un servidor local y, gracias a esto, podemos visualizar instantáneamente los cambios que realizamos en un navegador web, como Chrome o Brave. Además, para llevar a cabo las pruebas de aceptación, optamos por emplear el lenguaje Gherkin y posteriormente subiremos estos resultados al repositorio que mencionaremos más adelante.
+
+**->Software Deployment**
+Para publicar nuestra Landing Page, dado que se trata de una página estática con contenido que no requiere cambios frecuentes, hemos aprovechado GitHub Pages, una opción gratuita que nos permite actualizar el contenido cuando lo necesitemos.
+
+**->Software Documentation**
+En la documentación del software, al emplear HTML para crear la Landing Page, no es necesario generar diagramas de clases u otros tipos de representaciones gráficas. En su lugar, documentaremos el software mediante comentarios en los archivos HTML, siempre que sea necesario.
+
+### 5.1.2. Source Code Management.
+
+    *Main:*Contiene la version estable del proyecto
+
+*Develop:*Esta compuesto por todos los elementos que se han estado desarrollando, y cuando consideremos que está listo para avanzar al siguiente paso, se fusionará con la rama de lanzamiento (release).
+
+*Release:*Incluye código que será oficialmente publicado y servirá como un paso de precaución antes de avanzar a la rama principal (main).
+
+*Feature:*Cada integrante tendrá su propia rama individual donde cargarán las secciones de código asignadas para la funcionalidad específica. Cada una de estas ramas se integrará con la rama "develop".
+
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/c5c093b6-467e-4e20-a5b0-a54690fea091)
+
+Con respecto a la convención que tendrán los features branches será la siguiente:
+
+    feature _<nombre -integrante>/<pequeña-descripción>
+
+El nombramiento de los releases se hará teniendo en cuenta el versionamiento semántico 2.0.0 con el cual podremos saber cómo nombrar a nuestras diferentes versiones del proyecto. 
+
+Mayor.Menor.Parche
+
+El último dígito (Parche): se utilizará para indicar que hubo un parche. Solo para indicar que se arreglaron algunos errores mas no hubo cambios grandes.
+
+El segundo dígito (Menor): se cambiará (aumentará) para indicar que se añadieron características al proyecto que son compatibles con la versión pasada. Si este dígito aumenta, el número del parche empezará en 0.
+
+El primer dígito (Mayor): Aumentará cada vez que haya un cambio significativo y además cuando la versión actual no sea compatible con la versión anterior. 
+
+Por último, se hará uso de conventional commits para los textos de mensajes en cada commit que se realice. La estructura es la siguiente: 
+
+    <type>[optional scope]: <description>
+    [optional body]
+    [optional footer(s)]
+
+Sin embargo, para este trabajo, por lo general se usará la siguiente estructura que es similar a la mostrada anteriormente:
+
+    <type>: <description>
 
 
+
+### 5.1.3. Source Code Style Guide & Conventions.
+
+Se planea seguir las pautas y convenciones de codificación establecidas en varios recursos, como el HTML Style Guide and Coding Conventions, el Google HTML/CSS Style Guide, las Convenciones Gherkin para Especificaciones Legibles, la Guía de Estilo de Codificación de Angular, la Guía de Estilo de Codificación de Google para Java, la Guía de Estilo de TypeScript de Google y las características de Spring Boot.
+
+**Principales referencias y convenciones adoptadas o por adoptar en la realización del proyecto:**
+
+*HTML*
+Las convenciones en HTML son absolutamente necesarias para lograr obtener un código ordenado y consiste, de este modo se volvería más sencillo de comprender. 
+
+→	Declarar siempre el tipo de documento: Se debe declarar siempre el tipo de documento en la primera línea del código. 
+
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/369a6eaf-4b95-4b04-97ab-6657e01f113f)
+
+
+→	Usar nombres de elementos en minúscula: A pesar de que HTML permite mezclar mayúsculas y minúsculas, resulta ser una buena práctica escribir todos los elementos en minúsculas. Debido a que es más sencillo de escribir y es una práctica adoptada por la mayoría de los programadores. 
+
+Correcto : ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/8c24ee6a-16ca-4079-8818-4898135b10f8)
+
+Incorrecto : ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/d3cd1dde-e1ce-4dfb-ba75-bb323f56a87b)
+
+ 
+→	Cerrar todos los elementos HTML: No es necesario cerrar todos los elementos, existen excepciones como el elemento <p>. Sin embargo, al igual que la convención anterior resulta ser una buena práctica realizarlo.  
+
+→	Usar nombre de atributos en minúscula: Al igual que con los elementos HTML también permite mezclar mayúsculas y minúsculas, pero resulta ser una buena práctica escribir todos con minúscula. 
+
+→	Cifrar valores de atributos: Es una buena práctica insertar los valores de los atributos entre comillas. Y es obligatorio si el valor contiene espacios. 
+
+→	Utilizar HTTPS: Para imágenes y otros archivos multimedia, hojas de estilos y scripts, siempre y cuando se pueda usar. 
+
+*CSS*
+
+→	Utilizar nombres de clase significativos, que realmente reflejen el propósito del elemento.
+
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/1fc7295a-d4d8-4886-b354-de01de7d17ea)
+
+→	Utilizar un espacio, después de los dos puntos del nombre de una propiedad. 
+
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/75d83928-f127-4b14-966e-6ec5475327dd)
+
+ 
+→	Separar las reglas, mediante una línea en blanco. 
+
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/9bbd13e6-fd0e-4785-9192-436e1f1a29ee)
+
+*JAVASCRIPT*
+
+→	Utilizar camelCase para la nomenclatura: Es una práctica usada por la mayoría de los programadores en JavaScript.
+
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/5d3049da-8d32-4267-93b0-62923a51af05)
+
+→	Terminar siempre una declaración con punto y coma.
+
+→	Evitar las líneas largas, no deben sobrepasar los 80 caracteres.
+
+→	Para cargar JavaScript en HTML se debe usar una sintaxis sencilla y deben tener la extensión js.
+
+*TYPESCRIPT*
+
+→	Las importaciones del espacio de nombres del módulo son lowerCamelCase mientras que los archivos son snake_case.
+
+    import * as fooBar from './foo_bar';
+
+→	 Las llamadas al constructor deben usar paréntesis, incluso cuando no se pasan argumentos:
+
+    const x = nuevo Foo ; //Incorrecto
+    const x = nuevo Foo (); //Correcto
+    
+→	Utilice siempre const o let para declarar variables. Se usa const de forma predeterminada, a menos que sea necesario reasignar una variable. No usar var.
+
+*JAVA*
+
+→	Los modificadores de clase y miembro, cuando están presentes, aparecen en el orden recomendado por la especificación del lenguaje Java:
+
+    →	public protected private abstract default static final transient volatile synchronized native strictfp
+
+→	Se usa UpperCamelCase para el nombre de las clases.
+
+    ThisIsAnExample
+    thisIsNotAnExample
+
+→	Se usa lowerCamelCase para el nombre de los métodos y parámetros.
+
+    thisIsAnExample
+    ThisIsNotAnExample
+
+*GHERKIN*
+
+Para los archivos. feature se utilizó el lenguaje Gherkin.
+
+→	Contar con bloques discernibles de Given-When-Then, los cuales terminaran aplicando el And y un espacio, para tener una fácil detección de donde termina y donde comienza un bloque. 
+
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/d77b48a4-e224-4dfd-a3f3-e9314b76a6d2)
+
+→	Utilizar comillas simples, para poder identificar los parámetros en un paso.
+
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/e09bf117-0132-4768-8620-1524ba77d129)
+
+
+### 5.1.4. Software Deployment Configuration.
+
+
+Los pasos para llevar a cabo la implementación de la landing page son los siguientes:
+
+Comenzaremos creando un repositorio en GitHub destinado a almacenar los archivos HTML, CSS y JS necesarios. Cada miembro del equipo trabajará en su propia rama "feature" para desarrollar el código de la página. Una vez finalizada una funcionalidad, se realizará una fusión ("merge") con la rama "develop" para asegurarnos de que la landing page esté siempre actualizada.
+Posteriormente, configuraremos GitHub Pages para desplegar la landing page utilizando la rama "develop".
+Los pasos para realizar el despliegue en GitHub Pages son los siguientes:
+
+1.Crear un repositorio público en GitHub con un nombre que refleje el propósito del proyecto, como "landing-page".
+
+2.Establecer las ramas necesarias según el flujo de trabajo Gitflow, que incluye "main", "release", "develop", "features" y "hotfix".
+
+3.Navegar a la sección de "Configuración" y seleccionar la pestaña "Pages".
+
+4.En la sección de "Pages", se mostrará la configuración para GitHub Pages.
+
+5.En la opción "Rama" ("Branch"), seleccionar la rama desde la cual se realizará el despliegue de la landing page. En este caso, elegiremos la rama "develop" y dejaremos las demás configuraciones en sus valores por defecto.
+
+6.Se generará un enlace que permitirá acceder a la landing page y verá que cada cambio registrado en la rama "develop" se actualizará automáticamente en unos momentos.
+
+7.Cada miembro del equipo trabajará en sus propias ramas "feature" para desarrollar las funcionalidades.
+
+8.Se realizarán fusiones ("merges") adecuadas entre las ramas "develop" y las ramas "feature" para integrar las funcionalidades.
+
+9.Tras esperar unos minutos, los cambios se reflejarán en el enlace proporcionado por GitHub Pages.
+
+10.Ahora tendremos la landing page completamente desplegada junto con todas las implementaciones correspondientes.
+
+## 5.2. Landing Page, Services & Applications Implementation
+
+En esta parte, detallaremos y demostraremos cómo llevaremos a cabo la implementación, pruebas y despliegue de nuestro landing page, así como de los servicios web y la interfaz de usuario de la aplicación web en cada sprint. En cuanto al primer sprint, es importante mencionar que no tenemos como objetivo la creación de servicios web ni el desarrollo de la interfaz de usuario de la aplicación web. Por lo tanto, nuestra atención se centrará exclusivamente en describir el procedimiento de implementación del landing page.
+
+### 5.2.1. Sprint 1
+En el presente apartado se registro el avance del trabajo colaborativo.
+#### 5.2.1.1. Sprint Backlog 1.
+
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/2d16cf9d-a99d-4d17-9673-5bb60be054ab)
+
+#### 5.2.1.2. Development Evidence for Sprint Review.
+
+Los logros más destacados en la fase de implementación durante este primer sprint son la creación de la versión inicial de nuestro landing page. Además, hemos completado la elaboración de los wireframes, mock-ups y prototipos de nuestra aplicación web.
+
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/7d1e122b-2f6f-4afa-9677-9c861c57f19f)
+
+#### 5.2.1.3. Testing Suite Evidence for Sprint Review.
+
+En este contexto, hemos llevado a cabo las pruebas de aceptación utilizando el lenguaje Gherkin y las hemos cargado en el repositorio. Cada prueba de aceptación incluye la historia de usuario junto con los criterios de aceptación correspondientes para cada escenario propuesto. También hemos adjuntado capturas de las pruebas de aceptación realizadas y las hemos subido a GitHub.
+
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/ba01f9ff-e056-4b5c-b3db-c9458e10ebb7)
+
+#### 5.2.1.4. Execution Evidence for Sprint Review.
+
+Durante este primer sprint, en términos generales, hemos alcanzado los siguientes hitos:
+
+-Establecimiento de múltiples repositorios en GitHub.
+-Elaboración de los bocetos visuales del landing page.
+-Realización de la implementación del landing page.
+-Despliegue del landing page adaptable en GitHub Pages.
+-Diseño de maquetas visuales para las diversas pantallas del prototipo de la aplicación web.
+
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/02a1ca42-40ce-45fc-89b8-702f9aad0409)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/059153b5-e42d-4594-b639-6d2220ed8c15)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/e1f1b6b5-4a96-4b9e-b3b1-7a8e442f14ee)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/8186dfa4-5fbb-47c1-aa2b-23cfea896af1)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/f525bd0a-78a9-40a2-bc67-5d600778d348)
+
+
+#### 5.2.1.5. Services Documentation Evidence for Sprint Review
+Durante este primer sprint, no se ha llevado a cabo ninguna implementación relacionada con algún servicio, por lo tanto, esta sección carece de contenido.
+#### 5.2.1.6. Software Deployment Evidence for Sprint Review.
+
+Durante este primer sprint, hemos logrado completar de manera exitosa la creación de los wireframes, mock-ups y prototipo de nuestra aplicación web. Además, hemos llevado a cabo la elaboración y el despliegue de nuestra landing page, que está relacionada con el producto que estamos proponiendo, FastPorte. Para alcanzar este último objetivo, hemos realizado las siguientes acciones:
+
+-	Creación de un repositorio en GitHub con el nombre “landing-page”
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/256ea4f7-9df1-4757-950c-cd3c3a5fdca9)
+
+-	Crear las ramas correspondientes al gitflow 
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/4d816452-5acd-4bad-91d5-73aaf693fbb3)
+
+-	Nos dirigimos a “settings” en el apartado “Pages”
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/a9e60cab-81eb-4bb9-a173-f74d05b5def2)
+
+-	Configuramos de esta manera y le damos en “save”: 
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/c36cf071-b074-45ae-834a-dc9f428101b5)
+
+-	Nos generará un link y con ello ya tendremos desplegada la landing page. Con ese link podremos ver las actualizaciones hechas en la rama develop. 
+
+#### 5.2.1.7. Team Collaboration Insights during Sprint.
+
+Para la creación de nuestro prototipo, hemos empleado la herramienta Figma, que nos ha permitido concretar y visualizar lo que habíamos previsto previamente al elaborar los wireframes y mockups. En cuanto a la elaboración de los wireflows y el user flow, hemos confiado en la herramienta Overflow, tal como se especifica en el enunciado del proyecto, ya que es una herramienta sencilla que nos permite diagramar los flujos de la aplicación web para satisfacer cada objetivo del usuario.
+
+Por otro lado, para desarrollar el landing page, hemos utilizado un repositorio en GitHub. En colaboración con el flujo de trabajo Gitflow, hemos implementado de manera conjunta el desarrollo de nuestro landing page. Esto se refleja en los diversos commits realizados en el repositorio, los cuales pueden observarse en las capturas de pantalla adjuntas.
+
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/c07b8d96-8a95-4f86-8c1e-408919313091)
+
+En lo que respecta a la coordinación dentro del equipo, hemos establecido reuniones regulares para discutir las responsabilidades asignadas y distribuir las tareas correspondientes. Esta práctica nos ha permitido mejorar nuestra comunicación y tener una comprensión clara de las responsabilidades individuales. En lo que concierne al desarrollo del código, hemos adoptado un enfoque de segmentación, de manera que cada miembro del equipo se encarga de una sección específica del landing page. Esto facilita una transición fluida entre las partes, ya que el siguiente miembro en la secuencia puede continuar sin problemas. Por último, hemos fomentado un ambiente en el que compartimos ideas y resolvemos dudas de manera regular, lo que ha contribuido a mantenernos actualizados y en sintonía a lo largo del proceso de trabajo.
+
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/5cd24615-be4b-4f01-b16c-571370c34b67)
+
+
+## CONCLUSIONES:
+El desarrollo del Lean UX Process ayudó a comprender mejor y aplicar efectivamente las herramientas en nuestra propuesta enfocada al servicio de transportistas hacia clientes. De la misma forma, contribuyó a definir de manera más clara nuestro público objetivo o llámese segmento hacia el cual va enfocada nuestra aplicación. 
+
+Después de culminar la primera parte de nuestro proyecto e identificar los principales problemas que tienen nuestros segmentos, concluimos que sería de mucha ayuda el desarrollo de FastPorte con el fin de mejorar la experiencia de los transportistas al momento de ofrecer sus servicios, al igual que a los clientes sería una herramienta eficiente en su trabajo. 
+
+El desarrollo de entrevistas nos ayudó a esclarecer la visión del proyecto, en cuanto a la perspectiva del usuario y por lo tanto fue importante para mejorar los aspectos de las funcionalidades de la aplicación.
+
+# BIBLIOGRAFÍA
+
+>> El Peruano. (10 de setiembre del 2018). 4 aplicaciones para móviles que facilitan el transporte. El Peruano. Recuperado de https://elperuano.pe/noticia/70941-4-aplicaciones-para-moviles-que-facilitan-el-transporte [Consulta:  04 de setiembre de 2023].
+
+>> Instituto Peruano de Economía (IPE). (2019, abril). Más del 83% de trabajadores que están en el sector transportes son informales. Recuperado de  https://www.ipe.org.pe/portal/mas-del-83-de-trabajadores-que-estan-en-el-sector-transportes-son-informales/ [Consulta:  04 de setiembre de 2023]. 
+
+>> Lean, P. (2014, October 14). 5W+2H Técnica de análisis de problemas - Progressa Lean. Retrieved September 5, 2023, from Progressa Lean website: https://www.progressalean.com/5w2h-tecnica-de-analisis-de-problemas/
+
+>> ‌Markdown Guide. (2023). Retrieved September 5, 2023, from Markdownguide.org website: https://www.markdownguide.org/
+
+>> Front-End Style-Guides: Definition, Requirements, Component Checklist. (2016). Retrieved September 5, 2023, from Nielsen Norman Group website: https://www.nngroup.com/articles/front-end-style-guides/
+
+>> Design Systems 101. (2021). Retrieved September 5, 2023, from Nielsen Norman Group website: https://www.nngroup.com/articles/design-systems-101/
+
+>> What Are User Flows In UX Design? [Full Beginner’s Guide]. (2019, October 13). Retrieved September 5, 2023, from CareerFoundry website: https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/
+
+>> Fontané, G. (2022, December 15). Full List of Meta Tags, Why They Matter for SEO & How to Write Them. Retrieved September 5, 2023, from Hubspot.com website: https://blog.hubspot.com/marketing/meta-tags
+
+>> Google TypeScript Style Guide. (2015). Retrieved September 5, 2023, from Github.io website: https://google.github.io/styleguide/tsguide.html
