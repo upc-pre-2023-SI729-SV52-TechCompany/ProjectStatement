@@ -1,4 +1,100 @@
 
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/576c7f52-91ec-439b-8f32-6350eb906883)
+
+# CONTENIDO
+
+Carátula
+
+Registro de Versiones del Informe 
+
+Project Report Collaboration Insights 
+
+Contenido Student Outcome 
+
+Capítulo I: Introducción 
+
+Capítulo II: Requirements Elicitation & Analysis. 
+
+Capítulo III: Requirements Specification. 
+
+Capítulo IV: Product Design.  
+
+Capítulo V: Product Implementation, Validation & Deployment. 
+
+5.1. Software Configuration Management. 
+
+5.1.1. Software Development Environment Configuration. 
+
+5.1.2. Source Code Management. 
+
+5.1.3. Source Code Style Guide & Conventions.
+
+5.1.4. Software Deployment Configuration. 
+
+5.2. Landing Page, Services & Applications Implementation. 
+
+5.2.1. Sprint 1 
+
+5.2.1.1. Sprint Planning 1. 
+
+5.2.1.2. Sprint Backlog 1. 
+
+5.2.1.3. Development Evidence for Sprint Review. 
+
+5.2.1.4. Testing Suite Evidence for Sprint Review. 
+
+5.2.1.5. Execution Evidence for Sprint Review. 
+
+5.2.1.6. Services Documentation Evidence for Sprint Review. 
+
+5.2.1.7. Software Deployment Evidence for Sprint Review. 
+
+5.2.1.8. Team Collaboration Insights during Sprint. Avance de Conclusiones, Bibliografía y Anexos. 
+
+# REGISTRO DE VERSIONES DEL INFORME
+
+| Versión |   Fecha    |     Autor   |                        Descripción de modificación                       |
+|---------|------------|-------------|--------------------------------------------------------------------------|
+|V 1.1    | 05/09/2023 | Redfly Team | Actualización Chapter I, II, III, IV y V. Nuevas entrevistas y análisis. |
+
+
+
+
+
+# STUDENT OUTCOME
+
+A. Criterio específico 1: Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.
+
+  TB1
+
+**Competitive Analysis Landscape**
+
+> > Bernuy Villanueva, Caroline Denisse: Para esta entrega se realizaron entrevistas para los usuarios con rol "trasportista" para determinar y mejorar las features. Se organizó con el grupo para el cumplimiento de fechas límites.     Se realizó el PPT Keynote completo con la nueva información. Se modificó y mejoró la sección Style Guidelines, Landing Page UI Design, Web Application UX/UI Design, Web Applications Prototyping y Software Object-Oriented Design.
+
+> > Sanchez Rios, Jean-Patrick: Para el presente entregable se realizó el análisis de competidores para ver dilucidar mejor la importancia de nuestro valor agregado.
+
+> > Del Aguila Villanueva, Andy Jack:En esta entrega, nuestro equipo realizaron una simulación de presentación de proyecto, comunicando de manera efectiva la idea de negocio de una plataforma, la identificación del segmento objetivo y los detalles de diseño y programación de la landing page. Se emplearon rúbricas de evaluación, sesiones de feedback entre pares y entrenamiento en técnicas de presentación para mejorar las habilidades de comunicación oral. Además, se incluyeron simulaciones de preguntas y respuestas de diferentes audiencias, lo que permitió a los estudiantes adaptarse a diversos niveles y especialidades, fortaleciendo sus capacidades de comunicación.
+
+> > Tasayco Vilcamiza, Damaris: Para esta entrega se realizó la entrevista para el usuario con el rol "Clientes". Asimismo, se dividió las partes correspondientes de manera eficiente y ordenada a cada integrante. Finalmente se realizó y mejoró el capítulo 3 los cuales incluyen: To-Be Scenario Mapping, User Stories, Impact Map y Product Backlog.
+
+> > Martinez Carbajal, Mariela: Para esta entrega se realizó el plateo el solution profile, Lean UX Process, Lean UX Problem Statements, demás herramientas influyeron al momento de identificar a nuestros segmentos objetivos y plantear una propuesta más solida y consistente. Asimismo se realizo la entrevista para el segmento objetivo con el rol "clientes".
+
+
+
+B. Criterio específico 2: Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.
+
+  TB1
+
+> > Bernuy Villanueva, Caroline Denisse: Se realizaron entrevistas y análisis de cada respuesta para evaluar la consistencia del diseño y las funcionalidades de la aplicación. Se creó, editó y desplegó la Landing Page del prodyto. Finalmente, se hizo las revisiones finales de la entrega, incluyendo modificación del informe, bibliografía y Aaexos.
+
+> > Sanchez Rios, Jean-Patrick: Realice entrevistas y análisis posteriores para el correcto procesamiento de la información con el fin de utilizarlo para mejorar la experiencia de usuaria de nuestra app
+
+> > Del Aguila Villanueva, Andy Jack: En esta entrega, nuestro equipo se centraron en la comunicación escrita de sus ideas y resultados en el contexto del desarrollo de un proyecto de ingeniería. Lograron transmitir de manera clara y objetiva la conceptualización del proyecto, la identificación de un público diverso y la documentación detallada de los procesos y resultados. Se promovió la revisión y retroalimentación entre pares para mejorar la calidad de la comunicación escrita, y se utilizaron rúbricas específicas para evaluar la claridad, precisión y adaptación a diferentes niveles jerárquicos y especialidades. Esta práctica fortaleció sus habilidades de comunicación escrita en un contexto de ingeniería multidisciplinario y variado.
+
+> > Tasayco Vilcamiza, Damaris: Para esta entrega se realizaró los user stories tanto del cliente como de la empresa, evaluando así las características más importantes posteriormente vistas en la aplicación.
+
+> > Martinez Carbajal, Mariela: En esta entrega, nuestro equipo se centro en realizar las entrevistas, lo cual nos ayudaron  a mejorar aún más nuestra comunicación oral. Con respecto a las entrevistas, fueron de vital importancia pues pudimos modelar una mejor manera nuestra solución.
+
 # 
 ## Startup Profile
 ### Descripción de la Start-up
@@ -9,10 +105,6 @@ Por lo tanto, hemos creado FastPorte, una plataforma que conectará a transporti
 “Simplificar, garantizar y mejorar la seguridad en la búsqueda de servicios de transporte en cualquier sector para todos los usuarios”. 
 ## Visión: 
 “Posicionarnos como la opción principal de búsqueda de servicios de transporte para los ciudadanos peruanos, superando constantemente las expectativas de cada cliente". 
-
-
-# Perfiles de integrantes del equipo
-
 
 #Solution Profile
 Nuestra propuesta como equipo es "Tech Company", una aplicación diseñada para facilitar la conexión entre transportistas y personas que necesiten sus servicios. Este proceso se realizará de manera fácil, accesible y segura tanto para los clientes como para los transportistas. 
@@ -127,40 +219,6 @@ Creemos que, ver la reputación de los transportistas aumentará los contratos d
 
 
 
-STUDENT OUTCOME
-
-A. Criterio específico 1: Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.
-
-  TB1
-
-
-**Competitive Analysis Landscape**
-
-> > Bernuy Villanueva, Caroline Denisse: Para esta entrega se realizaron entrevistas para los usuarios con rol "trasportista" para determinar y mejorar las features. Se organizó con el grupo para el cumplimiento de fechas límites.     Se realizó el PPT Keynote completo con la nueva información. Se modificó y mejoró la sección Style Guidelines, Landing Page UI Design, Web Application UX/UI Design, Web Applications Prototyping y Software Object-Oriented Design.
-
-
-> > Del Aguila Villanueva, Andy Jack:En esta entrega, nuestro equipo realizaron una simulación de presentación de proyecto, comunicando de manera efectiva la idea de negocio de una plataforma, la identificación del segmento objetivo y los detalles de diseño y programación de la landing page. Se emplearon rúbricas de evaluación, sesiones de feedback entre pares y entrenamiento en técnicas de presentación para mejorar las habilidades de comunicación oral. Además, se incluyeron simulaciones de preguntas y respuestas de diferentes audiencias, lo que permitió a los estudiantes adaptarse a diversos niveles y especialidades, fortaleciendo sus capacidades de comunicación.
-
-> > Tasayco Vilcamiza, Damaris: Para esta entrega se realizó la entrevista para el usuario con el rol "Clientes". Asimismo, se dividió las partes correspondientes de manera eficiente y ordenada a cada integrante. Finalmente se realizó y mejoró el capítulo 3 los cuales incluyen: To-Be Scenario Mapping, User Stories, Impact Map y Product Backlog.
-
-> > Martinez Carbajal, Mariela: Para esta entrega se realizó el plateo el solution profile, Lean UX Process, Lean UX Problem Statements, demás herramientas influyeron al momento de identificar a nuestros segmentos objetivos y plantear una propuesta más solida y consistente. Asimismo se realizo la entrevista para el segmento objetivo con el rol "clientes".
-
-
-
-B. Criterio específico 2: Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.
-
-  TB1
-
-> > Bernuy Villanueva, Caroline Denisse: Se realizaron entrevistas y análisis de cada respuesta para evaluar la consistencia del diseño y las funcionalidades de la aplicación.
-> > Se creó y modificó la Landing Page.
-
-
-> > Del Aguila Villanueva, Andy Jack: En esta entrega, nuestro equipo se centraron en la comunicación escrita de sus ideas y resultados en el contexto del desarrollo de un proyecto de ingeniería. Lograron transmitir de manera clara y objetiva la conceptualización del proyecto, la identificación de un público diverso y la documentación detallada de los procesos y resultados. Se promovió la revisión y retroalimentación entre pares para mejorar la calidad de la comunicación escrita, y se utilizaron rúbricas específicas para evaluar la claridad, precisión y adaptación a diferentes niveles jerárquicos y especialidades. Esta práctica fortaleció sus habilidades de comunicación escrita en un contexto de ingeniería multidisciplinario y variado.
-
-> > Tasayco Vilcamiza, Damaris: Para esta entrega se realizaró los user stories tanto del cliente como de la empresa, evaluando así las características más importantes posteriormente vistas en la aplicación.
-
-> > Martinez Carbajal, Mariela: En esta entrega, nuestro equipo se centro en realizar las entrevistas, lo cual nos ayudaron  a mejorar aún más nuestra comunicación oral. Con respecto a las entrevistas, fueron de vital importancia pues pudimos modelar una mejor manera nuestra solución.
-
 # 1.1.2.    Perfiles de integrantes del equipo
 
 ## INTEGRANTE 1:
@@ -169,21 +227,28 @@ Mi nombre es Caroline Denisse Bernuy Villanueva, estudiante de la carrera de ing
 
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/a2e65b05-66b8-4e22-a555-4a62c8a0ea1d)
 
-INTEGRANTE 2: 
+## INTEGRANTE 2: 
 Mi nombre es Andy Jack Del Aguila Villanueva, estudiante de la carrera de ingenieria de software. Cuento con conocimiento en front end y backend con angular y java springboot, Dart ,flutter, Kotlin , Swift, C++, VueJs. Me especializo en Arquitectura y Diseño de software, tanto para seguridad y sostinibilidad.
 
 <img src="https://media.licdn.com/dms/image/C4D03AQE00Bj_cktfxg/profile-displayphoto-shrink_800_800/0/1663084514160?e=1699488000&v=beta&t=eML-FVILp3VhoKnoQDI8QO-nZKxECgjrtSWavUHEFRM" title="" alt="1663084514160 (800×800) (licdn.com)" width="216">
 
 
-INTEGRANTE 3:
+## INTEGRANTE 3:
 
 Mi nombre es Damaris Tasayco Vilcamiza. Actualmente estudio la carrera de Ingeniería de Software, lo que puedo aportar a este proyecto es una combinación de habilidades técnicas en programación y desarrollo web, junto con mi capacidad de poder gestionar proyectos y trabajar de manera colaborativa.
+
 ![image](/img/foto2.png)
 
-INTEGRANTE 4:
-Mi nombre es Mariela Martinez Carbajal, estudiante de ingeniería de software. Cuento con experiencia previa en programación en C++ y desarrollo web. Me caracterizo por mi capacidad de adaptación (resiliencia) y mi habilidad para comprender y conectar con los demás (empatía), lo que Considero que será una ventaja en la ejecución de este proyecto. ![image](/img/imagen04.png)
+## INTEGRANTE 4:
+Mi nombre es Mariela Martinez Carbajal, estudiante de ingeniería de software. Cuento con experiencia previa en programación en C++ y desarrollo web. Me caracterizo por mi capacidad de adaptación (resiliencia) y mi habilidad para comprender y conectar con los demás (empatía), lo que Considero que será una ventaja en la ejecución de este proyecto.
 
-INTEGRANTE 5: 
+![image](/img/imagen04.png)
+
+## INTEGRANTE 5:
+Mi nombre es Jean-Patrick Yemsi Sanchez Rios, estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Poseo conocimientos en C++, SQL, gestión de bases de datos, diseño gráfico y control de calidad. Estoy aprendiendo ahora mismo el uso de git en control de versiones, lenguajes de programación como Python, Javascript y css, y poseo conocimientos sobre marcos de trabajo ágiles.
+
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b15e406d-4f21-45b6-bf4a-39b7d0b460ad)
+
 
 # Capítulo II: Requirements Elicitation & Analysis
 
@@ -241,7 +306,7 @@ Preguntas al segmento cliente:
 
 ### Registro de entrevistas
 
-Clientes:
+#### Clientes:
 
 a.	Primera entrevista: 
 
@@ -262,6 +327,7 @@ Priscila Tasayco cree que los servicios de transporte de mercadería en el Perú
 ![image](/img/entrevista1.png)
 
 b.	Segunda entrevista: 
+
 o	Entrevistado: Susan Vega
 
 o	Edad: 25
@@ -280,20 +346,58 @@ Ella cree que usar una aplicación que ofrezca servicios de transporte podría a
 
 ![image](/img/entrevista2.jpeg)
 
-Transportistas:
+c.	Tercera entrevista: 
+
+o	Entrevistado: Teodoro Geiner Liberato Villanueva
+
+o	Edad: 52 años
+
+o	Distrito: Huacho
+
+o	Enlace: https://web.microsoftstream.com/video/f5f2baff-9124-4466-ba6b-fd61ff039a2e
+
+El entrevistado es Teodoro Liberato y es un comerciante de productos por temporada el cual se dedica a vender productos que están más fuertes en el mercado (limones, manzanas, peras, etc.). Este trabajo lo realiza en el mercado de Huacho. Con respecto al transporte le parece el enemigo número uno para cumplir su labor porque es inestable el petróleo y el flete es caro, debido a eso consigue varios precios para sus productos.
+Con respecto al contacto de los transportistas, lo realiza regularmente. En caso de los limones los trae desde suyana con unos trailers que son contratados por una empresa externa.
+
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/74f18f6c-539e-4f81-b610-d8afad43c39c)
+
+
+#### Transportistas:
 
 a.    Primera entrevista:
 
 o    Entrevistado: Joakim Francia Murga 
+
 o    Edad: 20 años
+
 o    Residencia: Jesús María
+
 o    Ocupación: Estudiante
+
 o    Entrevistador: Caroline Bernuy
+
 o    Enlace: https://youtu.be/IiZXr7LSXY0
 
 Joakim Francia indica que trabaja en una empresa familiar de transporte de carga pesada. Su experiencia en el rubro es basta ya que la empresa ya tiene al menos 3 generaciones creciendo. Los problemas más comunes son el seguimiento de las cargas y organización de rutas largas puesto a que los choféres no tiene cómo afrontar situaciones adversas cuando están llevando las cargas y dependen estrictamente del su seguro para solucionar problemas mecánicos. Por un lado, el tiempo puede ser optimizado con una mejor organización y optimización del espacio de carga. Por otro lado, la opción de poder notificar inconvenientes directamente al cliente en tiempo real le sería muy útil.
 
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/567747e1-14fe-4ff3-998b-e11efbe2aef0)
+
+
+b.    Segunda entrevista:
+
+o    Entrevistado:  Alex Ganoza Condori
+
+o    Edad: 34 años
+
+o    Residencia:  Breña
+
+o    Ocupación: Transportista
+
+o    Entrevistador: Jean-Patrick Yemsi
+
+En una conversación con Alex Ganoza Condori, un dedicado padre de familia de 34 años con una década de experiencia en el transporte de mercadería, se revelaron detalles interesantes sobre su vida laboral y sus aspiraciones para el futuro. Alex es propietario de su propio vehículo y su sustento depende de la distancia que recorre para entregar mercancía y la cantidad de trabajos que realiza. Durante la entrevista, Alex compartió que su experiencia en el transporte ha sido en gran parte sin mayores inconvenientes, ya que suele operar rutas tranquilas y tiene un historial de entregas exitosas. Sin embargo, está decidido a expandir su negocio y aumentar su clientela. Para lograrlo, está considerando utilizar un servicio web que le permita llegar a más clientes y brindarles una mayor sensación de confianza. Alex ve en la tecnología una oportunidad para crecer en su profesión y facilitar las transacciones con sus clientes. Con la implementación de un servicio web, espera tener acceso a un mercado más amplio y ganar la confianza de aquellos que buscan sus servicios de transporte.
+
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/77073119-2475-46f8-a62f-3e871e152600)
 
 
 ### Analisis de entrevistas
@@ -368,7 +472,7 @@ As-is Scenario Mapping del usuario transportistas
 
 ![](img/asistransportistas.png)
 
-# Capítulo 3: Requirements Specification
+# Capítulo III: Requirements Specification
 
 El "To-Be Scenario Mapping"es una estrategia empleada en el ámbito del análisis y la administración empresarial con el fin de construir una representación visual del estado futuro deseado para un sistema, proceso, producto o cualquier otro elemento en una organización. A diferencia del "As-Is Scenario Mapping", que se concentra en el estado presente, mientras que el "To-Be Scenario Mapping" se enfoca en cómo se percibirá y funcionará la situación una vez que se hayan implementado las mejoras, modificaciones y optimizaciones planificadas mediante nuestra aplicación.
 
@@ -475,12 +579,12 @@ Para calificar el puntaje a los user stories se utilizó la escala de Fibonacci
 
 # 
 
-CAPÍTULO 4: PRODUCT UX/UI DESIGN
+# CAPÍTULO IV: PRODUCT UX/UI DESIGN
 
-4.1. Style Guidelines.
+## 4.1. Style Guidelines.
 En esta sección presentaremos las guías de estilo que usaremos para la realización de nuestros mock-ups, prototipo y aplicación web. 
 
-4.1.1 General Style Guidelines.
+### 4.1.1 General Style Guidelines.
 El estilo general de nuestro product UX/UI design contiene los siguientes colores los cuales se especifican con su código. Así como también la fuente utilizada es Inter.
 Figura 12
 Colores del General Style Guidelines 
@@ -490,7 +594,7 @@ Figura 13
 Tipo de fuente del General Style Guidelines
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/fc15f477-0290-48d3-9206-fd4164565811)
 
-4.1.2. Web Style Guidelines.
+### 4.1.2. Web Style Guidelines.
 
 Lo siguiente corresponde a la guía de estilos para la versión web. Se puede visualizar con mejor detalle en el siguiente link: https://www.figma.com/file/ipzddVXEuU5ee0IHE0hLyv/Open-source?node-id=50%3A2 
 
@@ -518,17 +622,17 @@ Figura 19
 Form Elements del General Style Guidelines
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/6e62155b-7f6d-4762-8675-ca5da1438216)
 
-4.2. Information Architecture.
+## 4.2. Information Architecture.
 En esta sección, mostramos el Information Architecture de FastPorte, donde se plantea la organización y estructura que se manejara para esta propuesta. Teniendo en cuenta, que nuestros usuarios puedan saber dónde se encuentra la información que se está buscando.
 Organization Systems.
 Enlace al diagrama: https://overflow.io/s/0OYSZACI
 
 Figura 20
 
-4.2.1. Organizations Systems de FastPorte 
+### 4.2.1. Organizations Systems de FastPorte 
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b8bd5533-e6ad-4cbb-861f-637444b6fb30)
 
-4.2.2. Labeling Systems.
+### 4.2.2. Labeling Systems.
 Para los sistemas de etiquetado, utilizamos el lenguaje formal que refleja la seriedad en la aplicación, buscando así la mejor experiencia para nuestros usuarios.
 Label transportista:
 
@@ -575,7 +679,7 @@ Al hacer click en este apartado el usuario podrá visualizar información de con
 Sección “Notification” 
 Dentro de esta sección el usuario podrá visualizar los mensajes, solicitudes, contratos y todo tipo de notificaciones entrantes.
 
-4.2.3. SEO Tags and Meta Tags
+### 4.2.3. SEO Tags and Meta Tags
 Figura 23
 SEO Tags and Meta Tags de FastPorte
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/a97aa671-9745-4abd-b139-813ca23f69a3)
@@ -607,23 +711,23 @@ Palabras clave sobre nuestra app, para aparecer en más resultados de búsqueda 
 Rating Tag
 Seleccionamos el rating mayor de 14 años, para tener mayor porcentaje de llegada. Además, al ser una app en la que el dinero es usado, no queremos personas insatisfechas por incentivar a niños gastar dinero sin su permiso.
 
-4.2.4. Searching Systems.
+### 4.2.4. Searching Systems.
 Link del diagrama para una mejor visualización: https://overflow.io/s/S73IBLXW 
 Figura 24
 Searching Systems de FlashPorte
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b910cf85-a4fc-42f4-9956-213896ca3c2d)
 
-4.2.5. Navigation Systems.
+### 4.2.5. Navigation Systems.
 Para el sistema de navegación nos enfocamos en la comodidad y eficiencia que se le debe brindar al usuario, ya que son puntos sumamente importantes, en el que tomamos como prioridad el tiempo en el que el usuario demora en realizar una tarea.
 Figura 25
 Navegation Systems de FastPorte
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/e3db0890-a4e8-42a0-8695-9d208c0e24e5)
 Link al diagrama: https://overflow.io/s/KMMHWVUC 
 
-4.3. Landing Page UI Design.
+## 4.3. Landing Page UI Design.
 En esta sección presentaremos el diseño de nuestra landing page empezando desde modelos de baja fidelidad como los wireframes y luego los mock-ups.
 
-4.3.1. Landing Page Wireframe.
+### 4.3.1. Landing Page Wireframe.
 Las imágenes a continuación pertenecen a los wireframes realizados para el landing page. Abrir el link para más detalles del wireframe y de la versión mobile web browser: https://www.figma.com/file/xEc3h40NLBBgX0yLjxhLq9/Wireframe-FastPorte?node-id=0%3A1 
 
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/bf8f2fa5-d41f-4f03-92cb-ccc03cd6a524)
@@ -635,7 +739,7 @@ Las imágenes a continuación pertenecen a los wireframes realizados para el lan
 
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/4e2c6d9a-6720-4354-b7cc-35822211656e)
 
-4.3.2. Landing Page Mock-up. 
+### 4.3.2. Landing Page Mock-up. 
 Las imágenes a continuación pertenecen a los mock-ups realizados para el landing page. Abrir el link para más detalles de la versión desktop y mobile web browser:
 
 Desktop:
@@ -646,10 +750,10 @@ Mobile Web Browser:
 Link al Figma:
 https://www.figma.com/file/caTTSknpD8t2zhfg16qAya/MockUp-FastPorte?node-id=0%3A1 
 
-4.4. Web Application UX/UI Design.
+## 4.4. Web Application UX/UI Design.
 En esta sección presentaremos el diseño de nuestra web application empezando desde modelos de baja fidelidad como los wireframes y luego los mock-ups.
 
-4.4.1. Web Application Wireframes.
+### 4.4.1. Web Application Wireframes.
 Las siguientes imágenes corresponden a los wireframes de la web applications. El link para visualizarlo a mayor detalle es el siguiente: https://www.figma.com/file/ipzddVXEuU5ee0IHE0hLyv/Open-source?node-id=0%3A1
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/d89def2d-7d9e-4f8b-b37b-6046b2c1febc)
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/814b3f46-0161-4607-86b2-c47d5580d287)
@@ -666,7 +770,7 @@ Las siguientes imágenes corresponden a los wireframes de la web applications. E
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b6bc04c6-fec5-4883-8c73-dc181be07242)
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/5092210f-41e5-4db3-ae9a-5c7a25cc47bd)
 
-4.4.2. Web Applications Wireflow Diagrams.
+### 4.4.2. Web Applications Wireflow Diagrams.
 Enlace a la herramienta Overflow: https://overflow.io/s/F52U2XO9 
 
 Interfaz de Entrada
@@ -747,7 +851,7 @@ Wireflow 18: Cerrar sesión
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/67731f96-2b57-4a3b-b81a-e7ba29ed24ce)
 Para Cerrar sesión presiona su nombre y aparece el botón “Log Out” el cual le permitirá cerrar su sesión.
 
-4.4.3. Web Applications Mock-ups.
+### 4.4.3. Web Applications Mock-ups.
 
 Las siguientes imágenes corresponden a los mock-ups de la web application. El link para visualizarlo a mayor detalle es el siguiente: 
 https://www.figma.com/file/ipzddVXEuU5ee0IHE0hLyv/Open-source?node-id=1%3A3 
@@ -763,7 +867,7 @@ https://www.figma.com/file/ipzddVXEuU5ee0IHE0hLyv/Open-source?node-id=1%3A3
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/de76c465-6789-46dc-8289-067e6a4af47f)
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/fcd36647-5c82-4c31-8a4f-a4e9e4b526ee)
 
-4.4.4. Web Applications User Flow Diagrams.
+### 4.4.4. Web Applications User Flow Diagrams.
 Link a la herramienta Overflow: https://overflow.io/s/85R4PMQT 
 
 Interfaz de Entrada
@@ -847,28 +951,28 @@ Wireflow 18: Cerrar Sección
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/1e31dba6-8835-4acc-96b1-c77ba45bacee)
 Para Cerrar Sesión presiona su nombre y aparece el botón “Log Out” el cual le permitirá cerrar su sesión.
 
-4.5. Web Applications Prototyping.
+## 4.5. Web Applications Prototyping.
 El siguiente diagrama corresponde a una captura de pantalla del web application prototyping realizado en la herramienta online Figma. Para una mejor visualización es recomendable visitar el siguiente link: https://www.figma.com/proto/ipzddVXEuU5ee0IHE0hLyv/Open-source?page-id=1%3A3&node-id=98%3A392&viewport=328%2C118%2C0.07&scaling=min-zoom&starting-point-node-id=98%3A392 
 Figura 26
 Web Applications Prototyping
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/26e4bc79-b91d-40eb-8942-7ba628a8db22)
 Link del vídeo mostrando el prototipo: https://web.microsoftstream.com/video/8e734b84-b288-4595-89e7-5385d2618d73 
 
-4.6. Domain-Driven Software Architecture.
+## 4.6. Domain-Driven Software Architecture.
 En esta sección se presentará lo relacionado al domain-driven software architecture.
 
-4.6.1. Software Architecture Context Diagram.
+### 4.6.1. Software Architecture Context Diagram.
 
 Figura 27
 Context Diagram de FastPorte
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/577ea050-7f1e-4675-860d-90fe58f47d7d)
 
-4.6.2. Software Architecture Container Diagrams.
+### 4.6.2. Software Architecture Container Diagrams.
 Figura 28
 Container Diagram de FastPorte
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/2d7123f5-b315-46a8-869e-79d9573857cc)
 
-4.6.3. Software Architecture Components Diagrams.
+### 4.6.3. Software Architecture Components Diagrams.
 
 Figura 29
 Primer Component Diagram de FastPorte
@@ -886,10 +990,10 @@ Figura 32
 Cuarto Component Diagram de FastPorte
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b45740bd-2217-4c8a-b74b-8fd22504fa82)
 
-4.7. Software Object-Oriented Design.
+## 4.7. Software Object-Oriented Design.
 En esta sección se presentará tanto el diagrama de clases, así como también el diccionario de clases.
 
-4.7.1.    Class Diagrams.
+### 4.7.1.    Class Diagrams.
 El siguiente diagrama corresponde al diagrama de clases diseñado para nuestra propuesta hecha en la herramienta online Lucidchart. Para una mejor visualización, entrar al siguiente link iniciando sesión: https://lucid.app/lucidchart/b7824e96-fd63-456e-9c91-2a7ef1b93414/edit?viewport_loc=-182%2C89%2C2415%2C1153%2C0_0&invitationId=inv_9d8768a2-34cb-46ba-82cc-7390628c81bf# 
 Link directo a la imagen: https://drive.google.com/file/d/1MYmc2zjEaQyPoKPaLiCF_B1eGtA8tMOI/view?usp=sharing 
 
@@ -897,7 +1001,7 @@ Figura 33
 Class Diagram de FastPorte
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b7aeda1e-b9ec-4dc1-8ad3-364d5351cdf3)
 
-4.7.2.    Class Dictionary.
+### 4.7.2.    Class Dictionary.
 En la siguiente tabla mostramos el diccionario de clases.
 Tabla 9
 Desarrollo del Class Dictionary
@@ -906,9 +1010,9 @@ Desarrollo del Class Dictionary
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/34b93762-8e3c-47ad-bbd6-43e9640243de)
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/c3889ab2-e000-4e93-bce1-82e37db07c6d)
 
-4.8.    Database Design.
+## 4.8.    Database Design.
 En esta sección se muestra diseño del diagrama de base de datos. 
-4.8.1.    Database Diagram
+### 4.8.1.    Database Diagram
 El diagrama fue realizado en Lucidchart y puede verse detalladamente en el siguiente link iniciando sesión:
 https://lucid.app/lucidchart/b7824e96-fd63-456e-9c91-2a7ef1b93414/edit?viewport_loc=-182%2C89%2C2415%2C1153%2C0_0&invitationId=inv_9d8768a2-34cb-46ba-82cc-7390628c81bf# 
 Link directo a la imagen: https://drive.google.com/file/d/1W_drbr_RC6Fkv_fqRiMI38z6sI2JyCQX/view?usp=sharing  
