@@ -173,7 +173,7 @@ Mi nombre es Andy Jack Del Aguila Villanueva, estudiante de la carrera de ingeni
 INTEGRANTE 3:
 
 Mi nombre es Damaris Tasayco Vilcamiza. Actualmente estudio la carrera de Ingeniería de Software, lo que puedo aportar a este proyecto es una combinación de habilidades técnicas en programación y desarrollo web, junto con mi capacidad de poder gestionar proyectos y trabajar de manera colaborativa.
-![image](/img/foto2.png)
+![image](img/foto2.png)
 
 INTEGRANTE 4: 
 INTEGRANTE 5: 
@@ -246,11 +246,13 @@ o	Residencia: Lima
 
 o	Ocupación: Estudiante
 
-o	Entrevistador: Damaris Tasayco
+o	Entrevistador: Damaris Tasayco Vilcamiza
+
+o	Enlace: https://youtu.be/IX620AcwUyI
 
 Priscila Tasayco cree que los servicios de transporte de mercadería en el Perú tienen margen de mejora, ya que para ella encontrar un servicio de traslado de productos puede ser complicado en ocasiones, especialmente cuando necesitas un proveedor confiable y asequible para entregas urgentes o de gran volumen. Finalmente ella cree que sería beneficioso que la aplicación proporcionara calificaciones y reseñas de otros usuarios sobre los proveedores de transporte, así como información detallada sobre tarifas y tiempos de entrega estimados. También sería útil si la aplicación permitiera rastrear la ubicación de la mercancía en tiempo real y ofreciera opciones de comunicación directa con el transportista.
 
-![image](/img/entrevista1.png)
+![image](img/entrevista1.png)
 
 Transportistas:
 
