@@ -1294,4 +1294,29 @@ En lo que respecta a la coordinación dentro del equipo, hemos establecido reuni
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/5cd24615-be4b-4f01-b16c-571370c34b67)
 
 
+## CONCLUSIONES:
+El desarrollo del Lean UX Process ayudó a comprender mejor y aplicar efectivamente las herramientas en nuestra propuesta enfocada al servicio de transportistas hacia clientes. De la misma forma, contribuyó a definir de manera más clara nuestro público objetivo o llámese segmento hacia el cual va enfocada nuestra aplicación. 
 
+Después de culminar la primera parte de nuestro proyecto e identificar los principales problemas que tienen nuestros segmentos, concluimos que sería de mucha ayuda el desarrollo de FastPorte con el fin de mejorar la experiencia de los transportistas al momento de ofrecer sus servicios, al igual que a los clientes sería una herramienta eficiente en su trabajo. 
+
+El desarrollo de entrevistas nos ayudó a esclarecer la visión del proyecto, en cuanto a la perspectiva del usuario y por lo tanto fue importante para mejorar los aspectos de las funcionalidades de la aplicación.
+
+# BIBLIOGRAFÍA
+
+>> El Peruano. (10 de setiembre del 2018). 4 aplicaciones para móviles que facilitan el transporte. El Peruano. Recuperado de https://elperuano.pe/noticia/70941-4-aplicaciones-para-moviles-que-facilitan-el-transporte [Consulta:  04 de setiembre de 2023].
+
+>> Instituto Peruano de Economía (IPE). (2019, abril). Más del 83% de trabajadores que están en el sector transportes son informales. Recuperado de  https://www.ipe.org.pe/portal/mas-del-83-de-trabajadores-que-estan-en-el-sector-transportes-son-informales/ [Consulta:  04 de setiembre de 2023]. 
+
+>> Lean, P. (2014, October 14). 5W+2H Técnica de análisis de problemas - Progressa Lean. Retrieved September 5, 2023, from Progressa Lean website: https://www.progressalean.com/5w2h-tecnica-de-analisis-de-problemas/
+
+>> ‌Markdown Guide. (2023). Retrieved September 5, 2023, from Markdownguide.org website: https://www.markdownguide.org/
+
+>> Front-End Style-Guides: Definition, Requirements, Component Checklist. (2016). Retrieved September 5, 2023, from Nielsen Norman Group website: https://www.nngroup.com/articles/front-end-style-guides/
+
+>> Design Systems 101. (2021). Retrieved September 5, 2023, from Nielsen Norman Group website: https://www.nngroup.com/articles/design-systems-101/
+
+>> What Are User Flows In UX Design? [Full Beginner’s Guide]. (2019, October 13). Retrieved September 5, 2023, from CareerFoundry website: https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/
+
+>> Fontané, G. (2022, December 15). Full List of Meta Tags, Why They Matter for SEO & How to Write Them. Retrieved September 5, 2023, from Hubspot.com website: https://blog.hubspot.com/marketing/meta-tags
+
+>> Google TypeScript Style Guide. (2015). Retrieved September 5, 2023, from Github.io website: https://google.github.io/styleguide/tsguide.html
