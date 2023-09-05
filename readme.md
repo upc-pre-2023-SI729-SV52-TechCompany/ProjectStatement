@@ -83,6 +83,27 @@ En la documentación del software, al emplear HTML para crear la Landing Page, n
 ### 5.2.1. Sprint 1
 En el presente apartado se registro el avance del trabajo colaborativo.
 #### 5.2.1.1. Sprint Backlog 1.
+
+│Sprint # │ Sprint 1                                     │
+-------------------------------------------------------------
+│Id    │Titutlo │Descripción │Estimacion │Asignado A │Estado│
+-------------------------------------------------------------
+│      │WI01│││││
+│HU-022│-----------------------------------------------------
+│      │WI02│││││
+-------------------------------------------------------------
+│HU-023│WI03│││││
+│HU-023│WI04│││││
+│HU-024│WI05│││││
+│HU-024│WI06│││││
+│HU-025│WI07│││││
+│HU-025│WI08│││││
+│HU-026│WI09│││││
+│HU-026│WI10│││││
+│HU-026│WI11│││││
+│HU-026│WI12│││││
+
+│││││││
 #### 5.2.1.2. Development Evidence for Sprint Review.
 #### 5.2.1.3. Testing Suite Evidence for Sprint Review.
 #### 5.2.1.4. Execution Evidence for Sprint Review.
