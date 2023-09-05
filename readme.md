@@ -1384,3 +1384,15 @@ El desarrollo de entrevistas nos ayudó a esclarecer la visión del proyecto, en
 >> Fontané, G. (2022, December 15). Full List of Meta Tags, Why They Matter for SEO & How to Write Them. Retrieved September 5, 2023, from Hubspot.com website: https://blog.hubspot.com/marketing/meta-tags
 
 >> Google TypeScript Style Guide. (2015). Retrieved September 5, 2023, from Github.io website: https://google.github.io/styleguide/tsguide.html
+
+# ANEXO VÍDEOS
+
+| Sección |     Sobre el contenido   |       Integración y entrega         |
+|---------|--------------------------|-------------------------------------|
+|Needfinding|Entrevista de cliente N°1 |https://www.youtube.com/watch?v=IX620AcwUyI|
+|Needfinding|Entrevista de cliente N°2 |https://youtu.be/nZm0-971QmI|
+|Needfinding|Entrevista de cliente N°3 |https://web.microsoftstream.com/video/f5f2baff-9124-4466-ba6b-fd61ff039a2e|
+|Needfinding|Entrevista de transportista N°1 |https://youtu.be/IiZXr7LSXY0|
+|Needfinding|Entrevista de transportista N°2 |https://web.microsoftstream.com/video/f5f2baff-9124-4466-ba6b-fd61ff039a2e|
+
+
