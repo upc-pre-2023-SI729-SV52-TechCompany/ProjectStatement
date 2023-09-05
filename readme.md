@@ -5,6 +5,7 @@ A. Criterio específico 1: Comunica oralmente sus ideas y/o resultados con objet
   TB1
 
 >> Bernuy Villanueva, Caroline Denisse: Para esta entrega se realizaron entrevistas para los usuarios con rol "trasportista" para determinar y mejorar las features. Se organizó con el grupo para el cumplimiento de fechas límites. 	Se realizó el PPT Keynote completo con la nueva información. Se modificó y mejoró la sección Style Guidelines, Landing Page UI Design, Web Application UX/UI Design, Web Applications Prototyping y Software Object-Oriented Design.
+>> Tasayco Vilcamiza, Damaris: Para esta entrega se realizó la entrevista para el usuario con el rol "Clientes". Asimismo, se dividió las partes correspondientes de manera eficiente y ordenada a cada integrante. Finalmente se realizó y mejoró el capítulo 3 los cuales incluyen: To-Be Scenario Mapping, User Stories, Impact Map y Product Backlog.
 
 
 B. Criterio específico 2: Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.
@@ -13,17 +14,22 @@ B. Criterio específico 2: Comunica en forma escrita ideas y/o resultados con ob
 
 >> Bernuy Villanueva, Caroline Denisse: Se realizaron entrevistas y análisis de cada respuesta para evaluar la consistencia del diseño y las funcionalidades de la aplicación.
 Se creó y modificó la Landing Page.
+>> Tasayco Vilcamiza, Damaris: Para esta entrega se realizaró los user stories tanto del cliente como de la empresa, evaluando así las características más importantes posteriormente vistas en la aplicación.
 
 #
 
 1.1.2.	Perfiles de integrantes del equipo
 
-INTEGRANTE 1: 
+## INTEGRANTE 1: 
 Mi nombre es Caroline Denisse Bernuy Villanueva, estudiante de la carrera de ingeniería de software. Tengo conocimientos previos en desarrollo web con frameworks como Vue, Angular, Express JS y Laravel. Diseño de base de datos SQL y creación de APIs. Mi perfil profesional está orientado al desarrollo de soluciones cloud.
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/a2e65b05-66b8-4e22-a555-4a62c8a0ea1d)
 
 
-INTEGRANTE 2: 
+## INTEGRANTE 2: 
+Mi nombre es Damaris Tasayco Vilcamiza. Actualmente estudio la carrera de Ingeniería de Software, lo que puedo aportar a este proyecto es una combinación de habilidades técnicas en programación y desarrollo web, junto con mi capacidad de poder gestionar proyectos y trabajar de manera colaborativa.
+![image](/img/foto2.jpg)
+
+
 INTEGRANTE 3: 
 INTEGRANTE 4: 
 INTEGRANTE 5: 
@@ -194,11 +200,11 @@ El "To-Be Scenario Mapping"es una estrategia empleada en el ámbito del análisi
 
 ## 3.1. To-Be Scenario Mapping
 
-**To Be Ciudadano**
+**To Be Ciudadano (Cliente)**
 
 ![To be segmento ciudadano](/img/To-be_Ciudadano.png)
 
-**To Be Empresa**
+**To Be Empresa (Empresa)**
 
 ![To be segmento empresa](/img/To-be_Empresa.png)
 
