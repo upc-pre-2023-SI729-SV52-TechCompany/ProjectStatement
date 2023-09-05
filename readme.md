@@ -890,3 +890,6 @@ Link directo a la imagen: https://drive.google.com/file/d/1W_drbr_RC6Fkv_fqRiMI3
 Figura 34
 Database Diagram de FastPorte
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/f96de7b4-1ea0-48ba-9154-44ae954af30d)
+
+
+
