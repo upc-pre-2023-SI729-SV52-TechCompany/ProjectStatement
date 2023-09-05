@@ -13,6 +13,28 @@ Por lo tanto, hemos creado FastPorte, una plataforma que conectará a transporti
 
 # Perfiles de integrantes del equipo
 
+## INTEGRANTE 1:
+
+Mi nombre es Caroline Denisse Bernuy Villanueva, estudiante de la carrera de ingeniería de software. Tengo conocimientos previos en desarrollo web con frameworks como Vue, Angular, Express JS y Laravel. Diseño de base de datos SQL y creación de APIs. Mi perfil profesional está orientado al desarrollo de soluciones cloud.
+
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/a2e65b05-66b8-4e22-a555-4a62c8a0ea1d)
+
+INTEGRANTE 2: 
+Mi nombre es Andy Jack Del Aguila Villanueva, estudiante de la carrera de ingenieria de software. Cuento con conocimiento en front end y backend con angular y java springboot, Dart ,flutter, Kotlin , Swift, C++, VueJs. Me especializo en Arquitectura y Diseño de software, tanto para seguridad y sostinibilidad.
+
+<img src="https://media.licdn.com/dms/image/C4D03AQE00Bj_cktfxg/profile-displayphoto-shrink_800_800/0/1663084514160?e=1699488000&v=beta&t=eML-FVILp3VhoKnoQDI8QO-nZKxECgjrtSWavUHEFRM" title="" alt="1663084514160 (800×800) (licdn.com)" width="216">
+
+
+INTEGRANTE 3:
+
+Mi nombre es Damaris Tasayco Vilcamiza. Actualmente estudio la carrera de Ingeniería de Software, lo que puedo aportar a este proyecto es una combinación de habilidades técnicas en programación y desarrollo web, junto con mi capacidad de poder gestionar proyectos y trabajar de manera colaborativa.
+![image](img/foto2.png)
+
+INTEGRANTE 4:
+Mi nombre es Mariela Martinez Carbajal, estudiante de ingeniería de software. Cuento con experiencia previa en programación en C++ y desarrollo web. Me caracterizo por mi capacidad de adaptación (resiliencia) y mi habilidad para comprender y conectar con los demás (empatía), lo que Considero que será una ventaja en la ejecución de este proyecto. ![image](/img/imagen04.png)
+
+INTEGRANTE 5: 
+
 
 #Solution Profile
 Nuestra propuesta como equipo es "Tech Company", una aplicación diseñada para facilitar la conexión entre transportistas y personas que necesiten sus servicios. Este proceso se realizará de manera fácil, accesible y segura tanto para los clientes como para los transportistas. 
@@ -161,29 +183,6 @@ B. Criterio específico 2: Comunica en forma escrita ideas y/o resultados con ob
 
 > > Martinez Carbajal, Mariela: En esta entrega, nuestro equipo se centro en realizar las entrevistas, lo cual nos ayudaron  a mejorar aún más nuestra comunicación oral. Con respecto a las entrevistas, fueron de vital importancia pues pudimos modelar una mejor manera nuestra solución.
 
-# 1.1.2.    Perfiles de integrantes del equipo
-
-## INTEGRANTE 1:
-
-Mi nombre es Caroline Denisse Bernuy Villanueva, estudiante de la carrera de ingeniería de software. Tengo conocimientos previos en desarrollo web con frameworks como Vue, Angular, Express JS y Laravel. Diseño de base de datos SQL y creación de APIs. Mi perfil profesional está orientado al desarrollo de soluciones cloud.
-
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/a2e65b05-66b8-4e22-a555-4a62c8a0ea1d)
-
-INTEGRANTE 2: 
-Mi nombre es Andy Jack Del Aguila Villanueva, estudiante de la carrera de ingenieria de software. Cuento con conocimiento en front end y backend con angular y java springboot, Dart ,flutter, Kotlin , Swift, C++, VueJs. Me especializo en Arquitectura y Diseño de software, tanto para seguridad y sostinibilidad.
-
-<img src="https://media.licdn.com/dms/image/C4D03AQE00Bj_cktfxg/profile-displayphoto-shrink_800_800/0/1663084514160?e=1699488000&v=beta&t=eML-FVILp3VhoKnoQDI8QO-nZKxECgjrtSWavUHEFRM" title="" alt="1663084514160 (800×800) (licdn.com)" width="216">
-
-
-INTEGRANTE 3:
-
-Mi nombre es Damaris Tasayco Vilcamiza. Actualmente estudio la carrera de Ingeniería de Software, lo que puedo aportar a este proyecto es una combinación de habilidades técnicas en programación y desarrollo web, junto con mi capacidad de poder gestionar proyectos y trabajar de manera colaborativa.
-![image](img/foto2.png)
-
-INTEGRANTE 4:
-Mi nombre es Mariela Martinez Carbajal, estudiante de ingeniería de software. Cuento con experiencia previa en programación en C++ y desarrollo web. Me caracterizo por mi capacidad de adaptación (resiliencia) y mi habilidad para comprender y conectar con los demás (empatía), lo que Considero que será una ventaja en la ejecución de este proyecto. ![image](/img/imagen04.png)
-
-INTEGRANTE 5: 
 
 # Capítulo II: Requirements Elicitation & Analysis
 
