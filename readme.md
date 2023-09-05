@@ -85,7 +85,7 @@ B. Criterio específico 2: Comunica en forma escrita ideas y/o resultados con ob
 
   TB1
 
-> > Bernuy Villanueva, Caroline Denisse: Se realizaron entrevistas y análisis de cada respuesta para evaluar la consistencia del diseño y las funcionalidades de la aplicación. Se creó, editó y desplegó la Landing Page del prodyto. Finalmente, se hizo las revisiones finales de la entrega, incluyendo modificación del informe, bibliografía y Aaexos.
+> > Bernuy Villanueva, Caroline Denisse: Se realizaron entrevistas y análisis de cada respuesta para evaluar la consistencia del diseño y las funcionalidades de la aplicación. Se creó, editó y desplegó la Landing Page del producto. Finalmente, se hizo las revisiones finales de la entrega, incluyendo modificación del informe, bibliografía y Anexos.
 
 > > Sanchez Rios, Jean-Patrick: Realice entrevistas y análisis posteriores para el correcto procesamiento de la información con el fin de utilizarlo para mejorar la experiencia de usuaria de nuestra app
 
@@ -100,13 +100,47 @@ B. Criterio específico 2: Comunica en forma escrita ideas y/o resultados con ob
 ### Descripción de la Start-up
 Somos un grupo de estudiantes de la Universidad Peruana de Ciencias Aplicadas que ha identificado una oportunidad de negocio en el sector del transporte, que abarca una variedad de áreas. Hemos notado que obtener servicios de transporte de carga o movilidad personal no es tan simple como buscar un producto en línea. Ya sea que necesites transportar mercancías o llevar a tu familia de paseo, a menudo es complicado encontrar proveedores confiables.
 Además, somos conscientes de que existen muchos transportistas independientes que ofrecen servicios de movilidad o transporte de carga, pero a menudo tienen dificultades para llegar a un público más amplio que su propia red de contactos.
-Por lo tanto, hemos creado FastPorte, una plataforma que conectará a transportistas de diferentes sectores, ya sean independientes o empresas, con personas que necesitan sus servicios. El proceso será sencillo: los transportistas se registrarán proporcionando sus datos personales y completando sus perfiles, esperando a que los clientes los contacten. Por otro lado, las personas que requieran transporte se registrarán, buscarán transportistas en el sector que necesiten y podrán ver las reseñas de clientes anteriores para tomar una decisión informada. Una vez que elijan un transportista, deberá completar un formulario con los detalles del viaje y realizar el pago del servicio. Finalmente, el transportista se dirigirá al lugar acordado, completará el trabajo y nosotros le pagaremos por el servicio prestado."
+Por lo tanto, hemos creado FlashPorte, una plataforma que conectará a transportistas de diferentes sectores, ya sean independientes o empresas, con personas que necesitan sus servicios. El proceso será sencillo: los transportistas se registrarán proporcionando sus datos personales y completando sus perfiles, esperando a que los clientes los contacten. Por otro lado, las personas que requieran transporte se registrarán, buscarán transportistas en el sector que necesiten y podrán ver las reseñas de clientes anteriores para tomar una decisión informada. Una vez que elijan un transportista, deberá completar un formulario con los detalles del viaje y realizar el pago del servicio. Finalmente, el transportista se dirigirá al lugar acordado, completará el trabajo y nosotros le pagaremos por el servicio prestado."
 ## Misión: 
 “Simplificar, garantizar y mejorar la seguridad en la búsqueda de servicios de transporte en cualquier sector para todos los usuarios”. 
 ## Visión: 
 “Posicionarnos como la opción principal de búsqueda de servicios de transporte para los ciudadanos peruanos, superando constantemente las expectativas de cada cliente". 
 
-#Solution Profile
+
+
+# 1.1.2.    Perfiles de integrantes del equipo
+
+## INTEGRANTE 1:
+
+Mi nombre es Caroline Denisse Bernuy Villanueva, estudiante de la carrera de ingeniería de software. Tengo conocimientos previos en desarrollo web con frameworks como Vue, Angular, Express JS y Laravel. Diseño de base de datos SQL y creación de APIs. Mi perfil profesional está orientado al desarrollo de soluciones cloud.
+
+<img src="https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/a2e65b05-66b8-4e22-a555-4a62c8a0ea1d" width="216">
+
+## INTEGRANTE 2: 
+Mi nombre es Andy Jack Del Aguila Villanueva, estudiante de la carrera de ingenieria de software. Cuento con conocimiento en front end y backend con angular y java springboot, Dart ,flutter, Kotlin , Swift, C++, VueJs. Me especializo en Arquitectura y Diseño de software, tanto para seguridad y sostinibilidad.
+
+<img src="https://media.licdn.com/dms/image/C4D03AQE00Bj_cktfxg/profile-displayphoto-shrink_800_800/0/1663084514160?e=1699488000&v=beta&t=eML-FVILp3VhoKnoQDI8QO-nZKxECgjrtSWavUHEFRM" title="" alt="1663084514160 (800×800) (licdn.com)" width="216">
+
+
+## INTEGRANTE 3:
+
+Mi nombre es Damaris Tasayco Vilcamiza. Actualmente estudio la carrera de Ingeniería de Software, lo que puedo aportar a este proyecto es una combinación de habilidades técnicas en programación y desarrollo web, junto con mi capacidad de poder gestionar proyectos y trabajar de manera colaborativa.
+
+<img src="/img/foto2.png" width="216">
+
+## INTEGRANTE 4:
+Mi nombre es Mariela Martinez Carbajal, estudiante de ingeniería de software. Cuento con experiencia previa en programación en C++ y desarrollo web. Me caracterizo por mi capacidad de adaptación (resiliencia) y mi habilidad para comprender y conectar con los demás (empatía), lo que Considero que será una ventaja en la ejecución de este proyecto.
+
+<img src="/img/imagen04.png" width="216">
+
+## INTEGRANTE 5:
+Mi nombre es Jean-Patrick Yemsi Sanchez Rios, estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Poseo conocimientos en C++, SQL, gestión de bases de datos, diseño gráfico y control de calidad. Estoy aprendiendo ahora mismo el uso de git en control de versiones, lenguajes de programación como Python, Javascript y css, y poseo conocimientos sobre marcos de trabajo ágiles.
+
+<img src="https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b15e406d-4f21-45b6-bf4a-39b7d0b460ad" width="216">
+
+
+## Solution Profile
+
 Nuestra propuesta como equipo es "Tech Company", una aplicación diseñada para facilitar la conexión entre transportistas y personas que necesiten sus servicios. Este proceso se realizará de manera fácil, accesible y segura tanto para los clientes como para los transportistas. 
 ## Antecedentes y Problemática 
 ### Antecedentes:
@@ -128,7 +162,7 @@ El problema surge cuando alguien necesita encontrar un medio de transporte espec
 Nuestro servicio se dará a nivel nacional en un futuro, sin embargo, por ahora, y para comenzar, nos consolidaremos en la capital y luego iremos creciendo hacia otras regiones para cumplir con nuestra visión como startup.
 
 - Who? (¿Quién?)
-FastPorte está dirigida a todas las personas que deseen encontrar de manera más rápida y confiable un servicio de transporte que abarca cualquier rubro según la disponibilidad. Por otra parte, también está dirigido a todos los transportistas a todos los transportistas que requieran brindar este servicio ampliar su oferta a más personas y tener más ingresos.
+FlashPorte está dirigida a todas las personas que deseen encontrar de manera más rápida y confiable un servicio de transporte que abarca cualquier rubro según la disponibilidad. Por otra parte, también está dirigido a todos los transportistas a todos los transportistas que requieran brindar este servicio ampliar su oferta a más personas y tener más ingresos.
 
 - Why? (¿Por qué?)
 Como mencionamos anteriormente, esta propuesta surge como respuesta a la necesidad de contar con una plataforma que permita a transportistas particulares de todos los sectores ofrecer sus servicios, brindando a las personas o clientes una variedad de opciones para elegir el tipo de servicio que necesitan. Además, se crea este espacio para que aquellos trabajadores que se dedican al transporte, ya sea de carga, mercancías, personas, u otros, de manera independiente, puedan ampliar su alcance de público y, como resultado, aumentar sus ganancias.
@@ -217,6 +251,41 @@ Creemos que, ver la reputación de los transportistas aumentará los contratos d
 
 ![](img/CANVAS.png)
 
+# STUDENT OUTCOME
+
+A. Criterio específico 1: Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.
+
+  TB1
+
+**Competitive Analysis Landscape**
+
+> > Bernuy Villanueva, Caroline Denisse: Para esta entrega se realizaron entrevistas para los usuarios con rol "trasportista" para determinar y mejorar las features. Se organizó con el grupo para el cumplimiento de fechas límites.     Se realizó el PPT Keynote completo con la nueva información. Se modificó y mejoró la sección Style Guidelines, Landing Page UI Design, Web Application UX/UI Design, Web Applications Prototyping y Software Object-Oriented Design.
+
+> > Sanchez Rios, Jean-Patrick: Para el presente entregable se realizó el análisis de competidores para ver dilucidar mejor la importancia de nuestro valor agregado.
+
+> > Del Aguila Villanueva, Andy Jack:En esta entrega, nuestro equipo realizaron una simulación de presentación de proyecto, comunicando de manera efectiva la idea de negocio de una plataforma, la identificación del segmento objetivo y los detalles de diseño y programación de la landing page. Se emplearon rúbricas de evaluación, sesiones de feedback entre pares y entrenamiento en técnicas de presentación para mejorar las habilidades de comunicación oral. Además, se incluyeron simulaciones de preguntas y respuestas de diferentes audiencias, lo que permitió a los estudiantes adaptarse a diversos niveles y especialidades, fortaleciendo sus capacidades de comunicación.
+
+> > Tasayco Vilcamiza, Damaris: Para esta entrega se realizó la entrevista para el usuario con el rol "Clientes". Asimismo, se dividió las partes correspondientes de manera eficiente y ordenada a cada integrante. Finalmente se realizó y mejoró el capítulo 3 los cuales incluyen: To-Be Scenario Mapping, User Stories, Impact Map y Product Backlog.
+
+> > Martinez Carbajal, Mariela: Para esta entrega se realizó el plateo el solution profile, Lean UX Process, Lean UX Problem Statements, demás herramientas influyeron al momento de identificar a nuestros segmentos objetivos y plantear una propuesta más solida y consistente. Asimismo se realizo la entrevista para el segmento objetivo con el rol "clientes".
+
+
+
+B. Criterio específico 2: Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.
+
+  TB1
+
+> > Bernuy Villanueva, Caroline Denisse: Se realizaron entrevistas y análisis de cada respuesta para evaluar la consistencia del diseño y las funcionalidades de la aplicación. Se creó, editó y desplegó la Landing Page del producto. Finalmente, se hizo las revisiones finales de la entrega, incluyendo modificación del informe, bibliografía y Anexos.
+
+> > Sanchez Rios, Jean-Patrick: Realice entrevistas y análisis posteriores para el correcto procesamiento de la información con el fin de utilizarlo para mejorar la experiencia de usuaria de nuestra app
+
+> > Del Aguila Villanueva, Andy Jack: En esta entrega, nuestro equipo se centraron en la comunicación escrita de sus ideas y resultados en el contexto del desarrollo de un proyecto de ingeniería. Lograron transmitir de manera clara y objetiva la conceptualización del proyecto, la identificación de un público diverso y la documentación detallada de los procesos y resultados. Se promovió la revisión y retroalimentación entre pares para mejorar la calidad de la comunicación escrita, y se utilizaron rúbricas específicas para evaluar la claridad, precisión y adaptación a diferentes niveles jerárquicos y especialidades. Esta práctica fortaleció sus habilidades de comunicación escrita en un contexto de ingeniería multidisciplinario y variado.
+
+> > Tasayco Vilcamiza, Damaris: Para esta entrega se realizaró los user stories tanto del cliente como de la empresa, evaluando así las características más importantes posteriormente vistas en la aplicación.
+
+> > Martinez Carbajal, Mariela: En esta entrega, nuestro equipo se centro en realizar las entrevistas, lo cual nos ayudaron  a mejorar aún más nuestra comunicación oral. Con respecto a las entrevistas, fueron de vital importancia pues pudimos modelar una mejor manera nuestra solución.
+
+#
 
 # 1.1.2.    Perfiles de integrantes del equipo
 
@@ -252,6 +321,7 @@ Mi nombre es Jean-Patrick Yemsi Sanchez Rios, estudiante de la carrera de Ingeni
 
 
 <img src="https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b15e406d-4f21-45b6-bf4a-39b7d0b460ad" width="216">
+
 
 
 # Capítulo II: Requirements Elicitation & Analysis
@@ -627,13 +697,13 @@ Form Elements del General Style Guidelines
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/6e62155b-7f6d-4762-8675-ca5da1438216)
 
 ## 4.2. Information Architecture.
-En esta sección, mostramos el Information Architecture de FastPorte, donde se plantea la organización y estructura que se manejara para esta propuesta. Teniendo en cuenta, que nuestros usuarios puedan saber dónde se encuentra la información que se está buscando.
+En esta sección, mostramos el Information Architecture de FlashPorte, donde se plantea la organización y estructura que se manejara para esta propuesta. Teniendo en cuenta, que nuestros usuarios puedan saber dónde se encuentra la información que se está buscando.
 Organization Systems.
 Enlace al diagrama: https://overflow.io/s/0OYSZACI
 
 Figura 20
 
-### 4.2.1. Organizations Systems de FastPorte 
+### 4.2.1. Organizations Systems de FlashPorte 
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b8bd5533-e6ad-4cbb-861f-637444b6fb30)
 
 ### 4.2.2. Labeling Systems.
@@ -641,12 +711,12 @@ Para los sistemas de etiquetado, utilizamos el lenguaje formal que refleja la se
 Label transportista:
 
 Figura 21
-Labeling Systems del transportista de FastPorte
+Labeling Systems del transportista de FlashPorte
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/834b76e2-36d8-4b31-b1c6-d2faa578cbe8)
 
 Label cliente:
 Figura 22
-Labeling Systems del cliente de FastPorte
+Labeling Systems del cliente de FlashPorte
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/1d1e4015-b8ae-43c2-804f-42dfe8855bff)
 
 Transportista:
@@ -685,7 +755,7 @@ Dentro de esta sección el usuario podrá visualizar los mensajes, solicitudes, 
 
 ### 4.2.3. SEO Tags and Meta Tags
 Figura 23
-SEO Tags and Meta Tags de FastPorte
+SEO Tags and Meta Tags de FlashPorte
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/a97aa671-9745-4abd-b139-813ca23f69a3)
 
 Charset Tag    
@@ -724,7 +794,7 @@ Searching Systems de FlashPorte
 ### 4.2.5. Navigation Systems.
 Para el sistema de navegación nos enfocamos en la comodidad y eficiencia que se le debe brindar al usuario, ya que son puntos sumamente importantes, en el que tomamos como prioridad el tiempo en el que el usuario demora en realizar una tarea.
 Figura 25
-Navegation Systems de FastPorte
+Navegation Systems de FlashPorte
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/e3db0890-a4e8-42a0-8695-9d208c0e24e5)
 Link al diagrama: https://overflow.io/s/KMMHWVUC 
 
@@ -732,7 +802,7 @@ Link al diagrama: https://overflow.io/s/KMMHWVUC
 En esta sección presentaremos el diseño de nuestra landing page empezando desde modelos de baja fidelidad como los wireframes y luego los mock-ups.
 
 ### 4.3.1. Landing Page Wireframe.
-Las imágenes a continuación pertenecen a los wireframes realizados para el landing page. Abrir el link para más detalles del wireframe y de la versión mobile web browser: https://www.figma.com/file/xEc3h40NLBBgX0yLjxhLq9/Wireframe-FastPorte?node-id=0%3A1 
+Las imágenes a continuación pertenecen a los wireframes realizados para el landing page. Abrir el link para más detalles del wireframe y de la versión mobile web browser: https://www.figma.com/file/xEc3h40NLBBgX0yLjxhLq9/Wireframe-FlashPorte?node-id=0%3A1 
 
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/bf8f2fa5-d41f-4f03-92cb-ccc03cd6a524)
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/5254e356-f292-4d2d-b2c1-f78a78b508c7)
@@ -752,7 +822,7 @@ Desktop:
 Mobile Web Browser:
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/08e1bc28-09d7-4f60-8a5b-1a6c1b48b284)
 Link al Figma:
-https://www.figma.com/file/caTTSknpD8t2zhfg16qAya/MockUp-FastPorte?node-id=0%3A1 
+https://www.figma.com/file/caTTSknpD8t2zhfg16qAya/MockUp-FlashPorte?node-id=0%3A1 
 
 ## 4.4. Web Application UX/UI Design.
 En esta sección presentaremos el diseño de nuestra web application empezando desde modelos de baja fidelidad como los wireframes y luego los mock-ups.
@@ -968,30 +1038,30 @@ En esta sección se presentará lo relacionado al domain-driven software archite
 ### 4.6.1. Software Architecture Context Diagram.
 
 Figura 27
-Context Diagram de FastPorte
+Context Diagram de FlashPorte
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/577ea050-7f1e-4675-860d-90fe58f47d7d)
 
 ### 4.6.2. Software Architecture Container Diagrams.
 Figura 28
-Container Diagram de FastPorte
+Container Diagram de FlashPorte
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/2d7123f5-b315-46a8-869e-79d9573857cc)
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
 Figura 29
-Primer Component Diagram de FastPorte
+Primer Component Diagram de FlashPorte
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/1accd28e-56ac-4ffc-a21a-e5aa791097cc)
 
 Figura 30    
-Segundo Component Diagram de FastPorte
+Segundo Component Diagram de FlashPorte
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/22c3de16-acdb-42a5-ac63-b795c727f304)
 
 Figura 31
-Tercer Component Diagram de FastPorte
+Tercer Component Diagram de FlashPorte
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/22989ba2-9a49-41d2-b65b-d6f5dd2198de)
 
 Figura 32
-Cuarto Component Diagram de FastPorte
+Cuarto Component Diagram de FlashPorte
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b45740bd-2217-4c8a-b74b-8fd22504fa82)
 
 ## 4.7. Software Object-Oriented Design.
@@ -1002,7 +1072,7 @@ El siguiente diagrama corresponde al diagrama de clases diseñado para nuestra p
 Link directo a la imagen: https://drive.google.com/file/d/1MYmc2zjEaQyPoKPaLiCF_B1eGtA8tMOI/view?usp=sharing 
 
 Figura 33
-Class Diagram de FastPorte
+Class Diagram de FlashPorte
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b7aeda1e-b9ec-4dc1-8ad3-364d5351cdf3)
 
 ### 4.7.2.    Class Dictionary.
@@ -1022,7 +1092,7 @@ https://lucid.app/lucidchart/b7824e96-fd63-456e-9c91-2a7ef1b93414/edit?viewport_
 Link directo a la imagen: https://drive.google.com/file/d/1W_drbr_RC6Fkv_fqRiMI38z6sI2JyCQX/view?usp=sharing  
 
 Figura 34
-Database Diagram de FastPorte
+Database Diagram de FlashPorte
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/f96de7b4-1ea0-48ba-9154-44ae954af30d)
 
 # CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
@@ -1269,7 +1339,7 @@ Durante este primer sprint, en términos generales, hemos alcanzado los siguient
 Durante este primer sprint, no se ha llevado a cabo ninguna implementación relacionada con algún servicio, por lo tanto, esta sección carece de contenido.
 #### 5.2.1.6. Software Deployment Evidence for Sprint Review.
 
-Durante este primer sprint, hemos logrado completar de manera exitosa la creación de los wireframes, mock-ups y prototipo de nuestra aplicación web. Además, hemos llevado a cabo la elaboración y el despliegue de nuestra landing page, que está relacionada con el producto que estamos proponiendo, FastPorte. Para alcanzar este último objetivo, hemos realizado las siguientes acciones:
+Durante este primer sprint, hemos logrado completar de manera exitosa la creación de los wireframes, mock-ups y prototipo de nuestra aplicación web. Además, hemos llevado a cabo la elaboración y el despliegue de nuestra landing page, que está relacionada con el producto que estamos proponiendo, FlashPorte. Para alcanzar este último objetivo, hemos realizado las siguientes acciones:
 
 -	Creación de un repositorio en GitHub con el nombre “landing-page”
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/256ea4f7-9df1-4757-950c-cd3c3a5fdca9)
@@ -1301,7 +1371,7 @@ En lo que respecta a la coordinación dentro del equipo, hemos establecido reuni
 ## CONCLUSIONES:
 El desarrollo del Lean UX Process ayudó a comprender mejor y aplicar efectivamente las herramientas en nuestra propuesta enfocada al servicio de transportistas hacia clientes. De la misma forma, contribuyó a definir de manera más clara nuestro público objetivo o llámese segmento hacia el cual va enfocada nuestra aplicación. 
 
-Después de culminar la primera parte de nuestro proyecto e identificar los principales problemas que tienen nuestros segmentos, concluimos que sería de mucha ayuda el desarrollo de FastPorte con el fin de mejorar la experiencia de los transportistas al momento de ofrecer sus servicios, al igual que a los clientes sería una herramienta eficiente en su trabajo. 
+Después de culminar la primera parte de nuestro proyecto e identificar los principales problemas que tienen nuestros segmentos, concluimos que sería de mucha ayuda el desarrollo de FlashPorte con el fin de mejorar la experiencia de los transportistas al momento de ofrecer sus servicios, al igual que a los clientes sería una herramienta eficiente en su trabajo. 
 
 El desarrollo de entrevistas nos ayudó a esclarecer la visión del proyecto, en cuanto a la perspectiva del usuario y por lo tanto fue importante para mejorar los aspectos de las funcionalidades de la aplicación.
 
