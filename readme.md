@@ -1361,7 +1361,8 @@ Para la creación de nuestro prototipo, hemos empleado la herramienta Figma, que
 
 Por otro lado, para desarrollar el landing page, hemos utilizado un repositorio en GitHub. En colaboración con el flujo de trabajo Gitflow, hemos implementado de manera conjunta el desarrollo de nuestro landing page. Esto se refleja en los diversos commits realizados en el repositorio, los cuales pueden observarse en las capturas de pantalla adjuntas.
 
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/c07b8d96-8a95-4f86-8c1e-408919313091)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b805477a-81d7-4480-8ead-fea7aa95aea9)
+
 
 En lo que respecta a la coordinación dentro del equipo, hemos establecido reuniones regulares para discutir las responsabilidades asignadas y distribuir las tareas correspondientes. Esta práctica nos ha permitido mejorar nuestra comunicación y tener una comprensión clara de las responsabilidades individuales. En lo que concierne al desarrollo del código, hemos adoptado un enfoque de segmentación, de manera que cada miembro del equipo se encarga de una sección específica del landing page. Esto facilita una transición fluida entre las partes, ya que el siguiente miembro en la secuencia puede continuar sin problemas. Por último, hemos fomentado un ambiente en el que compartimos ideas y resolvemos dudas de manera regular, lo que ha contribuido a mantenernos actualizados y en sintonía a lo largo del proceso de trabajo.
 
