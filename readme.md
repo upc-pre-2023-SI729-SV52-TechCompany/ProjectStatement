@@ -10,6 +10,10 @@ Por lo tanto, hemos creado FastPorte, una plataforma que conectará a transporti
 ## Visión: 
 “Posicionarnos como la opción principal de búsqueda de servicios de transporte para los ciudadanos peruanos, superando constantemente las expectativas de cada cliente". 
 
+
+# Perfiles de integrantes del equipo
+
+
 #Solution Profile
 Nuestra propuesta como equipo es "Tech Company", una aplicación diseñada para facilitar la conexión entre transportistas y personas que necesiten sus servicios. Este proceso se realizará de manera fácil, accesible y segura tanto para los clientes como para los transportistas. 
 ## Antecedentes y Problemática 
@@ -174,7 +178,7 @@ Mi nombre es Andy Jack Del Aguila Villanueva, estudiante de la carrera de ingeni
 INTEGRANTE 3:
 
 Mi nombre es Damaris Tasayco Vilcamiza. Actualmente estudio la carrera de Ingeniería de Software, lo que puedo aportar a este proyecto es una combinación de habilidades técnicas en programación y desarrollo web, junto con mi capacidad de poder gestionar proyectos y trabajar de manera colaborativa.
-![image](/img/foto2.png)
+![image](img/foto2.png)
 
 INTEGRANTE 4:
 Mi nombre es Mariela Martinez Carbajal, estudiante de ingeniería de software. Cuento con experiencia previa en programación en C++ y desarrollo web. Me caracterizo por mi capacidad de adaptación (resiliencia) y mi habilidad para comprender y conectar con los demás (empatía), lo que Considero que será una ventaja en la ejecución de este proyecto. ![image](/img/foto4.png)
