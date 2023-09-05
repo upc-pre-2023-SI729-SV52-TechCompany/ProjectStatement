@@ -181,7 +181,7 @@ Mi nombre es Damaris Tasayco Vilcamiza. Actualmente estudio la carrera de Ingeni
 ![image](img/foto2.png)
 
 INTEGRANTE 4:
-Mi nombre es Mariela Martinez Carbajal, estudiante de ingeniería de software. Cuento con experiencia previa en programación en C++ y desarrollo web. Me caracterizo por mi capacidad de adaptación (resiliencia) y mi habilidad para comprender y conectar con los demás (empatía), lo que Considero que será una ventaja en la ejecución de este proyecto. ![image](/img/foto4.png)
+Mi nombre es Mariela Martinez Carbajal, estudiante de ingeniería de software. Cuento con experiencia previa en programación en C++ y desarrollo web. Me caracterizo por mi capacidad de adaptación (resiliencia) y mi habilidad para comprender y conectar con los demás (empatía), lo que Considero que será una ventaja en la ejecución de este proyecto. ![image](/img/foto4.jpg)
 
 INTEGRANTE 5: 
 
@@ -255,9 +255,30 @@ o	Ocupación: Estudiante
 
 o	Entrevistador: Damaris Tasayco
 
+o Enlace: https://www.youtube.com/watch?v=IX620AcwUyI
+
 Priscila Tasayco cree que los servicios de transporte de mercadería en el Perú tienen margen de mejora, ya que para ella encontrar un servicio de traslado de productos puede ser complicado en ocasiones, especialmente cuando necesitas un proveedor confiable y asequible para entregas urgentes o de gran volumen. Finalmente ella cree que sería beneficioso que la aplicación proporcionara calificaciones y reseñas de otros usuarios sobre los proveedores de transporte, así como información detallada sobre tarifas y tiempos de entrega estimados. También sería útil si la aplicación permitiera rastrear la ubicación de la mercancía en tiempo real y ofreciera opciones de comunicación directa con el transportista.
 
 ![image](/img/entrevista1.jpg)
+
+b.	Segunda entrevista: 
+o	Entrevistado: Susan Vega
+
+o	Edad: 25
+
+o	Residencia: Lima
+
+o	Ocupación: Empresaria
+
+o	Entrevistador: Mariela Martinez
+
+o Enlace:https://youtu.be/nZm0-971QmI
+
+Susan tiene 25 años y se dedica a la comercializacion de prendas de vestir. Ella opina que el transporte de mercaderías es muy lento y no le brinda la confianza necesaria. Ella cuenta que en una ocasión contactó un servicio de transporte a través de Facebook y tuvo una experiencia negativa, ya que no le generó confianza y la información proporcionada no parecía confiable. Tuvo que confiar en las personas que ofrecían el servicio, y además, enfrentó problemas de comunicación debido a la mala señal en la zona en la que se encontraba el transportista. Esto la hizo sentir insegura acerca de si su mercadería estaba en camino.
+Ella intentó contactar servicios de transporte a través de contactos personales, como amigos, pero le resultó complicado. Ella necesita utilizar servicios de transporte de forma mensual, y esto le genera estrés, ya que no se siente seguro. Además, considera crucial conocer la marca y modelo del vehículo de transporte, ya que teme que un vehículo en mal estado o inapropiado pueda ocasionar retrasos en la entrega de su mercadería.
+Ella cree que usar una aplicación que ofrezca servicios de transporte podría aumentar su confianza. Le daría mayor seguridad y le permitiría tener una experiencia más satisfactoria.
+
+![image](/img/entrevista2.jpg)
 
 Transportistas:
 
@@ -273,6 +294,7 @@ o    Enlace: https://youtu.be/IiZXr7LSXY0
 Joakim Francia indica que trabaja en una empresa familiar de transporte de carga pesada. Su experiencia en el rubro es basta ya que la empresa ya tiene al menos 3 generaciones creciendo. Los problemas más comunes son el seguimiento de las cargas y organización de rutas largas puesto a que los choféres no tiene cómo afrontar situaciones adversas cuando están llevando las cargas y dependen estrictamente del su seguro para solucionar problemas mecánicos. Por un lado, el tiempo puede ser optimizado con una mejor organización y optimización del espacio de carga. Por otro lado, la opción de poder notificar inconvenientes directamente al cliente en tiempo real le sería muy útil.
 
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/567747e1-14fe-4ff3-998b-e11efbe2aef0)
+
 
 ### Analisis de entrevistas
 
