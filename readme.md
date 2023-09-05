@@ -218,17 +218,18 @@ Creemos que, ver la reputación de los transportistas aumentará los contratos d
 ![](img/CANVAS.png)
 
 
-
 # 1.1.2.    Perfiles de integrantes del equipo
 
 ## INTEGRANTE 1:
 
 Mi nombre es Caroline Denisse Bernuy Villanueva, estudiante de la carrera de ingeniería de software. Tengo conocimientos previos en desarrollo web con frameworks como Vue, Angular, Express JS y Laravel. Diseño de base de datos SQL y creación de APIs. Mi perfil profesional está orientado al desarrollo de soluciones cloud.
 
+
 <img src="https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/a2e65b05-66b8-4e22-a555-4a62c8a0ea1d" width="216">
 
 ## INTEGRANTE 2: 
 Mi nombre es Andy Jack Del Aguila Villanueva, estudiante de la carrera de ingenieria de software. Cuento con conocimiento en front end y backend con angular y java springboot, Dart ,flutter, Kotlin , Swift, C++, VueJs. Me especializo en Arquitectura y Diseño de software, tanto para seguridad y sostinibilidad.
+
 
 <img src="https://media.licdn.com/dms/image/C4D03AQE00Bj_cktfxg/profile-displayphoto-shrink_800_800/0/1663084514160?e=1699488000&v=beta&t=eML-FVILp3VhoKnoQDI8QO-nZKxECgjrtSWavUHEFRM" title="" alt="1663084514160 (800×800) (licdn.com)" width="216">
 
@@ -237,15 +238,18 @@ Mi nombre es Andy Jack Del Aguila Villanueva, estudiante de la carrera de ingeni
 
 Mi nombre es Damaris Tasayco Vilcamiza. Actualmente estudio la carrera de Ingeniería de Software, lo que puedo aportar a este proyecto es una combinación de habilidades técnicas en programación y desarrollo web, junto con mi capacidad de poder gestionar proyectos y trabajar de manera colaborativa.
 
+
 <img src="/img/foto2.png" width="216">
 
 ## INTEGRANTE 4:
 Mi nombre es Mariela Martinez Carbajal, estudiante de ingeniería de software. Cuento con experiencia previa en programación en C++ y desarrollo web. Me caracterizo por mi capacidad de adaptación (resiliencia) y mi habilidad para comprender y conectar con los demás (empatía), lo que Considero que será una ventaja en la ejecución de este proyecto.
 
+
 <img src="/img/imagen04.png" width="216">
 
 ## INTEGRANTE 5:
 Mi nombre es Jean-Patrick Yemsi Sanchez Rios, estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Poseo conocimientos en C++, SQL, gestión de bases de datos, diseño gráfico y control de calidad. Estoy aprendiendo ahora mismo el uso de git en control de versiones, lenguajes de programación como Python, Javascript y css, y poseo conocimientos sobre marcos de trabajo ágiles.
+
 
 <img src="https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b15e406d-4f21-45b6-bf4a-39b7d0b460ad" width="216">
 
