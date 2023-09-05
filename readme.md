@@ -133,7 +133,8 @@ INTEGRANTE 5:
 
 
 
-#Solution Profile
+## Solution Profile
+
 Nuestra propuesta como equipo es "Tech Company", una aplicación diseñada para facilitar la conexión entre transportistas y personas que necesiten sus servicios. Este proceso se realizará de manera fácil, accesible y segura tanto para los clientes como para los transportistas. 
 ## Antecedentes y Problemática 
 ### Antecedentes:
