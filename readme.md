@@ -44,21 +44,6 @@ INTEGRANTE 3:
 Mi nombre es Damaris Tasayco Vilcamiza. Actualmente estudio la carrera de Ingeniería de Software, lo que puedo aportar a este proyecto es una combinación de habilidades técnicas en programación y desarrollo web, junto con mi capacidad de poder gestionar proyectos y trabajar de manera colaborativa.
 ![image](/img/foto2.jpg)
 
->> Tasayco Vilcamiza, Damaris: Para esta entrega se realizaró los user stories tanto del cliente como de la empresa, evaluando así las características más importantes posteriormente vistas en la aplicación.
-
-# 1.1.2.	Perfiles de integrantes del equipo
-
-## INTEGRANTE 1: 
-Mi nombre es Caroline Denisse Bernuy Villanueva, estudiante de la carrera de ingeniería de software. Tengo conocimientos previos en desarrollo web con frameworks como Vue, Angular, Express JS y Laravel. Diseño de base de datos SQL y creación de APIs. Mi perfil profesional está orientado al desarrollo de soluciones cloud.
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/a2e65b05-66b8-4e22-a555-4a62c8a0ea1d)
-
-
-## INTEGRANTE 2: 
-Mi nombre es Damaris Tasayco Vilcamiza. Actualmente estudio la carrera de Ingeniería de Software, lo que puedo aportar a este proyecto es una combinación de habilidades técnicas en programación y desarrollo web, junto con mi capacidad de poder gestionar proyectos y trabajar de manera colaborativa.
-![image](/img/foto2.jpg)
-
-
-INTEGRANTE 3: 
 INTEGRANTE 4: 
 INTEGRANTE 5: 
 
