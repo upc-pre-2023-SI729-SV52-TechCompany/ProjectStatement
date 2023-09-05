@@ -6,11 +6,16 @@ A. Criterio específico 1: Comunica oralmente sus ideas y/o resultados con objet
 
 > > Bernuy Villanueva, Caroline Denisse: Para esta entrega se realizaron entrevistas para los usuarios con rol "trasportista" para determinar y mejorar las features. Se organizó con el grupo para el cumplimiento de fechas límites.     Se realizó el PPT Keynote completo con la nueva información. Se modificó y mejoró la sección Style Guidelines, Landing Page UI Design, Web Application UX/UI Design, Web Applications Prototyping y Software Object-Oriented Design.
 
+<<<<<<< HEAD
 > > Del Aguila Villanueva, Andy Jack:En esta entrega, nuestro equipo realizaron una simulación de presentación de proyecto, comunicando de manera efectiva la idea de negocio de una plataforma, la identificación del segmento objetivo y los detalles de diseño y programación de la landing page. Se emplearon rúbricas de evaluación, sesiones de feedback entre pares y entrenamiento en técnicas de presentación para mejorar las habilidades de comunicación oral. Además, se incluyeron simulaciones de preguntas y respuestas de diferentes audiencias, lo que permitió a los estudiantes adaptarse a diversos niveles y especialidades, fortaleciendo sus capacidades de comunicación.
 
 > > Tasayco Vilcamiza, Damaris: Para esta entrega se realizó la entrevista para el usuario con el rol "Clientes". Asimismo, se dividió las partes correspondientes de manera eficiente y ordenada a cada integrante. Finalmente se realizó y mejoró el capítulo 3 los cuales incluyen: To-Be Scenario Mapping, User Stories, Impact Map y Product Backlog.
 
 > > 
+=======
+>> Tasayco Vilcamiza, Damaris: Para esta entrega se realizó la entrevista para el usuario con el rol "Clientes". Asimismo, se dividió las partes correspondientes de manera eficiente y ordenada a cada integrante. Finalmente se realizó y mejoró el capítulo 3 los cuales incluyen: To-Be Scenario Mapping, User Stories, Impact Map y Product Backlog.
+
+>>>>>>> a0660ac95c83783ee0f2f68be068e70e18710bb2
 
 B. Criterio específico 2: Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.
 
@@ -19,6 +24,7 @@ B. Criterio específico 2: Comunica en forma escrita ideas y/o resultados con ob
 > > Bernuy Villanueva, Caroline Denisse: Se realizaron entrevistas y análisis de cada respuesta para evaluar la consistencia del diseño y las funcionalidades de la aplicación.
 > > Se creó y modificó la Landing Page.
 
+<<<<<<< HEAD
 > > Del Aguila Villanueva, Andy Jack: En esta entrega, nuestro equipo se centraron en la comunicación escrita de sus ideas y resultados en el contexto del desarrollo de un proyecto de ingeniería. Lograron transmitir de manera clara y objetiva la conceptualización del proyecto, la identificación de un público diverso y la documentación detallada de los procesos y resultados. Se promovió la revisión y retroalimentación entre pares para mejorar la calidad de la comunicación escrita, y se utilizaron rúbricas específicas para evaluar la claridad, precisión y adaptación a diferentes niveles jerárquicos y especialidades. Esta práctica fortaleció sus habilidades de comunicación escrita en un contexto de ingeniería multidisciplinario y variado.
 
 > > Tasayco Vilcamiza, Damaris: Para esta entrega se realizaró los user stories tanto del cliente como de la empresa, evaluando así las características más importantes posteriormente vistas en la aplicación.
@@ -41,10 +47,30 @@ INTEGRANTE 3:
 Mi nombre es Damaris Tasayco Vilcamiza. Actualmente estudio la carrera de Ingeniería de Software, lo que puedo aportar a este proyecto es una combinación de habilidades técnicas en programación y desarrollo web, junto con mi capacidad de poder gestionar proyectos y trabajar de manera colaborativa.
 ![image](/img/foto2.jpg)
 
+=======
+>> Tasayco Vilcamiza, Damaris: Para esta entrega se realizaró los user stories tanto del cliente como de la empresa, evaluando así las características más importantes posteriormente vistas en la aplicación.
+
+# 1.1.2.	Perfiles de integrantes del equipo
+
+## INTEGRANTE 1: 
+Mi nombre es Caroline Denisse Bernuy Villanueva, estudiante de la carrera de ingeniería de software. Tengo conocimientos previos en desarrollo web con frameworks como Vue, Angular, Express JS y Laravel. Diseño de base de datos SQL y creación de APIs. Mi perfil profesional está orientado al desarrollo de soluciones cloud.
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/a2e65b05-66b8-4e22-a555-4a62c8a0ea1d)
+
+
+## INTEGRANTE 2: 
+Mi nombre es Damaris Tasayco Vilcamiza. Actualmente estudio la carrera de Ingeniería de Software, lo que puedo aportar a este proyecto es una combinación de habilidades técnicas en programación y desarrollo web, junto con mi capacidad de poder gestionar proyectos y trabajar de manera colaborativa.
+![image](/img/foto2.jpg)
+
+
+>>>>>>> a0660ac95c83783ee0f2f68be068e70e18710bb2
 INTEGRANTE 3: 
 INTEGRANTE 4: 
 INTEGRANTE 5: 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> a0660ac95c83783ee0f2f68be068e70e18710bb2
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## Competidores
