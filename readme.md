@@ -96,8 +96,8 @@ B. Criterio específico 2: Comunica en forma escrita ideas y/o resultados con ob
 > > Martinez Carbajal, Mariela: En esta entrega, nuestro equipo se centro en realizar las entrevistas, lo cual nos ayudaron  a mejorar aún más nuestra comunicación oral. Con respecto a las entrevistas, fueron de vital importancia pues pudimos modelar una mejor manera nuestra solución.
 
 # 
-## Startup Profile
-### Descripción de la Start-up
+## 1.1. Startup Profile
+### 1.1.1. Descripción de la Start-up
 Somos un grupo de estudiantes de la Universidad Peruana de Ciencias Aplicadas que ha identificado una oportunidad de negocio en el sector del transporte, que abarca una variedad de áreas. Hemos notado que obtener servicios de transporte de carga o movilidad personal no es tan simple como buscar un producto en línea. Ya sea que necesites transportar mercancías o llevar a tu familia de paseo, a menudo es complicado encontrar proveedores confiables.
 Además, somos conscientes de que existen muchos transportistas independientes que ofrecen servicios de movilidad o transporte de carga, pero a menudo tienen dificultades para llegar a un público más amplio que su propia red de contactos.
 Por lo tanto, hemos creado FlashPorte, una plataforma que conectará a transportistas de diferentes sectores, ya sean independientes o empresas, con personas que necesitan sus servicios. El proceso será sencillo: los transportistas se registrarán proporcionando sus datos personales y completando sus perfiles, esperando a que los clientes los contacten. Por otro lado, las personas que requieran transporte se registrarán, buscarán transportistas en el sector que necesiten y podrán ver las reseñas de clientes anteriores para tomar una decisión informada. Una vez que elijan un transportista, deberá completar un formulario con los detalles del viaje y realizar el pago del servicio. Finalmente, el transportista se dirigirá al lugar acordado, completará el trabajo y nosotros le pagaremos por el servicio prestado."
@@ -107,7 +107,7 @@ Por lo tanto, hemos creado FlashPorte, una plataforma que conectará a transport
 “Posicionarnos como la opción principal de búsqueda de servicios de transporte para los ciudadanos peruanos, superando constantemente las expectativas de cada cliente". 
 
 
-# Perfiles de integrantes del equipo
+# 1.1.2. Perfiles de integrantes del equipo
 
 ## INTEGRANTE 1:
 
@@ -133,10 +133,10 @@ INTEGRANTE 5:
 
 
 
-## Solution Profile
+## 1.2. Solution Profile
 
 Nuestra propuesta como equipo es "Tech Company", una aplicación diseñada para facilitar la conexión entre transportistas y personas que necesiten sus servicios. Este proceso se realizará de manera fácil, accesible y segura tanto para los clientes como para los transportistas. 
-## Antecedentes y Problemática 
+## 1.2.1. Antecedentes y Problemática 
 ### Antecedentes:
 Con respecto a nuestra propuesta, nuestra competencia es la siguiente:
 - TuRuta: Una aplicación móvil desarrollada en Perú que brinda a los usuarios del transporte público en Lima la capacidad de descubrir la ruta óptima para su viaje interurbano y conocer las opciones de transporte disponibles.
@@ -167,15 +167,15 @@ Las personas y transportistas interesados en utilizar nuestros servicios podrán
 - How much? (¿Cuánto?)
 En Perú, nuestra competencia directa es limitada, ya que la mayoría de las aplicaciones de transporte se centran exclusivamente en mudanzas o en el transporte de carga pesada que supere una tonelada. En consecuencia, nos posicionamos como el único startup que ofrece un enfoque integral, a incluir todo tipo de transportes, desde la solicitud de una minivan para fines familiares hasta la contratación de transporte de carga pesada para mercancías.
 
-## Lean UX Process
-### Lean UX Problem Statement
+## 1.2.2. Lean UX Process
+### 1.2.2.1. Lean UX Problem Statement
 El servicio de transporte es esencial tanto para los clientes que necesitan trasladar mercancías o productos, como para las personas que requieren movilidad para diversos fines, como paseos familiares o viajes escolares. Hemos notado que existen plataformas que ofrecen información sobre servicios de transporte, pero a menudo se limitan a un sector específico y no cubren todas las necesidades (como movilidad y carga). Además, no siempre podemos confiar en la veracidad y seguridad de la información proporcionada. 
 ¿cómo podemos reunir todos los sectores de transporte en un solo lugar donde las personas puedan adquirir servicios de manera segura?
 
 Los trabajadores del sector transporte desempeñan un papel fundamental en diferentes negocios, emprendimientos y para los clientes en general. Sin embargo, sabemos que muchos de ellos tienen empleos eventuales e independientes en los que trabajan como transportistas de carga, conductores de movilidad, prestadores de servicios de mudanza, entre otros. Hemos notado que no existe un lugar confiable donde este grupo de trabajadores pueda ofrecer sus servicios y productos, lo que les permitiría generar ingresos adicionales o ampliar su base de clientes y redes de contactos.
 ¿Cómo podemos lograr que este sector pueda ofrecer sus servicios a un público más amplio para obtener ingresos adicionales de manera sencilla?
 
-## Lean UX Assumptions
+## 1.2.2.2. Lean UX Assumptions
  ### CARACTERISTICAS:
 - Registro de usuarios, con identificación adecuada para transportistas y clientes.
 - Perfiles de transportistas con información relevante, fotos de vehículos y documentos de seguridad.
@@ -226,7 +226,7 @@ La usabilidad y la claridad de los llamados a la acción son esenciales. La plat
 - ¿Cómo debe verse nuestro producto y cómo debe comportarse?
 La interfaz debe ser amigable y sencilla, con una elección adecuada de colores que transmitan confianza y seguridad. El diseño debe reflejar seriedad y profesionalismo, para generar confianza en los usuarios.
 
-## Lean UX Hyphotesis Statements
+## 1.2.2.3. Lean UX Hyphotesis Statements
 ### Hypothesis #1
 Creemos que, utilizar el GPS para rastrear el transporte en tiempo real mejorará la confianza y la seguridad de los clientes. Sabremos que, hemos tenido éxito cuando la confianza que los clientes reflejan en las calificaciones aumente en 20%.
 ### Hypothesis #2
@@ -241,11 +241,9 @@ Creemos que, nuestro producto aumentará las ganancias mensuales de los transpor
 ### Hypothesis #5
 Creemos que, ver la reputación de los transportistas aumentará los contratos de aquellos que tienen mejor calificación. Sabremos que, es cierto cuando los ingresos de aquel grupo destacado aumenten en 35%.
 
-## Lean UX Canvas
+## 1.2.2.4. Lean UX Canvas
 
 ![](img/CANVAS.png)
-
-
 
 
 STUDENT OUTCOME
