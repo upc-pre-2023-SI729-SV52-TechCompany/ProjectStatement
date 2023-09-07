@@ -89,6 +89,8 @@ B. Criterio específico 2: Comunica en forma escrita ideas y/o resultados con ob
 > > Martinez Carbajal, Mariela: En esta entrega, nuestro equipo se centro en realizar las entrevistas, lo cual nos ayudaron  a mejorar aún más nuestra comunicación oral. Con respecto a las entrevistas, fueron de vital importancia pues pudimos modelar una mejor manera nuestra solución.
 
 # 
+## 1.1. Startup Profile
+### 1.1.1. Descripción de la Start-up
 
 ## Startup Profile
 
@@ -105,6 +107,8 @@ Por lo tanto, hemos creado FlashPorte, una plataforma que conectará a transport
 ## Visión:
 
 “Posicionarnos como la opción principal de búsqueda de servicios de transporte para los ciudadanos peruanos, superando constantemente las expectativas de cada cliente". 
+
+# 1.1.2. Perfiles de integrantes del equipo
 
 # 1.1.2.    Perfiles de integrantes del equipo
 
@@ -138,11 +142,12 @@ Mi nombre es Jean-Patrick Yemsi Sanchez Rios, estudiante de la carrera de Ingeni
 
 <img src="https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b15e406d-4f21-45b6-bf4a-39b7d0b460ad" width="216">
 
-## Solution Profile
+## 1.2. Solution Profile
 
 Nuestra propuesta como equipo es "Tech Company", una aplicación diseñada para facilitar la conexión entre transportistas y personas que necesiten sus servicios. Este proceso se realizará de manera fácil, accesible y segura tanto para los clientes como para los transportistas. 
 
-## Antecedentes y Problemática
+## 1.2.1. Antecedentes y Problemática 
+
 
 ### Antecedentes:
 
@@ -177,19 +182,28 @@ Con respecto a nuestra propuesta, nuestra competencia es la siguiente:
 - How much? (¿Cuánto?)
   En Perú, nuestra competencia directa es limitada, ya que la mayoría de las aplicaciones de transporte se centran exclusivamente en mudanzas o en el transporte de carga pesada que supere una tonelada. En consecuencia, nos posicionamos como el único startup que ofrece un enfoque integral, a incluir todo tipo de transportes, desde la solicitud de una minivan para fines familiares hasta la contratación de transporte de carga pesada para mercancías.
 
+
+## 1.2.2. Lean UX Process
+### 1.2.2.1. Lean UX Problem Statement
+
 ## Lean UX Process
 
 ### Lean UX Problem Statement
+
 
 El servicio de transporte es esencial tanto para los clientes que necesitan trasladar mercancías o productos, como para las personas que requieren movilidad para diversos fines, como paseos familiares o viajes escolares. Hemos notado que existen plataformas que ofrecen información sobre servicios de transporte, pero a menudo se limitan a un sector específico y no cubren todas las necesidades (como movilidad y carga). Además, no siempre podemos confiar en la veracidad y seguridad de la información proporcionada. 
 ¿cómo podemos reunir todos los sectores de transporte en un solo lugar donde las personas puedan adquirir servicios de manera segura?
 
 Los trabajadores del sector transporte desempeñan un papel fundamental en diferentes negocios, emprendimientos y para los clientes en general. Sin embargo, sabemos que muchos de ellos tienen empleos eventuales e independientes en los que trabajan como transportistas de carga, conductores de movilidad, prestadores de servicios de mudanza, entre otros. Hemos notado que no existe un lugar confiable donde este grupo de trabajadores pueda ofrecer sus servicios y productos, lo que les permitiría generar ingresos adicionales o ampliar su base de clientes y redes de contactos.
-¿Cómo podemos lograr que este sector pueda ofrecer sus servicios a un público más amplio para obtener ingresos adicionales de manera sencilla?
+¿Cómo podemos lograr que este sector pueda ofrecer sus servicios a un público más amplio para obtener ingresos adicionales de manera sencilla
+
+## 1.2.2.2. Lean UX Assumptions
+ ### CARACTERISTICAS:
 
 ## Lean UX Assumptions
 
 ### CARACTERISTICAS:
+
 
 - Registro de usuarios, con identificación adecuada para transportistas y clientes.
 
@@ -271,7 +285,8 @@ Los trabajadores del sector transporte desempeñan un papel fundamental en difer
 - ¿Cómo debe verse nuestro producto y cómo debe comportarse?
   La interfaz debe ser amigable y sencilla, con una elección adecuada de colores que transmitan confianza y seguridad. El diseño debe reflejar seriedad y profesionalismo, para generar confianza en los usuarios.
 
-## Lean UX Hyphotesis Statements
+## 1.2.2.3. Lean UX Hyphotesis Statements
+
 
 ### Hypothesis #1
 
@@ -293,9 +308,78 @@ Creemos que, nuestro producto aumentará las ganancias mensuales de los transpor
 
 Creemos que, ver la reputación de los transportistas aumentará los contratos de aquellos que tienen mejor calificación. Sabremos que, es cierto cuando los ingresos de aquel grupo destacado aumenten en 35%.
 
-## Lean UX Canvas
+## 1.2.2.4. Lean UX Canvas
 
 ![](img/CANVAS.png)
+
+
+
+STUDENT OUTCOME
+
+A. Criterio específico 1: Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.
+
+  TB1
+
+
+**Competitive Analysis Landscape**
+
+> > Bernuy Villanueva, Caroline Denisse: Para esta entrega se realizaron entrevistas para los usuarios con rol "trasportista" para determinar y mejorar las features. Se organizó con el grupo para el cumplimiento de fechas límites.     Se realizó el PPT Keynote completo con la nueva información. Se modificó y mejoró la sección Style Guidelines, Landing Page UI Design, Web Application UX/UI Design, Web Applications Prototyping y Software Object-Oriented Design.
+
+
+> > Del Aguila Villanueva, Andy Jack:En esta entrega, nuestro equipo realizaron una simulación de presentación de proyecto, comunicando de manera efectiva la idea de negocio de una plataforma, la identificación del segmento objetivo y los detalles de diseño y programación de la landing page. Se emplearon rúbricas de evaluación, sesiones de feedback entre pares y entrenamiento en técnicas de presentación para mejorar las habilidades de comunicación oral. Además, se incluyeron simulaciones de preguntas y respuestas de diferentes audiencias, lo que permitió a los estudiantes adaptarse a diversos niveles y especialidades, fortaleciendo sus capacidades de comunicación.
+
+> > Tasayco Vilcamiza, Damaris: Para esta entrega se realizó la entrevista para el usuario con el rol "Clientes". Asimismo, se dividió las partes correspondientes de manera eficiente y ordenada a cada integrante. Finalmente se realizó y mejoró el capítulo 3 los cuales incluyen: To-Be Scenario Mapping, User Stories, Impact Map y Product Backlog.
+
+> > Martinez Carbajal, Mariela: Para esta entrega se realizó el plateo el solution profile, Lean UX Process, Lean UX Problem Statements, demás herramientas influyeron al momento de identificar a nuestros segmentos objetivos y plantear una propuesta más solida y consistente. Asimismo se realizo la entrevista para el segmento objetivo con el rol "clientes".
+
+
+
+B. Criterio específico 2: Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.
+
+  TB1
+
+> > Bernuy Villanueva, Caroline Denisse: Se realizaron entrevistas y análisis de cada respuesta para evaluar la consistencia del diseño y las funcionalidades de la aplicación.
+> > Se creó y modificó la Landing Page.
+
+
+> > Del Aguila Villanueva, Andy Jack: En esta entrega, nuestro equipo se centraron en la comunicación escrita de sus ideas y resultados en el contexto del desarrollo de un proyecto de ingeniería. Lograron transmitir de manera clara y objetiva la conceptualización del proyecto, la identificación de un público diverso y la documentación detallada de los procesos y resultados. Se promovió la revisión y retroalimentación entre pares para mejorar la calidad de la comunicación escrita, y se utilizaron rúbricas específicas para evaluar la claridad, precisión y adaptación a diferentes niveles jerárquicos y especialidades. Esta práctica fortaleció sus habilidades de comunicación escrita en un contexto de ingeniería multidisciplinario y variado.
+
+> > Tasayco Vilcamiza, Damaris: Para esta entrega se realizaró los user stories tanto del cliente como de la empresa, evaluando así las características más importantes posteriormente vistas en la aplicación.
+
+> > Martinez Carbajal, Mariela: En esta entrega, nuestro equipo se centro en realizar las entrevistas, lo cual nos ayudaron  a mejorar aún más nuestra comunicación oral. Con respecto a las entrevistas, fueron de vital importancia pues pudimos modelar una mejor manera nuestra solución.
+
+# 1.1.2.    Perfiles de integrantes del equipo
+
+## INTEGRANTE 1:
+
+Mi nombre es Caroline Denisse Bernuy Villanueva, estudiante de la carrera de ingeniería de software. Tengo conocimientos previos en desarrollo web con frameworks como Vue, Angular, Express JS y Laravel. Diseño de base de datos SQL y creación de APIs. Mi perfil profesional está orientado al desarrollo de soluciones cloud.
+
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/a2e65b05-66b8-4e22-a555-4a62c8a0ea1d)
+
+## INTEGRANTE 2: 
+Mi nombre es Andy Jack Del Aguila Villanueva, estudiante de la carrera de ingenieria de software. Cuento con conocimiento en front end y backend con angular y java springboot, Dart ,flutter, Kotlin , Swift, C++, VueJs. Me especializo en Arquitectura y Diseño de software, tanto para seguridad y sostinibilidad.
+
+<img src="https://media.licdn.com/dms/image/C4D03AQE00Bj_cktfxg/profile-displayphoto-shrink_800_800/0/1663084514160?e=1699488000&v=beta&t=eML-FVILp3VhoKnoQDI8QO-nZKxECgjrtSWavUHEFRM" title="" alt="1663084514160 (800×800) (licdn.com)" width="216">
+
+
+## INTEGRANTE 3:
+
+Mi nombre es Damaris Tasayco Vilcamiza. Actualmente estudio la carrera de Ingeniería de Software, lo que puedo aportar a este proyecto es una combinación de habilidades técnicas en programación y desarrollo web, junto con mi capacidad de poder gestionar proyectos y trabajar de manera colaborativa.
+
+![image](/img/foto2.png)
+
+## INTEGRANTE 4:
+Mi nombre es Mariela Martinez Carbajal, estudiante de ingeniería de software. Cuento con experiencia previa en programación en C++ y desarrollo web. Me caracterizo por mi capacidad de adaptación (resiliencia) y mi habilidad para comprender y conectar con los demás (empatía), lo que Considero que será una ventaja en la ejecución de este proyecto.
+
+![image](/img/imagen04.png)
+
+## INTEGRANTE 5:
+Mi nombre es Jean-Patrick Yemsi Sanchez Rios, estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Poseo conocimientos en C++, SQL, gestión de bases de datos, diseño gráfico y control de calidad. Estoy aprendiendo ahora mismo el uso de git en control de versiones, lenguajes de programación como Python, Javascript y css, y poseo conocimientos sobre marcos de trabajo ágiles.
+
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b15e406d-4f21-45b6-bf4a-39b7d0b460ad)
+
+
+
 
 # Capítulo II: Requirements Elicitation & Analysis
 
