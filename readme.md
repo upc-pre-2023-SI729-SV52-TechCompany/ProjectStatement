@@ -1397,10 +1397,11 @@ El desarrollo de entrevistas nos ayudó a esclarecer la visión del proyecto, en
 
 # ANEXO VÍDEOS
 
-| Sección     | Sobre el contenido              | Integración y entrega                                                      |
-| ----------- | ------------------------------- | -------------------------------------------------------------------------- |
-| Needfinding | Entrevista de cliente N°1       | https://www.youtube.com/watch?v=IX620AcwUyI                                |
-| Needfinding | Entrevista de cliente N°2       | https://youtu.be/nZm0-971QmI                                               |
-| Needfinding | Entrevista de cliente N°3       | https://web.microsoftstream.com/video/f5f2baff-9124-4466-ba6b-fd61ff039a2e |
-| Needfinding | Entrevista de transportista N°1 | https://youtu.be/IiZXr7LSXY0                                               |
-| Needfinding | Entrevista de transportista N°2 | https://web.microsoftstream.com/video/f5f2baff-9124-4466-ba6b-fd61ff039a2e |
+| Sección |     Sobre el contenido   |       Integración y entrega         |
+|---------|--------------------------|-------------------------------------|
+|Keynote|Exposición TB1|https://www.youtube.com/watch?v=yx8Y0UQzcLc|
+|Needfinding|Entrevista de cliente N°1 |https://www.youtube.com/watch?v=IX620AcwUyI|
+|Needfinding|Entrevista de cliente N°2 |https://youtu.be/nZm0-971QmI|
+|Needfinding|Entrevista de cliente N°3 |https://web.microsoftstream.com/video/f5f2baff-9124-4466-ba6b-fd61ff039a2e|
+|Needfinding|Entrevista de transportista N°1 |https://youtu.be/IiZXr7LSXY0|
+|Needfinding|Entrevista de transportista N°2 |https://web.microsoftstream.com/video/f5f2baff-9124-4466-ba6b-fd61ff039a2e|
