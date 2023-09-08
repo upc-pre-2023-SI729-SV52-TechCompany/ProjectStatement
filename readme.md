@@ -1,4 +1,3 @@
-
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/576c7f52-91ec-439b-8f32-6350eb906883)
 
 # CONTENIDO
@@ -53,13 +52,9 @@ Capítulo V: Product Implementation, Validation & Deployment.
 
 # REGISTRO DE VERSIONES DEL INFORME
 
-| Versión |   Fecha    |     Autor   |                        Descripción de modificación                       |
-|---------|------------|-------------|--------------------------------------------------------------------------|
-|V 1.1    | 05/09/2023 | Redfly Team | Actualización Chapter I, II, III, IV y V. Nuevas entrevistas y análisis. |
-
-
-
-
+| Versión | Fecha      | Autor       | Descripción de modificación                                              |
+| ------- | ---------- | ----------- | ------------------------------------------------------------------------ |
+| V 1.1   | 05/09/2023 | Redfly Team | Actualización Chapter I, II, III, IV y V. Nuevas entrevistas y análisis. |
 
 # STUDENT OUTCOME
 
@@ -78,8 +73,6 @@ A. Criterio específico 1: Comunica oralmente sus ideas y/o resultados con objet
 > > Tasayco Vilcamiza, Damaris: Para esta entrega se realizó la entrevista para el usuario con el rol "Clientes". Asimismo, se dividió las partes correspondientes de manera eficiente y ordenada a cada integrante. Finalmente se realizó y mejoró el capítulo 3 los cuales incluyen: To-Be Scenario Mapping, User Stories, Impact Map y Product Backlog.
 
 > > Martinez Carbajal, Mariela: Para esta entrega se realizó el plateo el solution profile, Lean UX Process, Lean UX Problem Statements, demás herramientas influyeron al momento de identificar a nuestros segmentos objetivos y plantear una propuesta más solida y consistente. Asimismo se realizo la entrevista para el segmento objetivo con el rol "clientes".
-
-
 
 B. Criterio específico 2: Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.
 
@@ -96,19 +89,22 @@ B. Criterio específico 2: Comunica en forma escrita ideas y/o resultados con ob
 > > Martinez Carbajal, Mariela: En esta entrega, nuestro equipo se centro en realizar las entrevistas, lo cual nos ayudaron  a mejorar aún más nuestra comunicación oral. Con respecto a las entrevistas, fueron de vital importancia pues pudimos modelar una mejor manera nuestra solución.
 
 # 
-## Startup Profile
-### Descripción de la Start-up
+## 1.1. Startup Profile
+### 1.1.1. Descripción de la Start-up
+
 Somos un grupo de estudiantes de la Universidad Peruana de Ciencias Aplicadas que ha identificado una oportunidad de negocio en el sector del transporte, que abarca una variedad de áreas. Hemos notado que obtener servicios de transporte de carga o movilidad personal no es tan simple como buscar un producto en línea. Ya sea que necesites transportar mercancías o llevar a tu familia de paseo, a menudo es complicado encontrar proveedores confiables.
 Además, somos conscientes de que existen muchos transportistas independientes que ofrecen servicios de movilidad o transporte de carga, pero a menudo tienen dificultades para llegar a un público más amplio que su propia red de contactos.
 Por lo tanto, hemos creado FlashPorte, una plataforma que conectará a transportistas de diferentes sectores, ya sean independientes o empresas, con personas que necesitan sus servicios. El proceso será sencillo: los transportistas se registrarán proporcionando sus datos personales y completando sus perfiles, esperando a que los clientes los contacten. Por otro lado, las personas que requieran transporte se registrarán, buscarán transportistas en el sector que necesiten y podrán ver las reseñas de clientes anteriores para tomar una decisión informada. Una vez que elijan un transportista, deberá completar un formulario con los detalles del viaje y realizar el pago del servicio. Finalmente, el transportista se dirigirá al lugar acordado, completará el trabajo y nosotros le pagaremos por el servicio prestado."
-## Misión: 
+
+## Misión:
+
 “Simplificar, garantizar y mejorar la seguridad en la búsqueda de servicios de transporte en cualquier sector para todos los usuarios”. 
-## Visión: 
+
+## Visión:
+
 “Posicionarnos como la opción principal de búsqueda de servicios de transporte para los ciudadanos peruanos, superando constantemente las expectativas de cada cliente". 
 
-
-
-# 1.1.2.    Perfiles de integrantes del equipo
+# 1.1.2. Perfiles de integrantes del equipo
 
 ## INTEGRANTE 1:
 
@@ -116,11 +112,11 @@ Mi nombre es Caroline Denisse Bernuy Villanueva, estudiante de la carrera de ing
 
 <img src="https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/a2e65b05-66b8-4e22-a555-4a62c8a0ea1d" width="216">
 
-## INTEGRANTE 2: 
+## INTEGRANTE 2:
+
 Mi nombre es Andy Jack Del Aguila Villanueva, estudiante de la carrera de ingenieria de software. Cuento con conocimiento en front end y backend con angular y java springboot, Dart ,flutter, Kotlin , Swift, C++, VueJs. Me especializo en Arquitectura y Diseño de software, tanto para seguridad y sostinibilidad.
 
 <img src="https://media.licdn.com/dms/image/C4D03AQE00Bj_cktfxg/profile-displayphoto-shrink_800_800/0/1663084514160?e=1699488000&v=beta&t=eML-FVILp3VhoKnoQDI8QO-nZKxECgjrtSWavUHEFRM" title="" alt="1663084514160 (800×800) (licdn.com)" width="216">
-
 
 ## INTEGRANTE 3:
 
@@ -129,22 +125,28 @@ Mi nombre es Damaris Tasayco Vilcamiza. Actualmente estudio la carrera de Ingeni
 <img src="/img/foto2.png" width="216">
 
 ## INTEGRANTE 4:
+
 Mi nombre es Mariela Martinez Carbajal, estudiante de ingeniería de software. Cuento con experiencia previa en programación en C++ y desarrollo web. Me caracterizo por mi capacidad de adaptación (resiliencia) y mi habilidad para comprender y conectar con los demás (empatía), lo que Considero que será una ventaja en la ejecución de este proyecto.
 
 <img src="/img/imagen04.png" width="216">
 
 ## INTEGRANTE 5:
+
 Mi nombre es Jean-Patrick Yemsi Sanchez Rios, estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Poseo conocimientos en C++, SQL, gestión de bases de datos, diseño gráfico y control de calidad. Estoy aprendiendo ahora mismo el uso de git en control de versiones, lenguajes de programación como Python, Javascript y css, y poseo conocimientos sobre marcos de trabajo ágiles.
 
 <img src="https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b15e406d-4f21-45b6-bf4a-39b7d0b460ad" width="216">
 
-
-## Solution Profile
+## 1.2. Solution Profile
 
 Nuestra propuesta como equipo es "Tech Company", una aplicación diseñada para facilitar la conexión entre transportistas y personas que necesiten sus servicios. Este proceso se realizará de manera fácil, accesible y segura tanto para los clientes como para los transportistas. 
-## Antecedentes y Problemática 
+
+## 1.2.1. Antecedentes y Problemática 
+
+
 ### Antecedentes:
+
 Con respecto a nuestra propuesta, nuestra competencia es la siguiente:
+
 - TuRuta: Una aplicación móvil desarrollada en Perú que brinda a los usuarios del transporte público en Lima la capacidad de descubrir la ruta óptima para su viaje interurbano y conocer las opciones de transporte disponibles.
 
 - MiCarGapp: App peruana que establece conexiones entre usuarios y clientes que necesitan enviar cargas que pesan desde una tonelada a cualquier ciudad del país, facilitando el transporte de una amplia gama de mercancías, desde mudanzas hasta líquidos peligrosos.
@@ -152,177 +154,155 @@ Con respecto a nuestra propuesta, nuestra competencia es la siguiente:
 - MuberZ: Es una aplicación diseñada para mudanzas de pequeña escala o el transporte de artículos específicos, como electrodomésticos, en Lima. Los servicios ofrecidos pueden variar, desde el simple traslado hasta incluir el embalaje y desembalaje de los artículos.
 
 ### The 5W´s y 2 H´s:
+
 - What? (¿Qué?)
-En la actualidad, existen varias aplicaciones que ofrecen servicios de transporte, pero la mayoría de ellas se centran en entornos urbanos, como Uber, Didi, Cabify, y otras. Nuestra propuesta es mucho más amplia y global. Queremos abarcar desde servicios de transporte personalizados para paseos familiares de hasta 15 personas, hasta servicios que requieran transportar toneladas de carga. Con esta visión integral, buscamos simplificar la conexión entre transportistas y clientes, brindando una solución que satisfaga las necesidades de ambos de manera efectiva y eficiente.
+  En la actualidad, existen varias aplicaciones que ofrecen servicios de transporte, pero la mayoría de ellas se centran en entornos urbanos, como Uber, Didi, Cabify, y otras. Nuestra propuesta es mucho más amplia y global. Queremos abarcar desde servicios de transporte personalizados para paseos familiares de hasta 15 personas, hasta servicios que requieran transportar toneladas de carga. Con esta visión integral, buscamos simplificar la conexión entre transportistas y clientes, brindando una solución que satisfaga las necesidades de ambos de manera efectiva y eficiente.
 
 - When? (¿Cuándo?)
-El problema surge cuando alguien necesita encontrar un medio de transporte específico para un propósito particular. En muchas ocasiones, solo encontramos servicios de taxis a través de diversas aplicaciones. Sin embargo, nos enfrentamos a la incertidumbre de dónde buscar cuando necesitamos un transporte más grande o con mayor capacidad, ya sea para transportar a un grupo de personas o una cantidad significativa de carga de cualquier tipo.
+  El problema surge cuando alguien necesita encontrar un medio de transporte específico para un propósito particular. En muchas ocasiones, solo encontramos servicios de taxis a través de diversas aplicaciones. Sin embargo, nos enfrentamos a la incertidumbre de dónde buscar cuando necesitamos un transporte más grande o con mayor capacidad, ya sea para transportar a un grupo de personas o una cantidad significativa de carga de cualquier tipo.
 
 - Where? (¿Dónde?)
-Nuestro servicio se dará a nivel nacional en un futuro, sin embargo, por ahora, y para comenzar, nos consolidaremos en la capital y luego iremos creciendo hacia otras regiones para cumplir con nuestra visión como startup.
+  Nuestro servicio se dará a nivel nacional en un futuro, sin embargo, por ahora, y para comenzar, nos consolidaremos en la capital y luego iremos creciendo hacia otras regiones para cumplir con nuestra visión como startup.
 
 - Who? (¿Quién?)
-FlashPorte está dirigida a todas las personas que deseen encontrar de manera más rápida y confiable un servicio de transporte que abarca cualquier rubro según la disponibilidad. Por otra parte, también está dirigido a todos los transportistas a todos los transportistas que requieran brindar este servicio ampliar su oferta a más personas y tener más ingresos.
+  FlashPorte está dirigida a todas las personas que deseen encontrar de manera más rápida y confiable un servicio de transporte que abarca cualquier rubro según la disponibilidad. Por otra parte, también está dirigido a todos los transportistas a todos los transportistas que requieran brindar este servicio ampliar su oferta a más personas y tener más ingresos.
 
 - Why? (¿Por qué?)
-Como mencionamos anteriormente, esta propuesta surge como respuesta a la necesidad de contar con una plataforma que permita a transportistas particulares de todos los sectores ofrecer sus servicios, brindando a las personas o clientes una variedad de opciones para elegir el tipo de servicio que necesitan. Además, se crea este espacio para que aquellos trabajadores que se dedican al transporte, ya sea de carga, mercancías, personas, u otros, de manera independiente, puedan ampliar su alcance de público y, como resultado, aumentar sus ganancias.
+  Como mencionamos anteriormente, esta propuesta surge como respuesta a la necesidad de contar con una plataforma que permita a transportistas particulares de todos los sectores ofrecer sus servicios, brindando a las personas o clientes una variedad de opciones para elegir el tipo de servicio que necesitan. Además, se crea este espacio para que aquellos trabajadores que se dedican al transporte, ya sea de carga, mercancías, personas, u otros, de manera independiente, puedan ampliar su alcance de público y, como resultado, aumentar sus ganancias.
 
 - How? (¿Cómo?)
-Las personas y transportistas interesados en utilizar nuestros servicios podrán encontrarnos en línea a través de nuestro sitio web, donde encontrarán información relevante en nuestra landing page, o bien, podrán descargar nuestra aplicación móvil. Otra opción para ubicarnos es a través de las redes sociales del startup, y también podrán descargar la aplicación desde Google Play o la App Store.
+  Las personas y transportistas interesados en utilizar nuestros servicios podrán encontrarnos en línea a través de nuestro sitio web, donde encontrarán información relevante en nuestra landing page, o bien, podrán descargar nuestra aplicación móvil. Otra opción para ubicarnos es a través de las redes sociales del startup, y también podrán descargar la aplicación desde Google Play o la App Store.
 
 - How much? (¿Cuánto?)
-En Perú, nuestra competencia directa es limitada, ya que la mayoría de las aplicaciones de transporte se centran exclusivamente en mudanzas o en el transporte de carga pesada que supere una tonelada. En consecuencia, nos posicionamos como el único startup que ofrece un enfoque integral, a incluir todo tipo de transportes, desde la solicitud de una minivan para fines familiares hasta la contratación de transporte de carga pesada para mercancías.
+  En Perú, nuestra competencia directa es limitada, ya que la mayoría de las aplicaciones de transporte se centran exclusivamente en mudanzas o en el transporte de carga pesada que supere una tonelada. En consecuencia, nos posicionamos como el único startup que ofrece un enfoque integral, a incluir todo tipo de transportes, desde la solicitud de una minivan para fines familiares hasta la contratación de transporte de carga pesada para mercancías.
 
-## Lean UX Process
-### Lean UX Problem Statement
+
+## 1.2.2. Lean UX Process
+### 1.2.2.1. Lean UX Problem Statement
+
 El servicio de transporte es esencial tanto para los clientes que necesitan trasladar mercancías o productos, como para las personas que requieren movilidad para diversos fines, como paseos familiares o viajes escolares. Hemos notado que existen plataformas que ofrecen información sobre servicios de transporte, pero a menudo se limitan a un sector específico y no cubren todas las necesidades (como movilidad y carga). Además, no siempre podemos confiar en la veracidad y seguridad de la información proporcionada. 
 ¿cómo podemos reunir todos los sectores de transporte en un solo lugar donde las personas puedan adquirir servicios de manera segura?
 
 Los trabajadores del sector transporte desempeñan un papel fundamental en diferentes negocios, emprendimientos y para los clientes en general. Sin embargo, sabemos que muchos de ellos tienen empleos eventuales e independientes en los que trabajan como transportistas de carga, conductores de movilidad, prestadores de servicios de mudanza, entre otros. Hemos notado que no existe un lugar confiable donde este grupo de trabajadores pueda ofrecer sus servicios y productos, lo que les permitiría generar ingresos adicionales o ampliar su base de clientes y redes de contactos.
-¿Cómo podemos lograr que este sector pueda ofrecer sus servicios a un público más amplio para obtener ingresos adicionales de manera sencilla?
+¿Cómo podemos lograr que este sector pueda ofrecer sus servicios a un público más amplio para obtener ingresos adicionales de manera sencilla
 
-## Lean UX Assumptions
+## 1.2.2.2. Lean UX Assumptions
  ### CARACTERISTICAS:
 - Registro de usuarios, con identificación adecuada para transportistas y clientes.
+
 - Perfiles de transportistas con información relevante, fotos de vehículos y documentos de seguridad.
+
 - Sistema de calificación por estrellas y comentarios de clientes anteriores para evaluar la reputación de los transportistas.
+
 - Opción de pago en línea para los servicios (el pago se realizará al transportista una vez completado el trabajo).
+
 - Historial de servicios brindados (para transportistas) y servicios contratados (para clientes).
+
 - Foro comunitario para construir una comunidad en la plataforma.
+
 - Seguimiento en tiempo real de la ubicación del transporte utilizando tecnología GPS.
+
 - Filtros para que los clientes puedan elegir el tipo de transporte que necesitan.
-### BUSINESS OUTCOMES:
+  
+  ### BUSINESS OUTCOMES:
+
 - Ampliar las opciones disponibles para que los usuarios tengan una variedad de opciones de transporte para elegir.
+
 - Garantizar la seguridad de los usuarios durante el proceso de pago y al seleccionar un transportista.
+
 - Asegurar que los transportistas reciban pagos de manera segura y disfruten de nuestros servicios.
+
 - Promover el uso continuo de nuestra plataforma para atraer a más usuarios y aumentar nuestra base de clientes.
-### BENEFICIOS DEL USUARIO:
+  
+  ### BENEFICIOS DEL USUARIO:
+
 - Para los transportistas, nuestro objetivo es ayudarlos a expandir su base de clientes y, en consecuencia, aumentar sus ingresos.
+
 - Para los clientes, buscamos proporcionarles una mayor variedad de opciones de transporte y la capacidad de tomar decisiones informadas basadas en las calificaciones y comentarios de los transportistas.
+
 - Para los clientes, queremos simplificar la búsqueda de servicios de transporte para los clientes al ofrecer una plataforma única y centralizada en lugar de tener que buscar en varios sitios web.
+
 - Para los clientes, les permitimos mantenernos informados sobre la ubicación de su transporte a través de la tecnología GPS.
+
 - Les brindamos la oportunidad de compartir sus experiencias y opiniones en un foro comunitario.
-### BUSINESS ASSUMPTIONS
+  
+  ### BUSINESS ASSUMPTIONS
+
 - Creemos que los usuarios buscan un espacio seguro donde tanto los transportistas como los clientes puedan ofrecer y adquirir servicios de transporte de manera confiable.
+
 - Los transportistas desean una plataforma que les permita llegar a un público más amplio y aumentar sus ingresos al proporcionar sus servicios.
+
 - Nuestros usuarios valoran la veracidad de la información y la seguridad en los pagos al buscar y adquirir servicios de transporte. Estas necesidades pueden abordarse mediante una aplicación que conecta a transportistas y clientes, garantizando la seguridad y la satisfacción del usuario.
+
 - Los usuarios iniciales serán transportistas que ofrecen servicios de transporte en diversos rubros.
+
 - El valor número uno que una persona busca en la aplicación es la rapidez, confiabilidad y seguridad al contratar servicios de transporte.
+
 - Planeamos atraer clientes a través de anuncios cuando busquen servicios de transporte en línea o cuando los transportistas busquen clientes en sitios web relevantes.
+
 - Nuestros ingresos provendrán de publicidad no intrusiva dentro de la aplicación y de comisiones por los pagos de servicios.
+
 - Nuestra competencia principal en el mercado son startups relacionadas con el transporte, pero diferenciamos al abarcar diversos sectores de transporte ya través de una estrategia publicitaria efectiva en sitios web clave.
+
 - El mayor riesgo para la aplicación es la información errónea o falsa sobre los transportistas, lo cual podría causar problemas con los clientes durante la prestación del servicio. 
+
 - Venceremos, mejoraremos la gestión y verificación de la información, y solicitaremos pruebas de la información proporcionadas por los transportistas.
-### USER ASSUMPTIONS
+  
+  ### USER ASSUMPTIONS
+
 - ¿Quién es el usuario?  
-Nuestro producto está dirigido tanto a personas que brindan servicios de transporte relacionados con diversos sectores como a personas de entre 20 y 50 años que requieran de estos servicios.
+  Nuestro producto está dirigido tanto a personas que brindan servicios de transporte relacionados con diversos sectores como a personas de entre 20 y 50 años que requieran de estos servicios.
 
 - ¿Dónde encaja nuestro producto en su trabajo o vida? 
-Para los transportistas, nuestro producto encaja en su trabajo al permitirles ofrecer sus servicios de manera más amplia. Para los clientes, encaja en su vida cotidiana al proporcionarles una solución conveniente para sus necesidades de transporte.
+  Para los transportistas, nuestro producto encaja en su trabajo al permitirles ofrecer sus servicios de manera más amplia. Para los clientes, encaja en su vida cotidiana al proporcionarles una solución conveniente para sus necesidades de transporte.
 
 - ¿Qué problemas tiene nuestro producto y cómo se pueden resolver? 
-Uno de los posibles problemas podría ser la experiencia del usuario debido a la variedad de opciones disponibles. Esto se puede abordar recopilando comentarios de la comunidad y optimizando las características de la aplicación para que sea más fácil de usar y más eficiente.
+  Uno de los posibles problemas podría ser la experiencia del usuario debido a la variedad de opciones disponibles. Esto se puede abordar recopilando comentarios de la comunidad y optimizando las características de la aplicación para que sea más fácil de usar y más eficiente.
 
 - ¿Cuándo y cómo se usa nuestro producto? 
-Nuestro producto será de fácil acceso y uso, y se utilizará cada vez que un cliente necesite un servicio de transporte en cualquier contexto donde haya un transportista registrado que ofrezca dicho servicio.
+  Nuestro producto será de fácil acceso y uso, y se utilizará cada vez que un cliente necesite un servicio de transporte en cualquier contexto donde haya un transportista registrado que ofrezca dicho servicio.
 
 - ¿Qué características son importantes? 
-La usabilidad y la claridad de los llamados a la acción son esenciales. La plataforma debe ser útil tanto para los transportistas como para los clientes, ofreciendo una experiencia intuitiva y efectiva.
+  La usabilidad y la claridad de los llamados a la acción son esenciales. La plataforma debe ser útil tanto para los transportistas como para los clientes, ofreciendo una experiencia intuitiva y efectiva.
 
 - ¿Cómo debe verse nuestro producto y cómo debe comportarse?
-La interfaz debe ser amigable y sencilla, con una elección adecuada de colores que transmitan confianza y seguridad. El diseño debe reflejar seriedad y profesionalismo, para generar confianza en los usuarios.
+  La interfaz debe ser amigable y sencilla, con una elección adecuada de colores que transmitan confianza y seguridad. El diseño debe reflejar seriedad y profesionalismo, para generar confianza en los usuarios.
 
-## Lean UX Hyphotesis Statements
+## 1.2.2.3. Lean UX Hyphotesis Statements
+
 ### Hypothesis #1
+
 Creemos que, utilizar el GPS para rastrear el transporte en tiempo real mejorará la confianza y la seguridad de los clientes. Sabremos que, hemos tenido éxito cuando la confianza que los clientes reflejan en las calificaciones aumente en 20%.
+
 ### Hypothesis #2
+
 Creemos que, nuestra app perdurará en el mercado. Sabremos que, es cierto cuando los usuarios sigan evaluando y calificando el funcionamiento de la app. 
 
 ### Hypothesis #3
+
 Creemos que, tener anuncios en internet aumentará el número de nuevos usuarios. Sabremos que, es cierto cuando notemos un incremento mensual del 10% de nuevos usuarios.
 
 ### Hypothesis #4
+
 Creemos que, nuestro producto aumentará las ganancias mensuales de los transportistas independientes. Sabremos que, estamos en lo correcto cuando los ingresos reportados por los transportistas el segundo mes de uso aumente en 15%.
 
 ### Hypothesis #5
+
 Creemos que, ver la reputación de los transportistas aumentará los contratos de aquellos que tienen mejor calificación. Sabremos que, es cierto cuando los ingresos de aquel grupo destacado aumenten en 35%.
 
-## Lean UX Canvas
+## 1.2.2.4. Lean UX Canvas
 
 ![](img/CANVAS.png)
 
-# STUDENT OUTCOME
-
-A. Criterio específico 1: Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.
-
-  TB1
-
-**Competitive Analysis Landscape**
-
-> > Bernuy Villanueva, Caroline Denisse: Para esta entrega se realizaron entrevistas para los usuarios con rol "trasportista" para determinar y mejorar las features. Se organizó con el grupo para el cumplimiento de fechas límites.     Se realizó el PPT Keynote completo con la nueva información. Se modificó y mejoró la sección Style Guidelines, Landing Page UI Design, Web Application UX/UI Design, Web Applications Prototyping y Software Object-Oriented Design.
-
-> > Sanchez Rios, Jean-Patrick: Para el presente entregable se realizó el análisis de competidores para ver dilucidar mejor la importancia de nuestro valor agregado.
-
-> > Del Aguila Villanueva, Andy Jack:En esta entrega, nuestro equipo realizaron una simulación de presentación de proyecto, comunicando de manera efectiva la idea de negocio de una plataforma, la identificación del segmento objetivo y los detalles de diseño y programación de la landing page. Se emplearon rúbricas de evaluación, sesiones de feedback entre pares y entrenamiento en técnicas de presentación para mejorar las habilidades de comunicación oral. Además, se incluyeron simulaciones de preguntas y respuestas de diferentes audiencias, lo que permitió a los estudiantes adaptarse a diversos niveles y especialidades, fortaleciendo sus capacidades de comunicación.
-
-> > Tasayco Vilcamiza, Damaris: Para esta entrega se realizó la entrevista para el usuario con el rol "Clientes". Asimismo, se dividió las partes correspondientes de manera eficiente y ordenada a cada integrante. Finalmente se realizó y mejoró el capítulo 3 los cuales incluyen: To-Be Scenario Mapping, User Stories, Impact Map y Product Backlog.
-
-> > Martinez Carbajal, Mariela: Para esta entrega se realizó el plateo el solution profile, Lean UX Process, Lean UX Problem Statements, demás herramientas influyeron al momento de identificar a nuestros segmentos objetivos y plantear una propuesta más solida y consistente. Asimismo se realizo la entrevista para el segmento objetivo con el rol "clientes".
-
-
-
-B. Criterio específico 2: Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.
-
-  TB1
-
-> > Bernuy Villanueva, Caroline Denisse: Se realizaron entrevistas y análisis de cada respuesta para evaluar la consistencia del diseño y las funcionalidades de la aplicación. Se creó, editó y desplegó la Landing Page del producto. Finalmente, se hizo las revisiones finales de la entrega, incluyendo modificación del informe, bibliografía y Anexos.
-
-> > Sanchez Rios, Jean-Patrick: Realice entrevistas y análisis posteriores para el correcto procesamiento de la información con el fin de utilizarlo para mejorar la experiencia de usuaria de nuestra app
-
-> > Del Aguila Villanueva, Andy Jack: En esta entrega, nuestro equipo se centraron en la comunicación escrita de sus ideas y resultados en el contexto del desarrollo de un proyecto de ingeniería. Lograron transmitir de manera clara y objetiva la conceptualización del proyecto, la identificación de un público diverso y la documentación detallada de los procesos y resultados. Se promovió la revisión y retroalimentación entre pares para mejorar la calidad de la comunicación escrita, y se utilizaron rúbricas específicas para evaluar la claridad, precisión y adaptación a diferentes niveles jerárquicos y especialidades. Esta práctica fortaleció sus habilidades de comunicación escrita en un contexto de ingeniería multidisciplinario y variado.
-
-> > Tasayco Vilcamiza, Damaris: Para esta entrega se realizaró los user stories tanto del cliente como de la empresa, evaluando así las características más importantes posteriormente vistas en la aplicación.
-
-> > Martinez Carbajal, Mariela: En esta entrega, nuestro equipo se centro en realizar las entrevistas, lo cual nos ayudaron  a mejorar aún más nuestra comunicación oral. Con respecto a las entrevistas, fueron de vital importancia pues pudimos modelar una mejor manera nuestra solución.
-
-#
-
-# 1.1.2.    Perfiles de integrantes del equipo
-
-## INTEGRANTE 1:
-
-Mi nombre es Caroline Denisse Bernuy Villanueva, estudiante de la carrera de ingeniería de software. Tengo conocimientos previos en desarrollo web con frameworks como Vue, Angular, Express JS y Laravel. Diseño de base de datos SQL y creación de APIs. Mi perfil profesional está orientado al desarrollo de soluciones cloud.
-
-
-<img src="https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/a2e65b05-66b8-4e22-a555-4a62c8a0ea1d" width="216">
-
-## INTEGRANTE 2: 
-Mi nombre es Andy Jack Del Aguila Villanueva, estudiante de la carrera de ingenieria de software. Cuento con conocimiento en front end y backend con angular y java springboot, Dart ,flutter, Kotlin , Swift, C++, VueJs. Me especializo en Arquitectura y Diseño de software, tanto para seguridad y sostinibilidad.
-
-
-<img src="https://media.licdn.com/dms/image/C4D03AQE00Bj_cktfxg/profile-displayphoto-shrink_800_800/0/1663084514160?e=1699488000&v=beta&t=eML-FVILp3VhoKnoQDI8QO-nZKxECgjrtSWavUHEFRM" title="" alt="1663084514160 (800×800) (licdn.com)" width="216">
-
-
-## INTEGRANTE 3:
-
-Mi nombre es Damaris Tasayco Vilcamiza. Actualmente estudio la carrera de Ingeniería de Software, lo que puedo aportar a este proyecto es una combinación de habilidades técnicas en programación y desarrollo web, junto con mi capacidad de poder gestionar proyectos y trabajar de manera colaborativa.
-
-
-<img src="/img/foto2.png" width="216">
-
-## INTEGRANTE 4:
-Mi nombre es Mariela Martinez Carbajal, estudiante de ingeniería de software. Cuento con experiencia previa en programación en C++ y desarrollo web. Me caracterizo por mi capacidad de adaptación (resiliencia) y mi habilidad para comprender y conectar con los demás (empatía), lo que Considero que será una ventaja en la ejecución de este proyecto.
-
-
-<img src="/img/imagen04.png" width="216">
-
-## INTEGRANTE 5:
-Mi nombre es Jean-Patrick Yemsi Sanchez Rios, estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Poseo conocimientos en C++, SQL, gestión de bases de datos, diseño gráfico y control de calidad. Estoy aprendiendo ahora mismo el uso de git en control de versiones, lenguajes de programación como Python, Javascript y css, y poseo conocimientos sobre marcos de trabajo ágiles.
-
-
-<img src="https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b15e406d-4f21-45b6-bf4a-39b7d0b460ad" width="216">
-
-
+## 1.3. Segmentos objetivos
+Dentro de nuestro grupo objetivo, hemos identificado dos categorías de usuarios: 
+Primero, tenemos a las personas que necesitan diferentes tipos de servicios de transporte, como transporte de carga pesada, movilidad personal, mudanzas o vehículos particulares para grupos.  
+- Estas personas residen en el territorio peruano.  
+- Varones o mujeres cuyas edades están comprendidas entre los 20 y 50 años. 
+Segundo, tenemos a los trabajadores del sector del transporte que ofrecen servicios de forma independiente.  
+- Personas que deben tener al menos 25 años.  
+- Que tenga documentación de su vehículo esté en regla. 
+- Personas interesadas en ganar ingresos adicionales o aumentar su visibilidad para atraer más clientes. 
 
 # Capítulo II: Requirements Elicitation & Analysis
 
@@ -382,17 +362,17 @@ Preguntas al segmento cliente:
 
 #### Clientes:
 
-a.	Primera entrevista: 
+a.    Primera entrevista: 
 
-o	Entrevistado: Priscila Tasayco
+o    Entrevistado: Priscila Tasayco
 
-o	Edad: 21
+o    Edad: 21
 
-o	Residencia: Lima
+o    Residencia: Lima
 
-o	Ocupación: Estudiante
+o    Ocupación: Estudiante
 
-o	Entrevistador: Damaris Tasayco
+o    Entrevistador: Damaris Tasayco
 
 o Enlace: https://www.youtube.com/watch?v=IX620AcwUyI
 
@@ -400,17 +380,17 @@ Priscila Tasayco cree que los servicios de transporte de mercadería en el Perú
 
 ![image](/img/entrevista1.png)
 
-b.	Segunda entrevista: 
+b.    Segunda entrevista: 
 
-o	Entrevistado: Susan Vega
+o    Entrevistado: Susan Vega
 
-o	Edad: 25
+o    Edad: 25
 
-o	Residencia: Lima
+o    Residencia: Lima
 
-o	Ocupación: Empresaria
+o    Ocupación: Empresaria
 
-o	Entrevistador: Mariela Martinez
+o    Entrevistador: Mariela Martinez
 
 o Enlace:https://youtu.be/nZm0-971QmI
 
@@ -420,21 +400,20 @@ Ella cree que usar una aplicación que ofrezca servicios de transporte podría a
 
 ![image](/img/entrevista2.jpeg)
 
-c.	Tercera entrevista: 
+c.    Tercera entrevista: 
 
-o	Entrevistado: Teodoro Geiner Liberato Villanueva
+o    Entrevistado: Teodoro Geiner Liberato Villanueva
 
-o	Edad: 52 años
+o    Edad: 52 años
 
-o	Distrito: Huacho
+o    Distrito: Huacho
 
-o	Enlace: https://web.microsoftstream.com/video/f5f2baff-9124-4466-ba6b-fd61ff039a2e
+o    Enlace: https://web.microsoftstream.com/video/f5f2baff-9124-4466-ba6b-fd61ff039a2e
 
 El entrevistado es Teodoro Liberato y es un comerciante de productos por temporada el cual se dedica a vender productos que están más fuertes en el mercado (limones, manzanas, peras, etc.). Este trabajo lo realiza en el mercado de Huacho. Con respecto al transporte le parece el enemigo número uno para cumplir su labor porque es inestable el petróleo y el flete es caro, debido a eso consigue varios precios para sus productos.
 Con respecto al contacto de los transportistas, lo realiza regularmente. En caso de los limones los trae desde suyana con unos trailers que son contratados por una empresa externa.
 
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/74f18f6c-539e-4f81-b610-d8afad43c39c)
-
 
 #### Transportistas:
 
@@ -456,7 +435,6 @@ Joakim Francia indica que trabaja en una empresa familiar de transporte de carga
 
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/567747e1-14fe-4ff3-998b-e11efbe2aef0)
 
-
 b.    Segunda entrevista:
 
 o    Entrevistado:  Alex Ganoza Condori
@@ -472,7 +450,6 @@ o    Entrevistador: Jean-Patrick Yemsi
 En una conversación con Alex Ganoza Condori, un dedicado padre de familia de 34 años con una década de experiencia en el transporte de mercadería, se revelaron detalles interesantes sobre su vida laboral y sus aspiraciones para el futuro. Alex es propietario de su propio vehículo y su sustento depende de la distancia que recorre para entregar mercancía y la cantidad de trabajos que realiza. Durante la entrevista, Alex compartió que su experiencia en el transporte ha sido en gran parte sin mayores inconvenientes, ya que suele operar rutas tranquilas y tiene un historial de entregas exitosas. Sin embargo, está decidido a expandir su negocio y aumentar su clientela. Para lograrlo, está considerando utilizar un servicio web que le permita llegar a más clientes y brindarles una mayor sensación de confianza. Alex ve en la tecnología una oportunidad para crecer en su profesión y facilitar las transacciones con sus clientes. Con la implementación de un servicio web, espera tener acceso a un mercado más amplio y ganar la confianza de aquellos que buscan sus servicios de transporte.
 
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/77073119-2475-46f8-a62f-3e871e152600)
-
 
 ### Analisis de entrevistas
 
@@ -656,9 +633,11 @@ Para calificar el puntaje a los user stories se utilizó la escala de Fibonacci
 # CAPÍTULO IV: PRODUCT UX/UI DESIGN
 
 ## 4.1. Style Guidelines.
+
 En esta sección presentaremos las guías de estilo que usaremos para la realización de nuestros mock-ups, prototipo y aplicación web. 
 
 ### 4.1.1 General Style Guidelines.
+
 El estilo general de nuestro product UX/UI design contiene los siguientes colores los cuales se especifican con su código. Así como también la fuente utilizada es Inter.
 Figura 12
 Colores del General Style Guidelines 
@@ -697,16 +676,19 @@ Form Elements del General Style Guidelines
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/6e62155b-7f6d-4762-8675-ca5da1438216)
 
 ## 4.2. Information Architecture.
+
 En esta sección, mostramos el Information Architecture de FlashPorte, donde se plantea la organización y estructura que se manejara para esta propuesta. Teniendo en cuenta, que nuestros usuarios puedan saber dónde se encuentra la información que se está buscando.
 Organization Systems.
 Enlace al diagrama: https://overflow.io/s/0OYSZACI
 
 Figura 20
 
-### 4.2.1. Organizations Systems de FlashPorte 
+### 4.2.1. Organizations Systems de FlashPorte
+
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b8bd5533-e6ad-4cbb-861f-637444b6fb30)
 
 ### 4.2.2. Labeling Systems.
+
 Para los sistemas de etiquetado, utilizamos el lenguaje formal que refleja la seriedad en la aplicación, buscando así la mejor experiencia para nuestros usuarios.
 Label transportista:
 
@@ -754,6 +736,7 @@ Sección “Notification”
 Dentro de esta sección el usuario podrá visualizar los mensajes, solicitudes, contratos y todo tipo de notificaciones entrantes.
 
 ### 4.2.3. SEO Tags and Meta Tags
+
 Figura 23
 SEO Tags and Meta Tags de FlashPorte
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/a97aa671-9745-4abd-b139-813ca23f69a3)
@@ -786,12 +769,14 @@ Rating Tag
 Seleccionamos el rating mayor de 14 años, para tener mayor porcentaje de llegada. Además, al ser una app en la que el dinero es usado, no queremos personas insatisfechas por incentivar a niños gastar dinero sin su permiso.
 
 ### 4.2.4. Searching Systems.
+
 Link del diagrama para una mejor visualización: https://overflow.io/s/S73IBLXW 
 Figura 24
 Searching Systems de FlashPorte
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b910cf85-a4fc-42f4-9956-213896ca3c2d)
 
 ### 4.2.5. Navigation Systems.
+
 Para el sistema de navegación nos enfocamos en la comodidad y eficiencia que se le debe brindar al usuario, ya que son puntos sumamente importantes, en el que tomamos como prioridad el tiempo en el que el usuario demora en realizar una tarea.
 Figura 25
 Navegation Systems de FlashPorte
@@ -799,9 +784,11 @@ Navegation Systems de FlashPorte
 Link al diagrama: https://overflow.io/s/KMMHWVUC 
 
 ## 4.3. Landing Page UI Design.
+
 En esta sección presentaremos el diseño de nuestra landing page empezando desde modelos de baja fidelidad como los wireframes y luego los mock-ups.
 
 ### 4.3.1. Landing Page Wireframe.
+
 Las imágenes a continuación pertenecen a los wireframes realizados para el landing page. Abrir el link para más detalles del wireframe y de la versión mobile web browser: https://www.figma.com/file/xEc3h40NLBBgX0yLjxhLq9/Wireframe-FlashPorte?node-id=0%3A1 
 
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/bf8f2fa5-d41f-4f03-92cb-ccc03cd6a524)
@@ -813,7 +800,8 @@ Las imágenes a continuación pertenecen a los wireframes realizados para el lan
 
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/4e2c6d9a-6720-4354-b7cc-35822211656e)
 
-### 4.3.2. Landing Page Mock-up. 
+### 4.3.2. Landing Page Mock-up.
+
 Las imágenes a continuación pertenecen a los mock-ups realizados para el landing page. Abrir el link para más detalles de la versión desktop y mobile web browser:
 
 Desktop:
@@ -825,9 +813,11 @@ Link al Figma:
 https://www.figma.com/file/caTTSknpD8t2zhfg16qAya/MockUp-FlashPorte?node-id=0%3A1 
 
 ## 4.4. Web Application UX/UI Design.
+
 En esta sección presentaremos el diseño de nuestra web application empezando desde modelos de baja fidelidad como los wireframes y luego los mock-ups.
 
 ### 4.4.1. Web Application Wireframes.
+
 Las siguientes imágenes corresponden a los wireframes de la web applications. El link para visualizarlo a mayor detalle es el siguiente: https://www.figma.com/file/ipzddVXEuU5ee0IHE0hLyv/Open-source?node-id=0%3A1
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/d89def2d-7d9e-4f8b-b37b-6046b2c1febc)
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/814b3f46-0161-4607-86b2-c47d5580d287)
@@ -845,6 +835,7 @@ Las siguientes imágenes corresponden a los wireframes de la web applications. E
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/5092210f-41e5-4db3-ae9a-5c7a25cc47bd)
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
+
 Enlace a la herramienta Overflow: https://overflow.io/s/F52U2XO9 
 
 Interfaz de Entrada
@@ -942,6 +933,7 @@ https://www.figma.com/file/ipzddVXEuU5ee0IHE0hLyv/Open-source?node-id=1%3A3
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/fcd36647-5c82-4c31-8a4f-a4e9e4b526ee)
 
 ### 4.4.4. Web Applications User Flow Diagrams.
+
 Link a la herramienta Overflow: https://overflow.io/s/85R4PMQT 
 
 Interfaz de Entrada
@@ -1026,6 +1018,7 @@ Wireflow 18: Cerrar Sección
 Para Cerrar Sesión presiona su nombre y aparece el botón “Log Out” el cual le permitirá cerrar su sesión.
 
 ## 4.5. Web Applications Prototyping.
+
 El siguiente diagrama corresponde a una captura de pantalla del web application prototyping realizado en la herramienta online Figma. Para una mejor visualización es recomendable visitar el siguiente link: https://www.figma.com/proto/ipzddVXEuU5ee0IHE0hLyv/Open-source?page-id=1%3A3&node-id=98%3A392&viewport=328%2C118%2C0.07&scaling=min-zoom&starting-point-node-id=98%3A392 
 Figura 26
 Web Applications Prototyping
@@ -1033,6 +1026,7 @@ Web Applications Prototyping
 Link del vídeo mostrando el prototipo: https://web.microsoftstream.com/video/8e734b84-b288-4595-89e7-5385d2618d73 
 
 ## 4.6. Domain-Driven Software Architecture.
+
 En esta sección se presentará lo relacionado al domain-driven software architecture.
 
 ### 4.6.1. Software Architecture Context Diagram.
@@ -1042,6 +1036,7 @@ Context Diagram de FlashPorte
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/577ea050-7f1e-4675-860d-90fe58f47d7d)
 
 ### 4.6.2. Software Architecture Container Diagrams.
+
 Figura 28
 Container Diagram de FlashPorte
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/2d7123f5-b315-46a8-869e-79d9573857cc)
@@ -1065,9 +1060,11 @@ Cuarto Component Diagram de FlashPorte
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b45740bd-2217-4c8a-b74b-8fd22504fa82)
 
 ## 4.7. Software Object-Oriented Design.
+
 En esta sección se presentará tanto el diagrama de clases, así como también el diccionario de clases.
 
 ### 4.7.1.    Class Diagrams.
+
 El siguiente diagrama corresponde al diagrama de clases diseñado para nuestra propuesta hecha en la herramienta online Lucidchart. Para una mejor visualización, entrar al siguiente link iniciando sesión: https://lucid.app/lucidchart/b7824e96-fd63-456e-9c91-2a7ef1b93414/edit?viewport_loc=-182%2C89%2C2415%2C1153%2C0_0&invitationId=inv_9d8768a2-34cb-46ba-82cc-7390628c81bf# 
 Link directo a la imagen: https://drive.google.com/file/d/1MYmc2zjEaQyPoKPaLiCF_B1eGtA8tMOI/view?usp=sharing 
 
@@ -1076,6 +1073,7 @@ Class Diagram de FlashPorte
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b7aeda1e-b9ec-4dc1-8ad3-364d5351cdf3)
 
 ### 4.7.2.    Class Dictionary.
+
 En la siguiente tabla mostramos el diccionario de clases.
 Tabla 9
 Desarrollo del Class Dictionary
@@ -1085,8 +1083,11 @@ Desarrollo del Class Dictionary
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/c3889ab2-e000-4e93-bce1-82e37db07c6d)
 
 ## 4.8.    Database Design.
+
 En esta sección se muestra diseño del diagrama de base de datos. 
+
 ### 4.8.1.    Database Diagram
+
 El diagrama fue realizado en Lucidchart y puede verse detalladamente en el siguiente link iniciando sesión:
 https://lucid.app/lucidchart/b7824e96-fd63-456e-9c91-2a7ef1b93414/edit?viewport_loc=-182%2C89%2C2415%2C1153%2C0_0&invitationId=inv_9d8768a2-34cb-46ba-82cc-7390628c81bf# 
 Link directo a la imagen: https://drive.google.com/file/d/1W_drbr_RC6Fkv_fqRiMI38z6sI2JyCQX/view?usp=sharing  
@@ -1096,8 +1097,11 @@ Database Diagram de FlashPorte
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/f96de7b4-1ea0-48ba-9154-44ae954af30d)
 
 # CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
+
 ## 5.1. Software Configuration Management.
+
 En esta parte del documento, se definirán las normas que asegurarán que mantengamos uniformidad durante todo el ciclo de vida de nuestro producto.
+
 ### 5.1.1. Software Development Environment Configuration.
 
 **→Project Management**
@@ -1167,8 +1171,6 @@ Sin embargo, para este trabajo, por lo general se usará la siguiente estructura
 
     <type>: <description>
 
-
-
 ### 5.1.3. Source Code Style Guide & Conventions.
 
 Se planea seguir las pautas y convenciones de codificación establecidas en varios recursos, como el HTML Style Guide and Coding Conventions, el Google HTML/CSS Style Guide, las Convenciones Gherkin para Especificaciones Legibles, la Guía de Estilo de Codificación de Angular, la Guía de Estilo de Codificación de Google para Java, la Guía de Estilo de TypeScript de Google y las características de Spring Boot.
@@ -1178,78 +1180,75 @@ Se planea seguir las pautas y convenciones de codificación establecidas en vari
 *HTML*
 Las convenciones en HTML son absolutamente necesarias para lograr obtener un código ordenado y consiste, de este modo se volvería más sencillo de comprender. 
 
-→	Declarar siempre el tipo de documento: Se debe declarar siempre el tipo de documento en la primera línea del código. 
+→    Declarar siempre el tipo de documento: Se debe declarar siempre el tipo de documento en la primera línea del código. 
 
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/369a6eaf-4b95-4b04-97ab-6657e01f113f)
 
-
-→	Usar nombres de elementos en minúscula: A pesar de que HTML permite mezclar mayúsculas y minúsculas, resulta ser una buena práctica escribir todos los elementos en minúsculas. Debido a que es más sencillo de escribir y es una práctica adoptada por la mayoría de los programadores. 
+→    Usar nombres de elementos en minúscula: A pesar de que HTML permite mezclar mayúsculas y minúsculas, resulta ser una buena práctica escribir todos los elementos en minúsculas. Debido a que es más sencillo de escribir y es una práctica adoptada por la mayoría de los programadores. 
 
 Correcto : ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/8c24ee6a-16ca-4079-8818-4898135b10f8)
 
 Incorrecto : ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/d3cd1dde-e1ce-4dfb-ba75-bb323f56a87b)
 
- 
-→	Cerrar todos los elementos HTML: No es necesario cerrar todos los elementos, existen excepciones como el elemento <p>. Sin embargo, al igual que la convención anterior resulta ser una buena práctica realizarlo.  
+→    Cerrar todos los elementos HTML: No es necesario cerrar todos los elementos, existen excepciones como el elemento <p>. Sin embargo, al igual que la convención anterior resulta ser una buena práctica realizarlo.  
 
-→	Usar nombre de atributos en minúscula: Al igual que con los elementos HTML también permite mezclar mayúsculas y minúsculas, pero resulta ser una buena práctica escribir todos con minúscula. 
+→    Usar nombre de atributos en minúscula: Al igual que con los elementos HTML también permite mezclar mayúsculas y minúsculas, pero resulta ser una buena práctica escribir todos con minúscula. 
 
-→	Cifrar valores de atributos: Es una buena práctica insertar los valores de los atributos entre comillas. Y es obligatorio si el valor contiene espacios. 
+→    Cifrar valores de atributos: Es una buena práctica insertar los valores de los atributos entre comillas. Y es obligatorio si el valor contiene espacios. 
 
-→	Utilizar HTTPS: Para imágenes y otros archivos multimedia, hojas de estilos y scripts, siempre y cuando se pueda usar. 
+→    Utilizar HTTPS: Para imágenes y otros archivos multimedia, hojas de estilos y scripts, siempre y cuando se pueda usar. 
 
 *CSS*
 
-→	Utilizar nombres de clase significativos, que realmente reflejen el propósito del elemento.
+→    Utilizar nombres de clase significativos, que realmente reflejen el propósito del elemento.
 
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/1fc7295a-d4d8-4886-b354-de01de7d17ea)
 
-→	Utilizar un espacio, después de los dos puntos del nombre de una propiedad. 
+→    Utilizar un espacio, después de los dos puntos del nombre de una propiedad. 
 
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/75d83928-f127-4b14-966e-6ec5475327dd)
 
- 
-→	Separar las reglas, mediante una línea en blanco. 
+→    Separar las reglas, mediante una línea en blanco. 
 
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/9bbd13e6-fd0e-4785-9192-436e1f1a29ee)
 
 *JAVASCRIPT*
 
-→	Utilizar camelCase para la nomenclatura: Es una práctica usada por la mayoría de los programadores en JavaScript.
+→    Utilizar camelCase para la nomenclatura: Es una práctica usada por la mayoría de los programadores en JavaScript.
 
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/5d3049da-8d32-4267-93b0-62923a51af05)
 
-→	Terminar siempre una declaración con punto y coma.
+→    Terminar siempre una declaración con punto y coma.
 
-→	Evitar las líneas largas, no deben sobrepasar los 80 caracteres.
+→    Evitar las líneas largas, no deben sobrepasar los 80 caracteres.
 
-→	Para cargar JavaScript en HTML se debe usar una sintaxis sencilla y deben tener la extensión js.
+→    Para cargar JavaScript en HTML se debe usar una sintaxis sencilla y deben tener la extensión js.
 
 *TYPESCRIPT*
 
-→	Las importaciones del espacio de nombres del módulo son lowerCamelCase mientras que los archivos son snake_case.
+→    Las importaciones del espacio de nombres del módulo son lowerCamelCase mientras que los archivos son snake_case.
 
     import * as fooBar from './foo_bar';
 
-→	 Las llamadas al constructor deben usar paréntesis, incluso cuando no se pasan argumentos:
+→     Las llamadas al constructor deben usar paréntesis, incluso cuando no se pasan argumentos:
 
     const x = nuevo Foo ; //Incorrecto
     const x = nuevo Foo (); //Correcto
-    
-→	Utilice siempre const o let para declarar variables. Se usa const de forma predeterminada, a menos que sea necesario reasignar una variable. No usar var.
+
+→    Utilice siempre const o let para declarar variables. Se usa const de forma predeterminada, a menos que sea necesario reasignar una variable. No usar var.
 
 *JAVA*
 
-→	Los modificadores de clase y miembro, cuando están presentes, aparecen en el orden recomendado por la especificación del lenguaje Java:
+→    Los modificadores de clase y miembro, cuando están presentes, aparecen en el orden recomendado por la especificación del lenguaje Java:
 
-    →	public protected private abstract default static final transient volatile synchronized native strictfp
+    →    public protected private abstract default static final transient volatile synchronized native strictfp
 
-→	Se usa UpperCamelCase para el nombre de las clases.
+→    Se usa UpperCamelCase para el nombre de las clases.
 
     ThisIsAnExample
     thisIsNotAnExample
 
-→	Se usa lowerCamelCase para el nombre de los métodos y parámetros.
+→    Se usa lowerCamelCase para el nombre de los métodos y parámetros.
 
     thisIsAnExample
     ThisIsNotAnExample
@@ -1258,17 +1257,15 @@ Incorrecto : ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/Pro
 
 Para los archivos. feature se utilizó el lenguaje Gherkin.
 
-→	Contar con bloques discernibles de Given-When-Then, los cuales terminaran aplicando el And y un espacio, para tener una fácil detección de donde termina y donde comienza un bloque. 
+→    Contar con bloques discernibles de Given-When-Then, los cuales terminaran aplicando el And y un espacio, para tener una fácil detección de donde termina y donde comienza un bloque. 
 
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/d77b48a4-e224-4dfd-a3f3-e9314b76a6d2)
 
-→	Utilizar comillas simples, para poder identificar los parámetros en un paso.
+→    Utilizar comillas simples, para poder identificar los parámetros en un paso.
 
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/e09bf117-0132-4768-8620-1524ba77d129)
 
-
 ### 5.1.4. Software Deployment Configuration.
-
 
 Los pasos para llevar a cabo la implementación de la landing page son los siguientes:
 
@@ -1301,7 +1298,9 @@ Los pasos para realizar el despliegue en GitHub Pages son los siguientes:
 En esta parte, detallaremos y demostraremos cómo llevaremos a cabo la implementación, pruebas y despliegue de nuestro landing page, así como de los servicios web y la interfaz de usuario de la aplicación web en cada sprint. En cuanto al primer sprint, es importante mencionar que no tenemos como objetivo la creación de servicios web ni el desarrollo de la interfaz de usuario de la aplicación web. Por lo tanto, nuestra atención se centrará exclusivamente en describir el procedimiento de implementación del landing page.
 
 ### 5.2.1. Sprint 1
+
 En el presente apartado se registro el avance del trabajo colaborativo.
+
 #### 5.2.1.1. Sprint Backlog 1.
 
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/2d16cf9d-a99d-4d17-9673-5bb60be054ab)
@@ -1334,26 +1333,27 @@ Durante este primer sprint, en términos generales, hemos alcanzado los siguient
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/8186dfa4-5fbb-47c1-aa2b-23cfea896af1)
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/f525bd0a-78a9-40a2-bc67-5d600778d348)
 
-
 #### 5.2.1.5. Services Documentation Evidence for Sprint Review
+
 Durante este primer sprint, no se ha llevado a cabo ninguna implementación relacionada con algún servicio, por lo tanto, esta sección carece de contenido.
+
 #### 5.2.1.6. Software Deployment Evidence for Sprint Review.
 
 Durante este primer sprint, hemos logrado completar de manera exitosa la creación de los wireframes, mock-ups y prototipo de nuestra aplicación web. Además, hemos llevado a cabo la elaboración y el despliegue de nuestra landing page, que está relacionada con el producto que estamos proponiendo, FlashPorte. Para alcanzar este último objetivo, hemos realizado las siguientes acciones:
 
--	Creación de un repositorio en GitHub con el nombre “landing-page”
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/256ea4f7-9df1-4757-950c-cd3c3a5fdca9)
+- Creación de un repositorio en GitHub con el nombre “landing-page”
+  ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/256ea4f7-9df1-4757-950c-cd3c3a5fdca9)
 
--	Crear las ramas correspondientes al gitflow 
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/4d816452-5acd-4bad-91d5-73aaf693fbb3)
+- Crear las ramas correspondientes al gitflow 
+  ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/4d816452-5acd-4bad-91d5-73aaf693fbb3)
 
--	Nos dirigimos a “settings” en el apartado “Pages”
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/a9e60cab-81eb-4bb9-a173-f74d05b5def2)
+- Nos dirigimos a “settings” en el apartado “Pages”
+  ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/a9e60cab-81eb-4bb9-a173-f74d05b5def2)
 
--	Configuramos de esta manera y le damos en “save”: 
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/c36cf071-b074-45ae-834a-dc9f428101b5)
+- Configuramos de esta manera y le damos en “save”: 
+  ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/c36cf071-b074-45ae-834a-dc9f428101b5)
 
--	Nos generará un link y con ello ya tendremos desplegada la landing page. Con ese link podremos ver las actualizaciones hechas en la rama develop. 
+- Nos generará un link y con ello ya tendremos desplegada la landing page. Con ese link podremos ver las actualizaciones hechas en la rama develop. 
 
 #### 5.2.1.7. Team Collaboration Insights during Sprint.
 
@@ -1363,13 +1363,12 @@ Por otro lado, para desarrollar el landing page, hemos utilizado un repositorio 
 
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b805477a-81d7-4480-8ead-fea7aa95aea9)
 
-
 En lo que respecta a la coordinación dentro del equipo, hemos establecido reuniones regulares para discutir las responsabilidades asignadas y distribuir las tareas correspondientes. Esta práctica nos ha permitido mejorar nuestra comunicación y tener una comprensión clara de las responsabilidades individuales. En lo que concierne al desarrollo del código, hemos adoptado un enfoque de segmentación, de manera que cada miembro del equipo se encarga de una sección específica del landing page. Esto facilita una transición fluida entre las partes, ya que el siguiente miembro en la secuencia puede continuar sin problemas. Por último, hemos fomentado un ambiente en el que compartimos ideas y resolvemos dudas de manera regular, lo que ha contribuido a mantenernos actualizados y en sintonía a lo largo del proceso de trabajo.
 
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/5cd24615-be4b-4f01-b16c-571370c34b67)
 
-
 ## CONCLUSIONES:
+
 El desarrollo del Lean UX Process ayudó a comprender mejor y aplicar efectivamente las herramientas en nuestra propuesta enfocada al servicio de transportistas hacia clientes. De la misma forma, contribuyó a definir de manera más clara nuestro público objetivo o llámese segmento hacia el cual va enfocada nuestra aplicación. 
 
 Después de culminar la primera parte de nuestro proyecto e identificar los principales problemas que tienen nuestros segmentos, concluimos que sería de mucha ayuda el desarrollo de FlashPorte con el fin de mejorar la experiencia de los transportistas al momento de ofrecer sus servicios, al igual que a los clientes sería una herramienta eficiente en su trabajo. 
@@ -1378,23 +1377,23 @@ El desarrollo de entrevistas nos ayudó a esclarecer la visión del proyecto, en
 
 # BIBLIOGRAFÍA
 
->> El Peruano. (10 de setiembre del 2018). 4 aplicaciones para móviles que facilitan el transporte. El Peruano. Recuperado de https://elperuano.pe/noticia/70941-4-aplicaciones-para-moviles-que-facilitan-el-transporte [Consulta:  04 de setiembre de 2023].
+> > El Peruano. (10 de setiembre del 2018). 4 aplicaciones para móviles que facilitan el transporte. El Peruano. Recuperado de https://elperuano.pe/noticia/70941-4-aplicaciones-para-moviles-que-facilitan-el-transporte [Consulta:  04 de setiembre de 2023].
 
->> Instituto Peruano de Economía (IPE). (2019, abril). Más del 83% de trabajadores que están en el sector transportes son informales. Recuperado de  https://www.ipe.org.pe/portal/mas-del-83-de-trabajadores-que-estan-en-el-sector-transportes-son-informales/ [Consulta:  04 de setiembre de 2023]. 
+> > Instituto Peruano de Economía (IPE). (2019, abril). Más del 83% de trabajadores que están en el sector transportes son informales. Recuperado de  https://www.ipe.org.pe/portal/mas-del-83-de-trabajadores-que-estan-en-el-sector-transportes-son-informales/ [Consulta:  04 de setiembre de 2023]. 
 
->> Lean, P. (2014, October 14). 5W+2H Técnica de análisis de problemas - Progressa Lean. Retrieved September 5, 2023, from Progressa Lean website: https://www.progressalean.com/5w2h-tecnica-de-analisis-de-problemas/
+> > Lean, P. (2014, October 14). 5W+2H Técnica de análisis de problemas - Progressa Lean. Retrieved September 5, 2023, from Progressa Lean website: https://www.progressalean.com/5w2h-tecnica-de-analisis-de-problemas/
 
->> ‌Markdown Guide. (2023). Retrieved September 5, 2023, from Markdownguide.org website: https://www.markdownguide.org/
+> > ‌Markdown Guide. (2023). Retrieved September 5, 2023, from Markdownguide.org website: https://www.markdownguide.org/
 
->> Front-End Style-Guides: Definition, Requirements, Component Checklist. (2016). Retrieved September 5, 2023, from Nielsen Norman Group website: https://www.nngroup.com/articles/front-end-style-guides/
+> > Front-End Style-Guides: Definition, Requirements, Component Checklist. (2016). Retrieved September 5, 2023, from Nielsen Norman Group website: https://www.nngroup.com/articles/front-end-style-guides/
 
->> Design Systems 101. (2021). Retrieved September 5, 2023, from Nielsen Norman Group website: https://www.nngroup.com/articles/design-systems-101/
+> > Design Systems 101. (2021). Retrieved September 5, 2023, from Nielsen Norman Group website: https://www.nngroup.com/articles/design-systems-101/
 
->> What Are User Flows In UX Design? [Full Beginner’s Guide]. (2019, October 13). Retrieved September 5, 2023, from CareerFoundry website: https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/
+> > What Are User Flows In UX Design? [Full Beginner’s Guide]. (2019, October 13). Retrieved September 5, 2023, from CareerFoundry website: https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/
 
->> Fontané, G. (2022, December 15). Full List of Meta Tags, Why They Matter for SEO & How to Write Them. Retrieved September 5, 2023, from Hubspot.com website: https://blog.hubspot.com/marketing/meta-tags
+> > Fontané, G. (2022, December 15). Full List of Meta Tags, Why They Matter for SEO & How to Write Them. Retrieved September 5, 2023, from Hubspot.com website: https://blog.hubspot.com/marketing/meta-tags
 
->> Google TypeScript Style Guide. (2015). Retrieved September 5, 2023, from Github.io website: https://google.github.io/styleguide/tsguide.html
+> > Google TypeScript Style Guide. (2015). Retrieved September 5, 2023, from Github.io website: https://google.github.io/styleguide/tsguide.html
 
 # ANEXO VÍDEOS
 
