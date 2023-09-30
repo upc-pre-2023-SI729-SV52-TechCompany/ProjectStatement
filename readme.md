@@ -1367,6 +1367,117 @@ En lo que respecta a la coordinación dentro del equipo, hemos establecido reuni
 
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/5cd24615-be4b-4f01-b16c-571370c34b67)
 
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint planning 2
+| Sprint 1                                      | Implementación de funcionalidades y diseño de la aplicación.                                                                                                      |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Sprint Planning Background**                                                                                                                                                                                   |
+| Date                                         | 19/09/2023                                                                                                                                                         |
+| Time                                         | 22 horas                                                                                                                                                            |
+| Location                                     | Reunión realizada mediante Microsoft Teams                                                                                                                         |
+| Prepared By                                 | Martinez Carbajal, Mariela                                                                                                                                         |
+| Attendees (to planning meeting)              | - Martinez Carbajal, Mariela                                                                                                                                      |
+|                                              | - Bernuy Villanueva, Caroline Denisse     
+|                                              | - Tasayco Vilcamisa, Dámaris 
+|                                              | - Sanchez Rios, Jean-Patrick                                                                                                                                     |
+|                                              | - Del Aguila Villanueva, Andy Jack                                                                                                                                |
+| **Sprint 1 – 1 review summary**              | Se logró el resultado de implementar una primera parte de lógica de negocio como el despliegue de nuestros recursos de aplicación.                                      |
+| **Sprint 1-1 Retrospective Summary**         | Mejora en la distribución de actividades como plasmar los tiempos en base a los story points.                                                                      |
+| **Sprint Goal & User Stories**                                                                                                                                                                                 |
+| Sprint 2 Goal                                | 26 Story Points para este sprint                                                                                                                                  |
+| Sprint 2 velocity                            | 7 Story Points por cada integrante                                                                                                                                 |
+| Sum of Story Points                         | 30 Story Points en total                                                                                                                                          |
+#### 5.2.2.2.	 Product backlog 2
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 2</th>
+  </tr>
+  <tr>
+    <th>User story</th>
+    <th>Work-Item/Task</th>
+    <th>Título</th>
+    <th>Descripción</th>
+    <th>Estimación</th>
+    <th>Asignado a</th>
+    <th>Estado</th>
+  </tr>
+  <tr>
+    <td rowspan="2">HU-002</td>
+    <td>WI01</td>
+    <td>Diseñar la interfaz de usuario para el formulario de registro.</td>
+    <td>El diseño se trabajó con la creación de una interfaz de usuario atractiva y funcional para el formulario de registro de clientes utilizando HTML and CSS.</td>
+    <td>2 horas</td>
+    <td>Damaris Tasayco</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>WI02</td>
+    <td>Desarrollo de la base de datos para almacenar la información de los clientes.</td>
+    <td>Se implementó con Angular y TypeScript para crear componentes reutilizables, como campos de entrada, botones y validaciones de formularios.</td>
+    <td>5 horas</td>
+    <td></td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">HU-22</td>
+    <td>WI01</td>
+    <td>Diseño de un formulario para almacenar datos personales del cliente.</td>
+    <td>Se emplea HTML y CSS para crear la estructura del formulario. Asimismo, un framework de diseño como Bootstrap para agilizar este proceso.</td>
+    <td>2 horas</td>
+    <td>Patrick Sanchez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>WI02</td>
+    <td>Almacenamiento de los datos personales del cliente.</td>
+    <td>Utiliza TypeScript y Angular para la creación de “My Profile” y el manejo de la lógica de registro y el almacenamiento de los datos del cliente.</td>
+    <td>4 horas</td>
+    <td></td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">HU-011</td>
+    <td>WI01</td>
+    <td>Diseño de una interfaz de usuario que permita a los clientes ingresar las características deseadas del transportista.</td>
+    <td>Se trabajó con HTML y CSS para crear los elementos de búsqueda, como campos de entrada para las características, botones de búsqueda y resultados de búsqueda.</td>
+    <td>2 horas</td>
+    <td>Andy Del Aguila</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>WI02</td>
+    <td>Implementación de la lógica para recopilar los criterios de búsqueda del usuario.</td>
+    <td>Se implementa con TypeScript y Angular el llamado "Search Vehicles" que contendrá la lógica de búsqueda y la presentación de resultados.</td>
+    <td>5 horas</td>
+    <td></td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">HU-014</td>
+    <td>WI01</td>
+    <td>Diseño de una interfaz de usuario que permite a los usuarios visualizar el historial de contratos de transportistas.</td>
+    <td>Se diseñó con HTML y CSS para crear la estructura de las páginas de registro y visualización de contratos.</td>
+    <td>2 horas</td>
+    <td>Mariela Martinez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>WI02</td>
+    <td>Implementación de funcionalidades relacionadas con la visualización de contratos a transportistas.</td>
+    <td>Se implementa con TypeScript y Angular el llamado "Home" que contendrá la lógica de visualización de los contratos de los transportistas por los usuarios.</td>
+    <td>3 horas</td>
+    <td></td>
+    <td>Done</td>
+  </tr>
+</table>
+
+
+
+
+
+
+
 ## CONCLUSIONES:
 
 El desarrollo del Lean UX Process ayudó a comprender mejor y aplicar efectivamente las herramientas en nuestra propuesta enfocada al servicio de transportistas hacia clientes. De la misma forma, contribuyó a definir de manera más clara nuestro público objetivo o llámese segmento hacia el cual va enfocada nuestra aplicación. 
