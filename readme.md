@@ -1472,11 +1472,19 @@ En lo que respecta a la coordinación dentro del equipo, hemos establecido reuni
   </tr>
 </table>
 
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
+En esta entrega, no se incluyó dicha sección, ya que no se realizaron tests con API.
 
+#### 5.2.2.5. Execution Evidence for Sprint Review
 
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+En el segundo Sprint, se empleó en WebStorm , HitHub Desktop y Git para llevar a cabo los commits. Uno de los miembros
+del equipo realizó el primer commit para crear el repositorio. Luego, se clonó el repositorio utilizando Git y se realizaron
+modificaciones en WebStorm. Se crearon ramas (branches) correspondientes a estas modificaciones y, finalmente, se
+efectuaron commits. Estos commits deben ser revisados en el repositorio de GitHub
 
 ## CONCLUSIONES:
 
@@ -1485,6 +1493,8 @@ El desarrollo del Lean UX Process ayudó a comprender mejor y aplicar efectivame
 Después de culminar la primera parte de nuestro proyecto e identificar los principales problemas que tienen nuestros segmentos, concluimos que sería de mucha ayuda el desarrollo de FlashPorte con el fin de mejorar la experiencia de los transportistas al momento de ofrecer sus servicios, al igual que a los clientes sería una herramienta eficiente en su trabajo. 
 
 El desarrollo de entrevistas nos ayudó a esclarecer la visión del proyecto, en cuanto a la perspectiva del usuario y por lo tanto fue importante para mejorar los aspectos de las funcionalidades de la aplicación.
+
+El desarrollo de la aplicación tiene el potencial de ser una herramienta valiosa para los transportista y clientes. Para tener éxito, se debe llevar a cabo un desarrollo cuidadoso y una implementación sólida, junto con una estrategia de marketing efectiva para atraer a los usuarios. Con el enfoque adecuado y la atención a los detalles, esta aplicación podría mejorar la eficiencia de las operaciones de transporte y simplificar la reserva de servicios de transporte.
 
 # BIBLIOGRAFÍA
 
