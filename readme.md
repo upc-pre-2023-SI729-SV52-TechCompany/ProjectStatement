@@ -1,4 +1,5 @@
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/576c7f52-91ec-439b-8f32-6350eb906883)
+
+![aa](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/cb3abdbe-040e-49ad-96dd-00a0f8c10bca)
 
 # CONTENIDO
 
