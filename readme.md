@@ -1486,6 +1486,8 @@ del equipo realizó el primer commit para crear el repositorio. Luego, se clonó
 modificaciones en WebStorm. Se crearon ramas (branches) correspondientes a estas modificaciones y, finalmente, se
 efectuaron commits. Estos commits deben ser revisados en el repositorio de GitHub
 
+[![Captura-de-pantalla-2023-09-30-053716.png](https://i.postimg.cc/yYCdN4pj/Captura-de-pantalla-2023-09-30-053716.png)](https://postimg.cc/K4QF9V23)
+
 ## CONCLUSIONES:
 
 El desarrollo del Lean UX Process ayudó a comprender mejor y aplicar efectivamente las herramientas en nuestra propuesta enfocada al servicio de transportistas hacia clientes. De la misma forma, contribuyó a definir de manera más clara nuestro público objetivo o llámese segmento hacia el cual va enfocada nuestra aplicación. 
