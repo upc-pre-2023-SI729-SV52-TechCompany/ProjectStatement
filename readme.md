@@ -1487,6 +1487,7 @@ modificaciones en WebStorm. Se crearon ramas (branches) correspondientes a estas
 efectuaron commits. Estos commits deben ser revisados en el repositorio de GitHub
 
 [![Captura-de-pantalla-2023-09-30-053716.png](https://i.postimg.cc/yYCdN4pj/Captura-de-pantalla-2023-09-30-053716.png)](https://postimg.cc/K4QF9V23)
+[![Whats-App-Image-2023-09-30-at-5-52-02-AM.jpg](https://i.postimg.cc/dQdhKmmz/Whats-App-Image-2023-09-30-at-5-52-02-AM.jpg)](https://postimg.cc/t7qq36c5)
 
 ## CONCLUSIONES:
 
