@@ -1369,7 +1369,7 @@ En lo que respecta a la coordinación dentro del equipo, hemos establecido reuni
 
 ### 5.2.2. Sprint 2
 #### 5.2.2.1. Sprint planning 2
-| Sprint 1                                      | Implementación de funcionalidades y diseño de la aplicación.                                                                                                      |
+| Sprint 2                                      | Implementación de funcionalidades y diseño de la aplicación.                                                                                                      |
 | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Sprint Planning Background**                                                                                                                                                                                   |
 | Date                                         | 19/09/2023                                                                                                                                                         |
