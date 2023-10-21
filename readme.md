@@ -1,4 +1,4 @@
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/576c7f52-91ec-439b-8f32-6350eb906883)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/118797651/265811970-576c7f52-91ec-439b-8f32-6350eb906883.png?raw=true)
 
 # CONTENIDO
 
@@ -110,7 +110,7 @@ Por lo tanto, hemos creado FlashPorte, una plataforma que conectará a transport
 
 Mi nombre es Caroline Denisse Bernuy Villanueva, estudiante de la carrera de ingeniería de software. Tengo conocimientos previos en desarrollo web con frameworks como Vue, Angular, Express JS y Laravel. Diseño de base de datos SQL y creación de APIs. Mi perfil profesional está orientado al desarrollo de soluciones cloud.
 
-<img src="https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/a2e65b05-66b8-4e22-a555-4a62c8a0ea1d" width="216">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/118797651/265549943-a2e65b05-66b8-4e22-a555-4a62c8a0ea1d.png?raw=true" width="216">
 
 ## INTEGRANTE 2:
 
@@ -122,19 +122,19 @@ Mi nombre es Andy Jack Del Aguila Villanueva, estudiante de la carrera de ingeni
 
 Mi nombre es Damaris Tasayco Vilcamiza. Actualmente estudio la carrera de Ingeniería de Software, lo que puedo aportar a este proyecto es una combinación de habilidades técnicas en programación y desarrollo web, junto con mi capacidad de poder gestionar proyectos y trabajar de manera colaborativa.
 
-<img src="/img/foto2.png" width="216">
+<img src="https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/foto2.png?raw=true" width="216">
 
 ## INTEGRANTE 4:
 
 Mi nombre es Mariela Martinez Carbajal, estudiante de ingeniería de software. Cuento con experiencia previa en programación en C++ y desarrollo web. Me caracterizo por mi capacidad de adaptación (resiliencia) y mi habilidad para comprender y conectar con los demás (empatía), lo que Considero que será una ventaja en la ejecución de este proyecto.
 
-<img src="/img/imagen04.png" width="216">
+<img src="https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/imagen04.png?raw=true" width="216">
 
 ## INTEGRANTE 5:
 
 Mi nombre es Jean-Patrick Yemsi Sanchez Rios, estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Poseo conocimientos en C++, SQL, gestión de bases de datos, diseño gráfico y control de calidad. Estoy aprendiendo ahora mismo el uso de git en control de versiones, lenguajes de programación como Python, Javascript y css, y poseo conocimientos sobre marcos de trabajo ágiles.
 
-<img src="https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b15e406d-4f21-45b6-bf4a-39b7d0b460ad" width="216">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/118797651/265807114-b15e406d-4f21-45b6-bf4a-39b7d0b460ad.png?raw=true" width="216">
 
 ## 1.2. Solution Profile
 
@@ -292,7 +292,7 @@ Creemos que, ver la reputación de los transportistas aumentará los contratos d
 
 ## 1.2.2.4. Lean UX Canvas
 
-![](img/CANVAS.png)
+![](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/CANVAS.png?raw=true)
 
 ## 1.3. Segmentos objetivos
 Dentro de nuestro grupo objetivo, hemos identificado dos categorías de usuarios: 
@@ -378,7 +378,7 @@ o Enlace: https://www.youtube.com/watch?v=IX620AcwUyI
 
 Priscila Tasayco cree que los servicios de transporte de mercadería en el Perú tienen margen de mejora, ya que para ella encontrar un servicio de traslado de productos puede ser complicado en ocasiones, especialmente cuando necesitas un proveedor confiable y asequible para entregas urgentes o de gran volumen. Finalmente ella cree que sería beneficioso que la aplicación proporcionara calificaciones y reseñas de otros usuarios sobre los proveedores de transporte, así como información detallada sobre tarifas y tiempos de entrega estimados. También sería útil si la aplicación permitiera rastrear la ubicación de la mercancía en tiempo real y ofreciera opciones de comunicación directa con el transportista.
 
-![image](/img/entrevista1.png)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/entrevista1.png?raw=true)
 
 b.    Segunda entrevista: 
 
@@ -398,7 +398,7 @@ Susan tiene 25 años y se dedica a la comercializacion de prendas de vestir. Ell
 Ella intentó contactar servicios de transporte a través de contactos personales, como amigos, pero le resultó complicado. Ella necesita utilizar servicios de transporte de forma mensual, y esto le genera estrés, ya que no se siente seguro. Además, considera crucial conocer la marca y modelo del vehículo de transporte, ya que teme que un vehículo en mal estado o inapropiado pueda ocasionar retrasos en la entrega de su mercadería.
 Ella cree que usar una aplicación que ofrezca servicios de transporte podría aumentar su confianza. Le daría mayor seguridad y le permitiría tener una experiencia más satisfactoria.
 
-![image](/img/entrevista2.jpeg)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/entrevista2.jpeg?raw=true)
 
 c.    Tercera entrevista: 
 
@@ -413,7 +413,7 @@ o    Enlace: https://web.microsoftstream.com/video/f5f2baff-9124-4466-ba6b-fd61f
 El entrevistado es Teodoro Liberato y es un comerciante de productos por temporada el cual se dedica a vender productos que están más fuertes en el mercado (limones, manzanas, peras, etc.). Este trabajo lo realiza en el mercado de Huacho. Con respecto al transporte le parece el enemigo número uno para cumplir su labor porque es inestable el petróleo y el flete es caro, debido a eso consigue varios precios para sus productos.
 Con respecto al contacto de los transportistas, lo realiza regularmente. En caso de los limones los trae desde suyana con unos trailers que son contratados por una empresa externa.
 
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/74f18f6c-539e-4f81-b610-d8afad43c39c)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/118797651/265817388-74f18f6c-539e-4f81-b610-d8afad43c39c.png?raw=true)
 
 #### Transportistas:
 
@@ -433,7 +433,7 @@ o    Enlace: https://youtu.be/IiZXr7LSXY0
 
 Joakim Francia indica que trabaja en una empresa familiar de transporte de carga pesada. Su experiencia en el rubro es basta ya que la empresa ya tiene al menos 3 generaciones creciendo. Los problemas más comunes son el seguimiento de las cargas y organización de rutas largas puesto a que los choféres no tiene cómo afrontar situaciones adversas cuando están llevando las cargas y dependen estrictamente del su seguro para solucionar problemas mecánicos. Por un lado, el tiempo puede ser optimizado con una mejor organización y optimización del espacio de carga. Por otro lado, la opción de poder notificar inconvenientes directamente al cliente en tiempo real le sería muy útil.
 
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/567747e1-14fe-4ff3-998b-e11efbe2aef0)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/118797651/265541794-567747e1-14fe-4ff3-998b-e11efbe2aef0.png?raw=true)
 
 b.    Segunda entrevista:
 
@@ -449,11 +449,11 @@ o    Entrevistador: Jean-Patrick Yemsi
 
 En una conversación con Alex Ganoza Condori, un dedicado padre de familia de 34 años con una década de experiencia en el transporte de mercadería, se revelaron detalles interesantes sobre su vida laboral y sus aspiraciones para el futuro. Alex es propietario de su propio vehículo y su sustento depende de la distancia que recorre para entregar mercancía y la cantidad de trabajos que realiza. Durante la entrevista, Alex compartió que su experiencia en el transporte ha sido en gran parte sin mayores inconvenientes, ya que suele operar rutas tranquilas y tiene un historial de entregas exitosas. Sin embargo, está decidido a expandir su negocio y aumentar su clientela. Para lograrlo, está considerando utilizar un servicio web que le permita llegar a más clientes y brindarles una mayor sensación de confianza. Alex ve en la tecnología una oportunidad para crecer en su profesión y facilitar las transacciones con sus clientes. Con la implementación de un servicio web, espera tener acceso a un mercado más amplio y ganar la confianza de aquellos que buscan sus servicios de transporte.
 
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/77073119-2475-46f8-a62f-3e871e152600)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/118797651/265808021-77073119-2475-46f8-a62f-3e871e152600.png?raw=true)
 
 ### Analisis de entrevistas
 
-![](img/entrevista-table.png)
+![](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/entrevista-table.png?raw=true)
 
 ## Needfinding
 
@@ -461,11 +461,11 @@ En una conversación con Alex Ganoza Condori, un dedicado padre de familia de 34
 
 User Persona Manuel Segura, usuario cliente
 
-![](img/userpersona-pasajero.png)
+![](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/userpersona-pasajero.png?raw=true)
 
 User Persona Mario Gomez, usuario transportista
 
-![](img/userpersona-conductor.png)
+![](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/userpersona-conductor.png?raw=true)
 
 ### User Task Matrix
 
@@ -495,33 +495,33 @@ User Task Matrix del usuario cliente
 
 User Journey Mapping del usuario Cliente
 
-![](img/journeymap.png)
+![](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/journeymap.png?raw=true)
 
 [Customer journey map Transportista.png - Google Drive](https://drive.google.com/file/d/195237stsxd5KRQodgBIrRZVIegOIYVhi/view?usp=sharing)
 
 User Journey Mapping del usuario transportista
 
-![](img/journeymap2.png)
+![](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/journeymap2.png?raw=true)
 
 ### Empathy Mapping
 
 Empathy Mapping del usuario cliente
 
-![](img/empathycliente.png)
+![](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/empathycliente.png?raw=true)
 
 Empathy Mapping del usuario transportistas
 
-![](img/empathytransportistas.png)
+![](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/empathytransportistas.png?raw=true)
 
 ### As-is Scenario Mapping
 
 As-is Scenario Mapping del usuario cliente
 
-![](img/asiscliente.png)
+![](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/asiscliente.png?raw=true)
 
 As-is Scenario Mapping del usuario transportistas
 
-![](img/asistransportistas.png)
+![](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/asistransportistas.png?raw=true)
 
 # Capítulo III: Requirements Specification
 
@@ -531,11 +531,11 @@ El "To-Be Scenario Mapping"es una estrategia empleada en el ámbito del análisi
 
 **To Be Ciudadano (Cliente)**
 
-![To be segmento ciudadano](/img/To-be_Ciudadano.png)
+![To be segmento ciudadano](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/To-be_Ciudadano.png?raw=true)
 
 **To Be Empresa (Transportista)**
 
-![To be segmento empresa](/img/To-be_Empresa.png)
+![To be segmento empresa](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/To-be_Empresa.png?raw=true)
 
 ## 3.2. User Stories
 
@@ -596,7 +596,7 @@ Los epics que identificamos son los siguientes:
 
 ## 3.3. Impact Mapping
 
-![Impact_Map](/img/ImpactMap.png)
+![Impact_Map](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/ImpactMap.png?raw=true)
 
 ## 3.4. Product Backlog
 
@@ -641,11 +641,11 @@ En esta sección presentaremos las guías de estilo que usaremos para la realiza
 El estilo general de nuestro product UX/UI design contiene los siguientes colores los cuales se especifican con su código. Así como también la fuente utilizada es Inter.
 Figura 12
 Colores del General Style Guidelines 
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/6becc64f-26e3-4e0c-aca9-d52bff818698)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/118797651/265543302-6becc64f-26e3-4e0c-aca9-d52bff818698.png?raw=true)
 
 Figura 13
 Tipo de fuente del General Style Guidelines
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/fc15f477-0290-48d3-9206-fd4164565811)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/118797651/265543352-fc15f477-0290-48d3-9206-fd4164565811.png?raw=true)
 
 ### 4.1.2. Web Style Guidelines.
 
@@ -653,27 +653,27 @@ Lo siguiente corresponde a la guía de estilos para la versión web. Se puede vi
 
 Figura 14
 Tipografía utilizada en el General Style Guidelines
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/6ae57d57-ed74-45e2-a17c-ac0afded9a44)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/118797651/265543423-6ae57d57-ed74-45e2-a17c-ac0afded9a44.png?raw=true)
 
 Figura 15
 Search Interactive Elements del General Style Guidelines
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/d3e7f131-af9b-4fab-acf1-2241f868ddd0)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/118797651/265543444-d3e7f131-af9b-4fab-acf1-2241f868ddd0.png?raw=true)
 
 Figura 16
 Input Interactive Elements del General Style Guidelines
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/9d6ea532-4bdf-4c27-a53c-78da3c8fa5b0)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/118797651/265543475-9d6ea532-4bdf-4c27-a53c-78da3c8fa5b0.png?raw=true)
 
 Figura 17
 Buttons Interactive Elements del General Style Guidelines
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/9585ac9b-3c4a-4a0d-9a67-b5015859a294)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/118797651/265543494-9585ac9b-3c4a-4a0d-9a67-b5015859a294.png?raw=true)
 
 Figura 18
 Buttons & Slider Interactive Elements del General Style Guidelines
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/636f691c-d4a5-42ad-8445-61930bb066cf)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/118797651/265543510-636f691c-d4a5-42ad-8445-61930bb066cf.png?raw=true)
 
 Figura 19
 Form Elements del General Style Guidelines
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/6e62155b-7f6d-4762-8675-ca5da1438216)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/118797651/265543527-6e62155b-7f6d-4762-8675-ca5da1438216.png?raw=true)
 
 ## 4.2. Information Architecture.
 
@@ -685,7 +685,7 @@ Figura 20
 
 ### 4.2.1. Organizations Systems de FlashPorte
 
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b8bd5533-e6ad-4cbb-861f-637444b6fb30)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b8bd5533-e6ad-4cbb-861f-637444b6fb30?raw=true)
 
 ### 4.2.2. Labeling Systems.
 
@@ -694,12 +694,12 @@ Label transportista:
 
 Figura 21
 Labeling Systems del transportista de FlashPorte
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/834b76e2-36d8-4b31-b1c6-d2faa578cbe8)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/834b76e2-36d8-4b31-b1c6-d2faa578cbe8?raw=true)
 
 Label cliente:
 Figura 22
 Labeling Systems del cliente de FlashPorte
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/1d1e4015-b8ae-43c2-804f-42dfe8855bff)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/1d1e4015-b8ae-43c2-804f-42dfe8855bff?raw=true)
 
 Transportista:
 Sección “Home”
@@ -739,7 +739,7 @@ Dentro de esta sección el usuario podrá visualizar los mensajes, solicitudes, 
 
 Figura 23
 SEO Tags and Meta Tags de FlashPorte
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/a97aa671-9745-4abd-b139-813ca23f69a3)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/a97aa671-9745-4abd-b139-813ca23f69a3?raw=true)
 
 Charset Tag    
 Utilizamos charset UTF-8 o Unicode Transformation Format-8, el cual es el formato de codificación de caracteres mundialmente usado por su amplia cantidad de idiomas soportados.
@@ -773,14 +773,14 @@ Seleccionamos el rating mayor de 14 años, para tener mayor porcentaje de llegad
 Link del diagrama para una mejor visualización: https://overflow.io/s/S73IBLXW 
 Figura 24
 Searching Systems de FlashPorte
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b910cf85-a4fc-42f4-9956-213896ca3c2d)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b910cf85-a4fc-42f4-9956-213896ca3c2d?raw=true)
 
 ### 4.2.5. Navigation Systems.
 
 Para el sistema de navegación nos enfocamos en la comodidad y eficiencia que se le debe brindar al usuario, ya que son puntos sumamente importantes, en el que tomamos como prioridad el tiempo en el que el usuario demora en realizar una tarea.
 Figura 25
 Navegation Systems de FlashPorte
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/e3db0890-a4e8-42a0-8695-9d208c0e24e5)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/e3db0890-a4e8-42a0-8695-9d208c0e24e5?raw=true)
 Link al diagrama: https://overflow.io/s/KMMHWVUC 
 
 ## 4.3. Landing Page UI Design.
@@ -791,24 +791,24 @@ En esta sección presentaremos el diseño de nuestra landing page empezando desd
 
 Las imágenes a continuación pertenecen a los wireframes realizados para el landing page. Abrir el link para más detalles del wireframe y de la versión mobile web browser: https://www.figma.com/file/xEc3h40NLBBgX0yLjxhLq9/Wireframe-FlashPorte?node-id=0%3A1 
 
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/bf8f2fa5-d41f-4f03-92cb-ccc03cd6a524)
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/5254e356-f292-4d2d-b2c1-f78a78b508c7)
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/19f2c808-d665-4487-bf59-30b7c8dd49f7)
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/d4999990-0a58-480c-a003-15d85952f043)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/bf8f2fa5-d41f-4f03-92cb-ccc03cd6a524?raw=true)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/5254e356-f292-4d2d-b2c1-f78a78b508c7?raw=true)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/19f2c808-d665-4487-bf59-30b7c8dd49f7?raw=true)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/d4999990-0a58-480c-a003-15d85952f043?raw=true)
 
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/f1341feb-8eb5-421f-9fbe-d7b205f52a2b)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/f1341feb-8eb5-421f-9fbe-d7b205f52a2b?raw=true)
 
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/4e2c6d9a-6720-4354-b7cc-35822211656e)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/4e2c6d9a-6720-4354-b7cc-35822211656e?raw=true)
 
 ### 4.3.2. Landing Page Mock-up.
 
 Las imágenes a continuación pertenecen a los mock-ups realizados para el landing page. Abrir el link para más detalles de la versión desktop y mobile web browser:
 
 Desktop:
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/7a59f739-206c-4a99-b97b-7eea831943b1)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/7a59f739-206c-4a99-b97b-7eea831943b1?raw=true)
 
 Mobile Web Browser:
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/08e1bc28-09d7-4f60-8a5b-1a6c1b48b284)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/08e1bc28-09d7-4f60-8a5b-1a6c1b48b284?raw=true)
 Link al Figma:
 https://www.figma.com/file/caTTSknpD8t2zhfg16qAya/MockUp-FlashPorte?node-id=0%3A1 
 
@@ -819,20 +819,20 @@ En esta sección presentaremos el diseño de nuestra web application empezando d
 ### 4.4.1. Web Application Wireframes.
 
 Las siguientes imágenes corresponden a los wireframes de la web applications. El link para visualizarlo a mayor detalle es el siguiente: https://www.figma.com/file/ipzddVXEuU5ee0IHE0hLyv/Open-source?node-id=0%3A1
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/d89def2d-7d9e-4f8b-b37b-6046b2c1febc)
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/814b3f46-0161-4607-86b2-c47d5580d287)
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/bdfb4599-72dd-4e6f-bcc4-a7d999a6a94c)
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/5ec94777-45cc-422b-b139-059dcec5f943)
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/2b1cd2f5-144d-4b2a-a3d2-d93984d7c7db)
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/3f291cd3-fb93-40cf-9d0f-7f7efdeeac02)
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/98ee8cd7-abf7-4442-a798-667e69f59abc)
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/32ae24eb-1f71-4c8b-adca-2cb1d16869fe)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/d89def2d-7d9e-4f8b-b37b-6046b2c1febc?raw=true)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/814b3f46-0161-4607-86b2-c47d5580d287?raw=true)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/bdfb4599-72dd-4e6f-bcc4-a7d999a6a94c?raw=true)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/5ec94777-45cc-422b-b139-059dcec5f943?raw=true)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/2b1cd2f5-144d-4b2a-a3d2-d93984d7c7db?raw=true)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/3f291cd3-fb93-40cf-9d0f-7f7efdeeac02?raw=true)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/98ee8cd7-abf7-4442-a798-667e69f59abc?raw=true)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/32ae24eb-1f71-4c8b-adca-2cb1d16869fe?raw=true)
 
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/799879d6-f6bc-438d-8e08-1d67dd11b10c)
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/5f5d3760-6946-4839-a7e5-7d1fbc0f8b9b)
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/f583cb28-dadd-4a81-b179-cb783a0ea4fb)
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b6bc04c6-fec5-4883-8c73-dc181be07242)
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/5092210f-41e5-4db3-ae9a-5c7a25cc47bd)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/799879d6-f6bc-438d-8e08-1d67dd11b10c?raw=true)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/5f5d3760-6946-4839-a7e5-7d1fbc0f8b9b?raw=true)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/f583cb28-dadd-4a81-b179-cb783a0ea4fb?raw=true)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b6bc04c6-fec5-4883-8c73-dc181be07242?raw=true)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/5092210f-41e5-4db3-ae9a-5c7a25cc47bd?raw=true)
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
@@ -841,96 +841,96 @@ Enlace a la herramienta Overflow: https://overflow.io/s/F52U2XO9
 Interfaz de Entrada
 
 Wireflow 1: Registro de Usuario
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/286bef7d-6974-43da-8275-cd6c873e200e)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/286bef7d-6974-43da-8275-cd6c873e200e?raw=true)
 Para registrarse el usuario deberá presionar “Create Account” lo cual le aparecerá un formulario. Tras completarlo, presiona “Continue”, aparece un formulario de datos personales. Luego de completarlo, presiona “Continue”. Finalmente, ya está registrado.
 
 Wireflow 2: Recuperar contraseña
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/7c8d9f19-776d-4589-84ca-58e82d948e41)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/7c8d9f19-776d-4589-84ca-58e82d948e41?raw=true)
 Para recuperar la contraseña deberá presionar “Forgot your Password?”, lo cual le pedirá el correo correspondiente, presiono “Continue”. Aparecerá un formulario de cambio de contraseña y una vez presionado “Confirm”, realizando la actualización de la contraseña. 
 
 Interfaz de Transportistas
 
 Wireflow 3: Ingreso de Transportista
 Una vez registrado el transportista ingresa sus datos y presiona “Login to your account”. Y así mostrando la interfaz del transportista.
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/44d9662a-0b2d-47a2-b22b-00e394c1c4a3)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/44d9662a-0b2d-47a2-b22b-00e394c1c4a3?raw=true)
 
 Wireflow 4: Navegación de “My Profile”
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/58cb8f27-350a-4143-80c3-c4f403b6b14d)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/58cb8f27-350a-4143-80c3-c4f403b6b14d?raw=true)
 El Cliente podrá ingresar a su perfil por el botón “My Profile” y podrá navegar “Personal Information”, “Experiencie”, “About the Vehicle” y “Comments”
 
 Wireflow 5: Navegación de “Contracts”
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/db1e2e02-ebdd-4002-bfdd-5b79037cbf07)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/db1e2e02-ebdd-4002-bfdd-5b79037cbf07?raw=true)
 El transportista podrá navegar por los diferentes secciones de “Contracts” y el cual podrá navegar por “Offers”, “Pending Contracts” y “History”
 
 Wireflow 6: Aceptar/Rechazar ofertas de Trabajo
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/e8f5c40e-bd62-4bf9-94fc-ed980b2d3798)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/e8f5c40e-bd62-4bf9-94fc-ed980b2d3798?raw=true)
 El transportista en “Offers” podrá Aceptar con el botón “Accept” y rechazar con el botón “Decline” y el cual informará la realización de su decisión, luego de presionar “Accept” regresará a la sección “Offers” mostrándole las ofertas disponibles.
 
 Wireflow 7: Soporte al cliente
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b8f8c140-3f97-4858-a963-a0120b5facab)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b8f8c140-3f97-4858-a963-a0120b5facab?raw=true)
 El transportista para que pueda llegar a soporte al cliente debe presionar “Support” en donde le llevará a la sección al soporte al cliente.
 
 Wireflow 8: Notificación de oferta de Trabajo
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/6e487cf8-c041-4855-b09b-77edff216455)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/6e487cf8-c041-4855-b09b-77edff216455?raw=true)
 El Transportista podrá revisar las ofertas desde el icono de notificaciones y al presionar “See more details” podrá observar todas las ofertas que este posee.
 
 Wireflow 9: Contrato Finalizado
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/eadb998e-469e-49b1-9983-3adb12198ff9)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/eadb998e-469e-49b1-9983-3adb12198ff9?raw=true)
 Después de finalizar concluir servicio, aparecerá una notificación de contrato finalizado y luego de presionar “Details” aparecerá un formulario para realizar el pago el cual al presionar “Cancel” regresará a la pantalla con la notificación que debe de cancelar, por otro lado al presionar “ACCEPT AND CONFIRM” le aparecerá un recuadro que el pago será realizado en las 24 horas y al presionar “Accept” regresará a la pantalla principal.
 
 Wireflow 10: Cerrar Sesión
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/9c93f8e3-771a-4a39-bc5a-8d96fc021c65)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/9c93f8e3-771a-4a39-bc5a-8d96fc021c65?raw=true)
 Para Cerrar Sesión presiona su nombre y aparece el botón “Log Out” el cual le permitirá cerrar su sesión.
 Interfaz de Cliente
 
 Wireflow 11: Ingreso de Cliente
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/41690d3e-fdfc-463b-bfee-916127e8ae44)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/41690d3e-fdfc-463b-bfee-916127e8ae44?raw=true)
 Una vez registrado el cliente ingresa sus datos y presiona “Login to your accout”. Y así mostrando la interfaz del cliente.
 
 Wireflow 12: Ingresar en “My Profile”
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/250d9ada-8fea-496d-90ac-568617cd6d6d)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/250d9ada-8fea-496d-90ac-568617cd6d6d?raw=true)
 El Cliente podrá ingresar a su perfil por el botón “My Profile” y podrá editar su información 
 
 Wireflow 13: Contrato Rechazado
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/5273692e-e30a-4793-8ae2-1e843baf8ae8)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/5273692e-e30a-4793-8ae2-1e843baf8ae8?raw=true)
 Cuando le rechazan un contrato, le aparecerá una notificación al presionar la 
 campana.
 
 Wireflow 14: Realizar Depósito
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/de908a39-5b94-44b8-9087-414a614dbf0e)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/de908a39-5b94-44b8-9087-414a614dbf0e?raw=true)
 Al haber terminado el servicio le aparecerá una notificación en la campana, luego de presionar “See more details ” le presentará un formulario de cancelación al cual podrá completarlo
 
 Wireflow 15: Contratar conductor
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/bc8e6d97-712d-4ec7-b184-976e31eea63b)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/bc8e6d97-712d-4ec7-b184-976e31eea63b?raw=true)
 Para contratar a un conductor se presiona “Search Vehicles”, el cual le aparecerá un formulario que deberá completar los datos “Type of service”, “Size of vehicle” y “Complete documentation”, luego le aparecerán los conductores correspondientes. Presionando la flecha le aparecerá su información del conductor para poder contratarlo, luego presionamos “Contract” aparecerá otro formulario de “Request service” tras completarlo y presionar “SUBMIT” aparece un recuadro indicándonos “The driver has been notified” presionamos “Accept” y será realizado así el contrato.
 
 Wireflow 16: Navegación en “Contracts”
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/215888ee-e9de-48fd-9b40-3ed7a19cb7a6)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/215888ee-e9de-48fd-9b40-3ed7a19cb7a6?raw=true)
 En la sección podrá navegar por las diversas secciones Pending contracts y History.
 
 Wireflow 17: Navegación en “Support”
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/354c71d6-d460-44f3-b2d2-6ac3f09fc47f)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/354c71d6-d460-44f3-b2d2-6ac3f09fc47f?raw=true)
 El cliente para que pueda llegar a soporte al cliente debe presionar “Support” en donde le llevará a la sección al soporte al cliente.
 
 Wireflow 18: Cerrar sesión
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/67731f96-2b57-4a3b-b81a-e7ba29ed24ce)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/67731f96-2b57-4a3b-b81a-e7ba29ed24ce?raw=true)
 Para Cerrar sesión presiona su nombre y aparece el botón “Log Out” el cual le permitirá cerrar su sesión.
 
 ### 4.4.3. Web Applications Mock-ups.
 
 Las siguientes imágenes corresponden a los mock-ups de la web application. El link para visualizarlo a mayor detalle es el siguiente: 
 https://www.figma.com/file/ipzddVXEuU5ee0IHE0hLyv/Open-source?node-id=1%3A3 
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/edfb0bf8-bc0a-450c-b0d2-3327688ab431)
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/27c74ec8-b643-43f3-8978-d60a608a9a74)
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/6206f29a-500a-47f1-b9f8-6f84b25f2b63)
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/552a7070-0a6e-44d3-8167-8ed5ff9a14ca)
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/fa5a345f-b134-4564-bec4-d9ab4630c9bc)
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/f3d90659-7375-416d-8cd4-6c2e6ea7b0f0)
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/bb4db179-40fa-4ba8-9be3-cabbc4e00cc8)
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/2a74d8ce-6c47-4432-81fb-160557bf5747)
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/f18482ce-60af-4db1-a1a9-969f53d77009)
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/de76c465-6789-46dc-8289-067e6a4af47f)
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/fcd36647-5c82-4c31-8a4f-a4e9e4b526ee)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/edfb0bf8-bc0a-450c-b0d2-3327688ab431?raw=true)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/27c74ec8-b643-43f3-8978-d60a608a9a74?raw=true)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/6206f29a-500a-47f1-b9f8-6f84b25f2b63?raw=true)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/552a7070-0a6e-44d3-8167-8ed5ff9a14ca?raw=true)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/fa5a345f-b134-4564-bec4-d9ab4630c9bc?raw=true)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/f3d90659-7375-416d-8cd4-6c2e6ea7b0f0?raw=true)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/bb4db179-40fa-4ba8-9be3-cabbc4e00cc8?raw=true)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/2a74d8ce-6c47-4432-81fb-160557bf5747?raw=true)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/f18482ce-60af-4db1-a1a9-969f53d77009?raw=true)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/de76c465-6789-46dc-8289-067e6a4af47f?raw=true)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/fcd36647-5c82-4c31-8a4f-a4e9e4b526ee?raw=true)
 
 ### 4.4.4. Web Applications User Flow Diagrams.
 
@@ -939,82 +939,82 @@ Link a la herramienta Overflow: https://overflow.io/s/85R4PMQT
 Interfaz de Entrada
 
 Wireflow 1: Registro de Usuario
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/0c472390-2ca7-4d4a-9dd6-d78e82ee4a35)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/0c472390-2ca7-4d4a-9dd6-d78e82ee4a35?raw=true)
 Para registrarse el usuario deberá presionar “Create Acount” lo cual le aparecerá un formulario. Tras completarlo, presiona “Continue”, aparece un formulario de datos personales. Luego de completarlo, presiona “Continue”. Finalmente, ya está registrado.
 
 Wireflow 2: Recuperar contraseña
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/ea92d03e-d5d4-473f-b7ea-17c71c6812b6)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/ea92d03e-d5d4-473f-b7ea-17c71c6812b6?raw=true)
 Para recuperar la contraseña deberá presionar “Forgot your Password?”, lo cual le pedirá el correo correspondiente, presiono “Continue”. Aparecerá un formulario de cambio de contraseña y una vez presionado “Confrim”, realizando la actualización de la contraseña. 
 Interfaz de Transportistas
 
 Wireflow 3: Ingreso de Transportista
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/6ef8b56d-b83a-4ddf-9610-96649cea7591)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/6ef8b56d-b83a-4ddf-9610-96649cea7591?raw=true)
 Una vez registrado el transportista ingresa sus datos y presiona “Login to your accout”. Y así mostrando la interfaz del transportista.
 
 Wireflow 4: Navegar en “My Profile”
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/90602bfe-51ec-4625-8a51-3de9b585e77a)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/90602bfe-51ec-4625-8a51-3de9b585e77a?raw=true)
 El Cliente podrá ingresar a su perfil por el botón “My Profile” y podrá navegar “Personal Information”, “Experiencie”, “About the Vehicle” y “Comments”
 
 Wireflow 5: Navegación de “Contracts”
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/9a30e3ce-c8c1-46dc-98b5-fbb762fe9439)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/9a30e3ce-c8c1-46dc-98b5-fbb762fe9439?raw=true)
 El transportista podrá navegar por los diferentes secciones de “Contracts” y el cual podrá navegar por “Offers”, “Pending Contracts” y “Hystory”
 
 Wireflow 6: Aceptar/Rechazar ofertas de Trabajo
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/c7ff87c1-9e58-4051-8f4a-d00aa875d047)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/c7ff87c1-9e58-4051-8f4a-d00aa875d047?raw=true)
 El transportista en “Offers” podrá Aceptar con el botón “Accept” y rechazar con el botón “Decline” y el cual informará la realización de su decisión, luego de presionar “Accept” regresará a la sección “Offers” mostrándole las ofertas disponibles.
 
 Wireflow 7: Soporte al cliente
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/1612f766-9c1e-4918-b8f3-f00942bae3e1)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/1612f766-9c1e-4918-b8f3-f00942bae3e1?raw=true)
 
 El transportista para que pueda llegar a soporte al cliente debe presionar “Support” en donde le llevará a la sección al soporte al cliente.
 
 Wireflow 8: Notificación de oferta de Trabajo
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/aaecf9d0-527a-487e-bfbe-98ff8b9a81cd)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/aaecf9d0-527a-487e-bfbe-98ff8b9a81cd?raw=true)
 El Transportista podrá revisar las ofertas desde el icono de notificaciones y al presionar “See more details” podrá observar todas las ofertas que este posee.
 
 Wireflow 9: Contrato Finalizado
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/c5dc59b4-66fd-4a1d-a328-4c2e260411cf)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/c5dc59b4-66fd-4a1d-a328-4c2e260411cf?raw=true)
 Después de finalizar concluir servicio, aparecerá una notificación de contrato finalizado y luego de presionar “Details” aparecerá un formulario para realizar el pago el cual al presionar “Cancel” regresará a la pantalla con la notificación que debe de cancelar, por otro lado al presionar “ACCEPT AND CONFIRM” le aparecerá un recuadro que el pago será realizado en las 24 horas y al presionar “Accept” regresará a la pantalla principal.
 
 Wireflow 10: Cerrar Sesión
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/2d7886dc-2a77-4231-9a99-ec4f07959639)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/2d7886dc-2a77-4231-9a99-ec4f07959639?raw=true)
 Para Cerrar Sesión presiona su nombre y aparece el botón “Log Out” el cual le permitirá cerrar su sesión.
 
 Interfaz de Cliente
 
 Wireflow 11: Ingreso de Cliente
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/da29d0f7-f925-4e0e-aeec-686517c654fb)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/da29d0f7-f925-4e0e-aeec-686517c654fb?raw=true)
 Una vez registrado el cliente ingresa sus datos y presiona “Login to your accout”. Y así mostrando la interfaz del cliente.
 
 Wireflow 12: Ingresar en “My Profile”
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/724b6706-3129-49dc-85a5-3a79503b3b13)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/724b6706-3129-49dc-85a5-3a79503b3b13?raw=true)
 
 El Cliente podrá ingresar a su perfil por el botón “My Profile” y podrá editar su información 
 
 Wireflow 13: Contrato Rechazado
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/2079d994-e595-4a01-bebd-f2156926d080)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/2079d994-e595-4a01-bebd-f2156926d080?raw=true)
 Cuando le rechazan un contrato, le aparecerá una notificación al presionar la campana.
 
 Wireflow 14: Realizar Depósito
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/e89cc294-8329-4ba4-8305-fd2dc3ec4a34)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/e89cc294-8329-4ba4-8305-fd2dc3ec4a34?raw=true)
 Al haber terminado el servicio le aparecerá una notificación en la campana, luego de presionar “See more details ” le presentará un formulario de cancelación al cual podrá completarlo
 
 Wireflow 15: Contratar conductor
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b6556198-5ec0-4da8-8cbd-df8bbabfad06)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b6556198-5ec0-4da8-8cbd-df8bbabfad06?raw=true)
 
 Para contratar a un conductor se presiona “Seach Vehicles”, el cual le aparecerá un formulario que deberá completar los datos “Type of service”, “Size of vehicle” y “Complete documentation”, luego le aparecerán los conductores correspondientes. Presionando la flecha le aparecerá su información del conductor para poder contratarlo, luego presionamos “Contract” aparecerá otro formulario de “Request service” tras completarlo y presionar “SUBMIT” aparece un recuadro indicándonos “The driver has been notified” presionamos “Accept” y será realizado así el contrato.
 
 Wireflow 16: Navegación en “Contracts”
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/0a78b112-0ec9-462f-8799-aae09a2d43fd)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/0a78b112-0ec9-462f-8799-aae09a2d43fd?raw=true)
 En la sección podrá navegar por las diversas secciones Pending contracts y History.
 
 Wireflow 17: Navegación en “Support”
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/4cefe517-fded-4a56-99d6-21891b4b02e7)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/4cefe517-fded-4a56-99d6-21891b4b02e7?raw=true)
 
 El cliente para que pueda llegar a soporte al cliente debe presionar “Support” en donde le llevará a la sección al soporte al cliente.
 
 Wireflow 18: Cerrar Sección 
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/1e31dba6-8835-4acc-96b1-c77ba45bacee)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/1e31dba6-8835-4acc-96b1-c77ba45bacee?raw=true)
 Para Cerrar Sesión presiona su nombre y aparece el botón “Log Out” el cual le permitirá cerrar su sesión.
 
 ## 4.5. Web Applications Prototyping.
@@ -1022,7 +1022,7 @@ Para Cerrar Sesión presiona su nombre y aparece el botón “Log Out” el cual
 El siguiente diagrama corresponde a una captura de pantalla del web application prototyping realizado en la herramienta online Figma. Para una mejor visualización es recomendable visitar el siguiente link: https://www.figma.com/proto/ipzddVXEuU5ee0IHE0hLyv/Open-source?page-id=1%3A3&node-id=98%3A392&viewport=328%2C118%2C0.07&scaling=min-zoom&starting-point-node-id=98%3A392 
 Figura 26
 Web Applications Prototyping
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/26e4bc79-b91d-40eb-8942-7ba628a8db22)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/26e4bc79-b91d-40eb-8942-7ba628a8db22?raw=true)
 Link del vídeo mostrando el prototipo: https://web.microsoftstream.com/video/8e734b84-b288-4595-89e7-5385d2618d73 
 
 ## 4.6. Domain-Driven Software Architecture.
@@ -1033,31 +1033,31 @@ En esta sección se presentará lo relacionado al domain-driven software archite
 
 Figura 27
 Context Diagram de FlashPorte
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/577ea050-7f1e-4675-860d-90fe58f47d7d)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/577ea050-7f1e-4675-860d-90fe58f47d7d?raw=true)
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
 Figura 28
 Container Diagram de FlashPorte
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/2d7123f5-b315-46a8-869e-79d9573857cc)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/2d7123f5-b315-46a8-869e-79d9573857cc?raw=true)
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
 Figura 29
 Primer Component Diagram de FlashPorte
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/1accd28e-56ac-4ffc-a21a-e5aa791097cc)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/1accd28e-56ac-4ffc-a21a-e5aa791097cc?raw=true)
 
 Figura 30    
 Segundo Component Diagram de FlashPorte
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/22c3de16-acdb-42a5-ac63-b795c727f304)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/22c3de16-acdb-42a5-ac63-b795c727f304?raw=true)
 
 Figura 31
 Tercer Component Diagram de FlashPorte
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/22989ba2-9a49-41d2-b65b-d6f5dd2198de)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/22989ba2-9a49-41d2-b65b-d6f5dd2198de?raw=true)
 
 Figura 32
 Cuarto Component Diagram de FlashPorte
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b45740bd-2217-4c8a-b74b-8fd22504fa82)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b45740bd-2217-4c8a-b74b-8fd22504fa82?raw=true)
 
 ## 4.7. Software Object-Oriented Design.
 
@@ -1070,17 +1070,17 @@ Link directo a la imagen: https://drive.google.com/file/d/1MYmc2zjEaQyPoKPaLiCF_
 
 Figura 33
 Class Diagram de FlashPorte
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b7aeda1e-b9ec-4dc1-8ad3-364d5351cdf3)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b7aeda1e-b9ec-4dc1-8ad3-364d5351cdf3?raw=true)
 
 ### 4.7.2.    Class Dictionary.
 
 En la siguiente tabla mostramos el diccionario de clases.
 Tabla 9
 Desarrollo del Class Dictionary
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/e1cbab88-c170-41a1-a700-aaeb7100ebf4)
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/53ee3ce5-3194-4b0f-a91c-186fec308262)
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/34b93762-8e3c-47ad-bbd6-43e9640243de)
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/c3889ab2-e000-4e93-bce1-82e37db07c6d)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/e1cbab88-c170-41a1-a700-aaeb7100ebf4?raw=true)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/53ee3ce5-3194-4b0f-a91c-186fec308262?raw=true)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/34b93762-8e3c-47ad-bbd6-43e9640243de?raw=true)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/c3889ab2-e000-4e93-bce1-82e37db07c6d?raw=true)
 
 ## 4.8.    Database Design.
 
@@ -1094,7 +1094,7 @@ Link directo a la imagen: https://drive.google.com/file/d/1W_drbr_RC6Fkv_fqRiMI3
 
 Figura 34
 Database Diagram de FlashPorte
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/f96de7b4-1ea0-48ba-9154-44ae954af30d)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/f96de7b4-1ea0-48ba-9154-44ae954af30d?raw=true)
 
 # CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
 
@@ -1109,7 +1109,7 @@ Se emplearon programas que posibilitan la comunicación instantánea y la colabo
 
 **→Product UX/UI Design**
 Se utilizaron Miro y UXPressia para llevar a cabo todo lo relacionado con la identificación de los segmentos objetivo y la creación de sus mapas. También se aprovecharon estas herramientas en línea para elaborar los mapas de escenarios "As-Is" y "To-Be". En cuanto a la creación de los bocetos, estructuras de alambre y diagramas de flujo, así como el prototipo de la aplicación web, se optó por Figma.
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/b7326022-8777-4dac-ae13-d11330ed6a69)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/b7326022-8777-4dac-ae13-d11330ed6a69?raw=true)
 
 **→Software Development**
 Para el desarrollo del software del presente proyecto se emplearon las siguientes herramientas:
@@ -1145,7 +1145,7 @@ En la documentación del software, al emplear HTML para crear la Landing Page, n
 
 *Feature:*Cada integrante tendrá su propia rama individual donde cargarán las secciones de código asignadas para la funcionalidad específica. Cada una de estas ramas se integrará con la rama "develop".
 
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/c5c093b6-467e-4e20-a5b0-a54690fea091)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/c5c093b6-467e-4e20-a5b0-a54690fea091?raw=true)
 
 Con respecto a la convención que tendrán los features branches será la siguiente:
 
@@ -1182,13 +1182,13 @@ Las convenciones en HTML son absolutamente necesarias para lograr obtener un có
 
 →    Declarar siempre el tipo de documento: Se debe declarar siempre el tipo de documento en la primera línea del código. 
 
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/369a6eaf-4b95-4b04-97ab-6657e01f113f)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/369a6eaf-4b95-4b04-97ab-6657e01f113f?raw=true)
 
 →    Usar nombres de elementos en minúscula: A pesar de que HTML permite mezclar mayúsculas y minúsculas, resulta ser una buena práctica escribir todos los elementos en minúsculas. Debido a que es más sencillo de escribir y es una práctica adoptada por la mayoría de los programadores. 
 
-Correcto : ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/8c24ee6a-16ca-4079-8818-4898135b10f8)
+Correcto : ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/8c24ee6a-16ca-4079-8818-4898135b10f8?raw=true)
 
-Incorrecto : ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/d3cd1dde-e1ce-4dfb-ba75-bb323f56a87b)
+Incorrecto : ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/d3cd1dde-e1ce-4dfb-ba75-bb323f56a87b?raw=true)
 
 →    Cerrar todos los elementos HTML: No es necesario cerrar todos los elementos, existen excepciones como el elemento <p>. Sin embargo, al igual que la convención anterior resulta ser una buena práctica realizarlo.  
 
@@ -1202,21 +1202,21 @@ Incorrecto : ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/Pro
 
 →    Utilizar nombres de clase significativos, que realmente reflejen el propósito del elemento.
 
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/1fc7295a-d4d8-4886-b354-de01de7d17ea)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/1fc7295a-d4d8-4886-b354-de01de7d17ea?raw=true)
 
 →    Utilizar un espacio, después de los dos puntos del nombre de una propiedad. 
 
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/75d83928-f127-4b14-966e-6ec5475327dd)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/75d83928-f127-4b14-966e-6ec5475327dd?raw=true)
 
 →    Separar las reglas, mediante una línea en blanco. 
 
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/9bbd13e6-fd0e-4785-9192-436e1f1a29ee)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/9bbd13e6-fd0e-4785-9192-436e1f1a29ee?raw=true)
 
 *JAVASCRIPT*
 
 →    Utilizar camelCase para la nomenclatura: Es una práctica usada por la mayoría de los programadores en JavaScript.
 
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/5d3049da-8d32-4267-93b0-62923a51af05)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/5d3049da-8d32-4267-93b0-62923a51af05?raw=true)
 
 →    Terminar siempre una declaración con punto y coma.
 
@@ -1259,11 +1259,11 @@ Para los archivos. feature se utilizó el lenguaje Gherkin.
 
 →    Contar con bloques discernibles de Given-When-Then, los cuales terminaran aplicando el And y un espacio, para tener una fácil detección de donde termina y donde comienza un bloque. 
 
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/d77b48a4-e224-4dfd-a3f3-e9314b76a6d2)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/d77b48a4-e224-4dfd-a3f3-e9314b76a6d2?raw=true)
 
 →    Utilizar comillas simples, para poder identificar los parámetros en un paso.
 
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/e09bf117-0132-4768-8620-1524ba77d129)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/e09bf117-0132-4768-8620-1524ba77d129?raw=true)
 
 ### 5.1.4. Software Deployment Configuration.
 
@@ -1303,19 +1303,19 @@ En el presente apartado se registro el avance del trabajo colaborativo.
 
 #### 5.2.1.1. Sprint Backlog 1.
 
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/2d16cf9d-a99d-4d17-9673-5bb60be054ab)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/2d16cf9d-a99d-4d17-9673-5bb60be054ab?raw=true)
 
 #### 5.2.1.2. Development Evidence for Sprint Review.
 
 Los logros más destacados en la fase de implementación durante este primer sprint son la creación de la versión inicial de nuestro landing page. Además, hemos completado la elaboración de los wireframes, mock-ups y prototipos de nuestra aplicación web.
 
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/7d1e122b-2f6f-4afa-9677-9c861c57f19f)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/7d1e122b-2f6f-4afa-9677-9c861c57f19f?raw=true)
 
 #### 5.2.1.3. Testing Suite Evidence for Sprint Review.
 
 En este contexto, hemos llevado a cabo las pruebas de aceptación utilizando el lenguaje Gherkin y las hemos cargado en el repositorio. Cada prueba de aceptación incluye la historia de usuario junto con los criterios de aceptación correspondientes para cada escenario propuesto. También hemos adjuntado capturas de las pruebas de aceptación realizadas y las hemos subido a GitHub.
 
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/ba01f9ff-e056-4b5c-b3db-c9458e10ebb7)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/ba01f9ff-e056-4b5c-b3db-c9458e10ebb7?raw=true)
 
 #### 5.2.1.4. Execution Evidence for Sprint Review.
 
@@ -1327,11 +1327,11 @@ Durante este primer sprint, en términos generales, hemos alcanzado los siguient
 -Despliegue del landing page adaptable en GitHub Pages.
 -Diseño de maquetas visuales para las diversas pantallas del prototipo de la aplicación web.
 
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/02a1ca42-40ce-45fc-89b8-702f9aad0409)
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/059153b5-e42d-4594-b639-6d2220ed8c15)
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/e1f1b6b5-4a96-4b9e-b3b1-7a8e442f14ee)
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/8186dfa4-5fbb-47c1-aa2b-23cfea896af1)
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/f525bd0a-78a9-40a2-bc67-5d600778d348)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/02a1ca42-40ce-45fc-89b8-702f9aad0409?raw=true)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/059153b5-e42d-4594-b639-6d2220ed8c15?raw=true)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/e1f1b6b5-4a96-4b9e-b3b1-7a8e442f14ee?raw=true)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/8186dfa4-5fbb-47c1-aa2b-23cfea896af1?raw=true)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/f525bd0a-78a9-40a2-bc67-5d600778d348?raw=true)
 
 #### 5.2.1.5. Services Documentation Evidence for Sprint Review
 
@@ -1342,16 +1342,16 @@ Durante este primer sprint, no se ha llevado a cabo ninguna implementación rela
 Durante este primer sprint, hemos logrado completar de manera exitosa la creación de los wireframes, mock-ups y prototipo de nuestra aplicación web. Además, hemos llevado a cabo la elaboración y el despliegue de nuestra landing page, que está relacionada con el producto que estamos proponiendo, FlashPorte. Para alcanzar este último objetivo, hemos realizado las siguientes acciones:
 
 - Creación de un repositorio en GitHub con el nombre “landing-page”
-  ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/256ea4f7-9df1-4757-950c-cd3c3a5fdca9)
+  ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/256ea4f7-9df1-4757-950c-cd3c3a5fdca9?raw=true)
 
 - Crear las ramas correspondientes al gitflow 
-  ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/4d816452-5acd-4bad-91d5-73aaf693fbb3)
+  ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/4d816452-5acd-4bad-91d5-73aaf693fbb3?raw=true)
 
 - Nos dirigimos a “settings” en el apartado “Pages”
-  ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/a9e60cab-81eb-4bb9-a173-f74d05b5def2)
+  ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/a9e60cab-81eb-4bb9-a173-f74d05b5def2?raw=true)
 
 - Configuramos de esta manera y le damos en “save”: 
-  ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/c36cf071-b074-45ae-834a-dc9f428101b5)
+  ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/c36cf071-b074-45ae-834a-dc9f428101b5?raw=true)
 
 - Nos generará un link y con ello ya tendremos desplegada la landing page. Con ese link podremos ver las actualizaciones hechas en la rama develop. 
 
@@ -1361,11 +1361,11 @@ Para la creación de nuestro prototipo, hemos empleado la herramienta Figma, que
 
 Por otro lado, para desarrollar el landing page, hemos utilizado un repositorio en GitHub. En colaboración con el flujo de trabajo Gitflow, hemos implementado de manera conjunta el desarrollo de nuestro landing page. Esto se refleja en los diversos commits realizados en el repositorio, los cuales pueden observarse en las capturas de pantalla adjuntas.
 
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b805477a-81d7-4480-8ead-fea7aa95aea9)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/b805477a-81d7-4480-8ead-fea7aa95aea9?raw=true)
 
 En lo que respecta a la coordinación dentro del equipo, hemos establecido reuniones regulares para discutir las responsabilidades asignadas y distribuir las tareas correspondientes. Esta práctica nos ha permitido mejorar nuestra comunicación y tener una comprensión clara de las responsabilidades individuales. En lo que concierne al desarrollo del código, hemos adoptado un enfoque de segmentación, de manera que cada miembro del equipo se encarga de una sección específica del landing page. Esto facilita una transición fluida entre las partes, ya que el siguiente miembro en la secuencia puede continuar sin problemas. Por último, hemos fomentado un ambiente en el que compartimos ideas y resolvemos dudas de manera regular, lo que ha contribuido a mantenernos actualizados y en sintonía a lo largo del proceso de trabajo.
 
-![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/5cd24615-be4b-4f01-b16c-571370c34b67)
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/5cd24615-be4b-4f01-b16c-571370c34b67?raw=true)
 
 ## CONCLUSIONES:
 
