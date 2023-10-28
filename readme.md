@@ -452,6 +452,23 @@ En una conversación con Alex Ganoza Condori, un dedicado padre de familia de 34
 
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/77073119-2475-46f8-a62f-3e871e152600)
 
+c.    Segunda entrevista:
+
+o    Entrevistado:  Santiago Alvaro
+
+o    Edad: 29 años
+
+o    Residencia:  San Martin de Porres
+
+o    Ocupación: Transportista
+
+o    Entrevistador: Jean-Patrick Yemsi
+
+En la entrevista con Santiago Álvaro, un transportista de 29 años de San Martín de Porres con dos vehículos, un camión de carga y un automóvil sedán, expresó su interés en encontrar una manera más sencilla de acceder a trabajos de transporte de inmuebles y mercancía, que generalmente ofrecen mejores pagos. Está ansioso por utilizar una aplicación que le permita contactar directamente con los clientes y concretar trabajos. Santiago busca mejorar sus oportunidades en el sector del transporte y está enfocado en la eficiencia y la conectividad con los clientes para lograrlo.
+
+![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/102174297/4977505d-33cb-4847-b117-a1e34e8c7b3d)
+
+
 ### Analisis de entrevistas
 
 ![](img/entrevista-table.png)
