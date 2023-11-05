@@ -1387,7 +1387,23 @@ En lo que respecta a la coordinación dentro del equipo, hemos establecido reuni
 
 ### 5.2.3. Sprint 3
 
-#### 5.2.3.1 Sprint Planning 3.
+#### 5.2.3.1 Sprint Planning 3
+
+| **Sprint 3** | |
+|:---: | :---| 
+| | **Sprint planning background** |   
+| Date | 4/11/23 |
+| Time | 08:00 PM |
+| Location | Google Meet - Virtual Meeting |
+| Prepared by | Bernuy, Caroline |
+| Attendees to meeting | Sanchez, Patrick / Martinez, Mariela / Tasayco, Damaris / Del Aguila ,Jack |
+| Sprint 3 Review Summary | Se realizo el sprint 3, se mejoro el codigo y se trato de terminar el aspecto front-end de la aplicación |
+| Sprint 3 Retrospective Summary | Se trabajo fluidamente, participando todos por igual en la realización del proyecto, más en la opinión del grupo creemos que pudimos haber terminado más partes del front-end. |
+| | **Sprint Goal & User Stories** |
+| Sprint & Goal | El objetivo del Sprint 3 sera terminar Frontend de la applicación, asi como avanzar el back-end hasta un punto funcional que podamos completar el siguiente sprint. |
+| Sprint & Velocity | Debido al alcanze establecido para este sprint, el Velocity establecido para este sprint es 39 |
+| Sum of Story Point | La suma de Story points que el equipo estara desarrollano este sprint es 39 |
+
 #### 5.2.3.2. Sprint Backlog 3.
 #### 5.2.3.3. Development Evidence for Sprint Review.
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
