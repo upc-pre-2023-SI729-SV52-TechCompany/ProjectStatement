@@ -1391,10 +1391,55 @@ En lo que respecta a la coordinación dentro del equipo, hemos establecido reuni
 #### 5.2.3.2. Sprint Backlog 3.
 #### 5.2.3.3. Development Evidence for Sprint Review.
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
-#### 5.2.3.5. Execution Evidence for Sprint Review.
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+Durante este tercer sprint, en términos generales, hemos alcanzado los siguientes hitos:
+
+- Establecimiento de múltiples archivos(frontend, backend, informes) en la organización de nuestro GitHub. 
+- Elaboración del frontend(home, profile, contracts, search-vehicle, vehicle-reservation, support)
+- Despliegue del fronted de FlashPorte
+
+**Trabajadores**
+![]()
+![Homeworkers](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/home-workers.jpg?raw=true)
+![Profileworkers](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/profile-workers.jpg?raw=true)
+![Settingsworkers](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/settings-workers.jpg?raw=true)
+![Contractsworkers](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/contracts-workers.jpg?raw=true)
+![Supportworkers](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/support-workers.jpg?raw=true)
+
+
+**Clientes**
+![]()
+![Homeclients](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/home-clients.jpg?raw=true)
+![Profileclients](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/profile-clients.jpg?raw=true)
+![Searchvehicles](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/search-vehicle-clients.jpg?raw=true)
+![Vehiclesreservation](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/vehiclereservation-clients.jpg?raw=true)
+![Reseñaclients](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/rese%C3%B1a-clients.jpg?raw=true)
+![Contractsclients](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/contracts-clients.jpg?raw=true)
+![Supportclients](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/support-clients.jpg?raw=true)
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
-#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
-#### 5.2.3.8. Team Collaboration Insights during Sprint.
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+La aplicación Frontend desplegada se encuentra en el siguiente enlace :  
+[https://fastporte-ccb38.web.app/](https://fastporte-ccb38.web.app),   
+*más para su correcto funcionamiento esta entrega, se necesita desplegar el servidor json-server de nuestro archivo db.json, el cual se encuentra en el repositorio FlashPorte de esta organización
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+**Gitflow**
+
+Durante este sprint, nuestra colaboración como equipo se destacó por una organización eficiente en nuestro repositorio de GitHub. Decidimos establecer un proceso sólido para gestionar nuestros commits y ramas, lo que contribuyó significativamente al flujo de trabajo. En primer lugar, designamos una rama fundamental: "main". La rama "main" se reservó para el informe final y el proyecto completo, listo para su presentación en esta entrega. Fue en esta rama donde reunimos y fusionamos todas las contribuciones individuales de los miembros del equipo. Además, cada integrante tuvo su propia rama personalizada cuyo formato de nombre es "chapter n°/feature", esta organización garantizó que cada integrante tuviera su propio espacio para trabajar de manera efectiva y mantener un registro claro de sus aportaciones al proyecto en un entorno de colaboración sin problemas. Durante el proceso, establecimos una rutina de reuniones periódicas y commits en días específicos, asegurándonos de que cada miembro aportara de manera equitativa. Este enfoque en la organización y la colaboración efectiva fue fundamental para el éxito de nuestro proyecto en este sprint.
+En adicion a ello, se tiene que tener en cuenta que en este sprint se ha agregado una rama llamada Leonardo/feature, ya que Leonardo es nuevo miembro del equipo y tambien requeria de su espacio personal para trabajar en el repositorio.
+
+![Feature1](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/featurechapter1.jpg?raw=true)
+![Feature2](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/featurechapter2.jpg?raw=true)
+![Feature3](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/featurechapter3.jpg?raw=true)
+![Feature4](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/featurechapter4.jpg?raw=true)
+![Feature5](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/featurechapter5.jpg?raw=true)
+![Formato](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/formato.jpg?raw=true)
+![Commit](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/Commits.jpg?raw=true)
+
 ## 5.3. Validation Interviews
 
 ### 5.3.1. Diseño de Entrevistas
@@ -1441,10 +1486,15 @@ En lo que respecta a la coordinación dentro del equipo, hemos establecido reuni
 
 ***Individuos de 18 a 50 años*** 
 1.- Primera Entrevista:
+
 Nombre y apellido: Damaris Tasayco
+
 Edad: 50
+
 Distrito: Lima
+
 Duración: 13:38min
+
 Link de la entrevista: https://youtu.be/G2K3Ac0Lm64
 
 ![EntrevistaValidation-client](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/Entrevista_cliente.jpg?raw=true)
