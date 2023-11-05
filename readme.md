@@ -1385,6 +1385,73 @@ En lo que respecta a la coordinación dentro del equipo, hemos establecido reuni
 
 ![image](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/assets/118797651/5cd24615-be4b-4f01-b16c-571370c34b67)
 
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1 Sprint Planning 3.
+#### 5.2.3.2. Sprint Backlog 3.
+#### 5.2.3.3. Development Evidence for Sprint Review.
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+## 5.3. Validation Interviews
+
+### 5.3.1. Diseño de Entrevistas
+
+**Segmento de individuos de 18 a 50 años, peruanos:**
+1.- ¿Cómo describirías tu experiencia al navegar en “FlashPorte”?
+
+2.- ¿Qué características de la aplicación encontraste más útiles?
+
+3.- ¿Qué característica o herramienta sentiste que faltaba o que te hubiera gustado ver en “FlashPorte”?
+
+4.- ¿Consideras que se proporciona suficiente información sobre los trabajadores que deseas reservar?¿Considera alguna característica faltante?
+
+5.- ¿Tuvo alguna experiencia negativa o desafío al buscar una herramienta/funcionalidad?. Descríbala.
+
+6.- ¿Considera que la manera de búsqueda de trabajadores mediante tablas, logró satisfacer su búsqueda de manera ágil y satisfactoria?
+
+7.- ¿Qué recomendaciones nos brindarías para mejorar la experiencia de usuario, de modo que la aplicación sea más fácil de usar? 
+
+8.- ¿Recomendaría “Flashporte” a otras personas que desean solicitar el servicio de transporte?¿Por qué?
+
+**Segmento de empresas de mudanza/transporte:**
+1.- ¿Qué piensa sobre la experiencia de navegación brindada por FlashPorte?
+
+2.- ¿Considera que brindamos suficiente información para que los trabajadores puedan guiarse y entender las funciones de la app?
+
+3.- ¿Qué tipo de información adicional le gustaría que estuviera disponible en las descripciones de los trabajadores?
+
+4.- ¿Cómo considera que la función de historial de reservas o contratos podría mejorar su capacidad de seguimiento y gestión de mudanzas?
+
+5.- ¿Piensa que la característica de reseña ubicado en la sección de profile, así como la ve, mejoraría la interacción entre el trabajador y sus clientes?
+
+6.- ¿Qué característica de la página encuentra usted más útil en cuanto a contribuir con el crecimiento de sus servicios?
+
+7.-¿Qué otras funcionalidades le gustaría ver o cree podrían mejorar en la aplicación web a futuro?
+
+8.- ¿Recomendarían nuestra aplicación web “FlashPorte" a otros trabajadores? ¿Por qué?
+
+### 5.3.2. Registro de Entrevistas
+
+***Representantes de Empresas:***  
+1. Primera Entrevista:
+2. Segunda Entrevista:
+
+***Individuos de 18 a 50 años*** 
+1.- Primera Entrevista:
+Nombre y apellido: Damaris Tasayco
+Edad: 50
+Distrito: Lima
+Duración: 13:38min
+Link de la entrevista: https://youtu.be/G2K3Ac0Lm64
+
+![EntrevistaValidation-client](https://github.com/upc-pre-2023-SI729-SV52-TechCompany/ProjectStatement/blob/main/img/Entrevista_cliente.jpg?raw=true)
+
+### 5.3.3. Evaluaciones según heurísticas
+## 5.4. Video About-the-Product
+
 ## CONCLUSIONES:
 
 El desarrollo del Lean UX Process ayudó a comprender mejor y aplicar efectivamente las herramientas en nuestra propuesta enfocada al servicio de transportistas hacia clientes. De la misma forma, contribuyó a definir de manera más clara nuestro público objetivo o llámese segmento hacia el cual va enfocada nuestra aplicación. 
